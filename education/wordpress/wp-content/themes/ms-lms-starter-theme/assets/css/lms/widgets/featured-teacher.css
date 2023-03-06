@@ -1,0 +1,24 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.theme-ms-lms-starter-theme .stm_lms_courses__single__inner {
+  overflow: hidden; }
+
+.theme-ms-lms-starter-theme .stm_lms_featured_teacher .stm_lms_featured_teacher_content a.btn.btn-default {
+  font-family: "Montserrat", "Open Sans";
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.24px;
+  background-color: #195EC8;
+  border-radius: 50px 50px 50px 50px;
+  padding: 18px 30px 18px 30px;
+  border: solid 2px #385bce; }
+  .theme-ms-lms-starter-theme .stm_lms_featured_teacher .stm_lms_featured_teacher_content a.btn.btn-default:hover {
+    color: #385bce;
+    background-color: #fff; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses__grid_found_1 {
+  margin-bottom: 0 !important; }

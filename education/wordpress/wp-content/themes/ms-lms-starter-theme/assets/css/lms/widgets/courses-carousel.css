@@ -1,0 +1,23 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.theme-ms-lms-starter-theme .stm_lms_courses_carousel {
+  position: relative; }
+  .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 110%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+    @media (max-width: 1030px) {
+      .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons {
+        display: none; } }
+    .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button_prev {
+      position: absolute;
+      left: 0; }
+    .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button_next {
+      position: absolute;
+      right: 0; }

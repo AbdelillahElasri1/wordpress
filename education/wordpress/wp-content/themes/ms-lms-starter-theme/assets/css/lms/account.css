@@ -1,0 +1,82 @@
+.theme-ms-lms-starter-theme .stm-lms-user-avatar-edit .avatar.photo {
+  max-width: 215px;
+  min-width: 215px;
+  max-height: 215px;
+  min-height: 215px; }
+
+.theme-ms-lms-starter-theme #stm-lms-register h3 {
+  margin-right: 15px;
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 30px; }
+
+.theme-ms-lms-starter-theme .vue_is_disabled {
+  display: flex; }
+
+.theme-ms-lms-starter-theme .elementor-widget-container .vue_is_disabled {
+  display: none; }
+
+.theme-ms-lms-starter-theme .stm_lms_demo_login a {
+  text-decoration: underline !important;
+  color: #195ec8; }
+
+.theme-ms-lms-starter-theme .stm-lms-login__top h3 {
+  margin-bottom: 30px;
+  margin-right: 15px;
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+@media (max-width: 1025px) {
+  .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button {
+    padding: 15px; } }
+
+.theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .login_name, .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .caret {
+  color: #333; }
+  @media (max-width: 1025px) {
+    .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .login_name, .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .caret {
+      display: none; } }
+
+@media (max-width: 1025px) {
+  .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown-menu {
+    right: 0;
+    left: auto; } }
+
+.theme-ms-lms-starter-theme .stm-lms-user_edit_profile_btn a span {
+  top: 0;
+  line-height: 26px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper .container select {
+  background-image: linear-gradient(45deg, transparent 50%, gray 50%), linear-gradient(135deg, gray 50%, transparent 50%), linear-gradient(to right, #ccc, #ccc);
+  background-position: calc(100% - 20px) calc(1em + 2px), calc(100% - 15px) calc(1em + 2px), calc(100% - 2.5em) 0.5em;
+  background-size: 5px 5px, 5px 5px, 1px 1.5em;
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  padding-right: 45px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper .stm-lms-upload-select__icon {
+  display: none; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper .starter-row {
+  display: block; }
+
+.theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social input, .theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social textarea {
+  border: none; }
+
+.theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social i.fa-key, .theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social i.fab {
+  top: 9px; }
+
+.theme-ms-lms-starter-theme .stm_lms_instructor_courses__single--status .stm_lms_instructor_courses__single--choice {
+  font-size: 12px; }
+
+.theme-ms-lms-starter-theme .elementor-widget-stm_lms_pro_site_authorization_links {
+  width: auto !important; }
+
+@media (max-width: 1025px) {
+  .theme-ms-lms-starter-theme .ms-lms-authorization-title {
+    display: none; } }

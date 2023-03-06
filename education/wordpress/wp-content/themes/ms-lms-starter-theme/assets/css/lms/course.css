@@ -1,0 +1,99 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.theme-ms-lms-starter-theme .stm_lms_questions_v2_wrapper .wpcfto_radio input {
+  min-height: auto !important; }
+
+.theme-ms-lms-starter-theme .stm_lms_questions_v2_wrapper .wpcfto_checkbox input {
+  min-height: auto !important; }
+
+.theme-ms-lms-starter-theme .stm-lms-buy-buttons .btn:not(.start-course).btn_big .btn-prices.btn-prices-price {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+
+.theme-ms-lms-starter-theme .stm-lms-buy-buttons .btn:not(.start-course).btn_big .btn-prices label.sale_price {
+  margin-right: 5px; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses_grid__sort select.no-search {
+  width: auto; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__title {
+  line-height: 45px;
+  word-spacing: -1px;
+  letter-spacing: -0.4px;
+  font-weight: 300;
+  font-size: 40px; }
+
+.theme-ms-lms-starter-theme .single_product_after_title .meta-unit .value {
+  color: #555; }
+
+.theme-ms-lms-starter-theme .stm_product_list_widget.widget_woo_stm_style_2 li a .meta .title {
+  font-family: "Montserrat", "Open Sans";
+  color: #273044;
+  font-size: 14px; }
+
+.theme-ms-lms-starter-theme .stm_product_list_widget li a img {
+  width: 75px;
+  height: 75px;
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+.theme-ms-lms-starter-theme .widget_stm_lms_popular_courses h3 {
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses__single--info_title h4 {
+  color: #273044; }
+  .theme-ms-lms-starter-theme .stm_lms_courses__single--info_title h4:hover {
+    color: #385bce; }
+
+.theme-ms-lms-starter-theme .stm_lms_related_courses h2 {
+  margin-bottom: 40px;
+  line-height: 38px;
+  letter-spacing: -0.4px;
+  font-weight: 300;
+  font-size: 32px; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses__single--title h5 {
+  font-weight: 500;
+  color: #273044; }
+
+.theme-ms-lms-starter-theme .stm-curriculum-section h3 {
+  margin: 45px 0 21px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-size: 24px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper {
+  padding: 50px 0 50px; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content h3 {
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content p {
+  margin: 0 0 35px;
+  font-size: 15px;
+  line-height: 30px;
+  color: #555; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content ul {
+  list-style-type: disc;
+  margin-left: 20px; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content li {
+  margin-bottom: 8px;
+  font-family: "Open Sans";
+  color: #273044;
+  font-size: 14px; }
+
+body .stm_metaboxes_grid .stm_metaboxes_grid__inner .stm-lms-questions-single.stm-lms-questions-image_match.list .actions .actions_single_info > span {
+  margin-left: 10px; }

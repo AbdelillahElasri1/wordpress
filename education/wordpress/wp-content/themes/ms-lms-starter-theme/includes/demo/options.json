@@ -1,0 +1,50 @@
+{
+    "main_color": "",
+    "secondary_color": "",
+    "currency_symbol": "",
+    "currency_position": "left",
+    "currency_thousands": ",",
+    "currency_decimals": ".",
+    "currency_decimals_number": "3",
+    "courses_page": "2",
+    "courses_view": "grid",
+    "courses_per_page": "12",
+    "payment_methods": {
+        "cash": {
+            "enabled": true,
+            "fields": {
+                "description": "Pay in our office"
+            }
+        },
+        "wire_transfer": {
+            "enabled": true,
+            "fields": {
+                "account_number": "",
+                "holder_name": "",
+                "bank_name": "",
+                "swift": "",
+                "description": "Pay via Wire Transfer"
+            }
+        },
+        "paypal": {
+            "enabled": true,
+            "fields": {
+                "paypal_email": "",
+                "currency_code": "",
+                "paypal_mode": "sandbox",
+                "description": ""
+            }
+        },
+        "stripe": {
+            "enabled": true,
+            "fields": {
+                "stripe_public_api_key": "",
+                "secret_key": "",
+                "description": "Stripe payment"
+            }
+        }
+    },
+    "recaptcha_site_key": "",
+    "recaptcha_private_key": "",
+    "enable_instructors": true
+}

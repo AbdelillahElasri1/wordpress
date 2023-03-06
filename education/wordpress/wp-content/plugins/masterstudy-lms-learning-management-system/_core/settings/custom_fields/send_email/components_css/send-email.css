@@ -1,0 +1,22 @@
+.stm_metaboxes_grid .stm_metaboxes_grid__inner .send-test-email-btn .installing, .stm_metaboxes_grid .stm_metaboxes_grid__inner .send-test-email-btn .downloaded {
+		display: none;
+}
+.send-test-email-btn {
+	border-top: 1px solid #d6dade;
+	margin: 10px 0;
+}
+.send-test-email-btn .button {
+	margin-top: 20px;
+}
+.stm_metaboxes_grid .stm_metaboxes_grid__inner .send-test-email-btn .button {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.stm_metaboxes_grid .stm_metaboxes_grid__inner .send-test-email-btn .button i {
+	margin: 0 0 0 10px;
+}
+.send-error-email-result {
+	color: red;
+	display: none;
+}

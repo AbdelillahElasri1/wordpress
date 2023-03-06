@@ -1,0 +1,198 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.single-post .single-post-thumbnail {
+  margin: 0.8em 0 1.25em; }
+
+.single-post .single-post__content {
+  margin-bottom: 73px; }
+  .single-post .single-post__content .single-post-title h1 {
+    margin-bottom: 27px !important; }
+  .single-post .single-post__content .single-post-excerpt {
+    margin-bottom: 42px;
+    line-height: 30px;
+    font-size: 18px; }
+  .single-post .single-post__content .single-post-content {
+    margin-bottom: 43px; }
+    .single-post .single-post__content .single-post-content .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 14px -5px 30px; }
+      .single-post .single-post__content .single-post-content .gallery .gallery-item {
+        flex: 50%;
+        padding: 0 5px;
+        margin-bottom: 10px; }
+    .single-post .single-post__content .single-post-content:after {
+      content: "";
+      display: table;
+      width: 100%;
+      clear: both; }
+
+.single-post .single-post-title h1 {
+  margin-bottom: 20px; }
+
+.single-post .single-post-content {
+  margin-top: 24px;
+  margin-bottom: 25px;
+  padding-bottom: 10px; }
+
+.single-post .post-tags-list {
+  padding: 30px 0;
+  border-top: 1px solid #cccccc;
+  margin: .8em 0 1.25em; }
+  .single-post .post-tags-list a {
+    display: inline-block;
+    padding: 5px 12px;
+    border: 1px solid #cccccc;
+    margin-bottom: .4em; }
+    .single-post .post-tags-list a:hover {
+      text-decoration: none;
+      background-color: #f0f0f0; }
+
+.single-post .single-post-author-bio {
+  padding: 5px;
+  border: 1px solid #cccccc;
+  display: flex;
+  margin: .8em 0 1.25em; }
+  .single-post .single-post-author-bio__avatar {
+    flex-shrink: 0;
+    padding: 10px; }
+  .single-post .single-post-author-bio__info {
+    flex-grow: 1;
+    padding: 10px; }
+  .single-post .single-post-author-bio__name {
+    font-size: 17px;
+    margin: 0 0 .5em; }
+
+.single-post .single-post-navigation {
+  display: block;
+  padding: 10px 0;
+  margin: .8em 0 1.25em; }
+  .single-post .single-post-navigation .nav-links {
+    display: flex;
+    justify-content: space-between; }
+
+.single-post .single-post__sidebar {
+  margin-bottom: 73px; }
+
+.single-post .single-post__after_content .after_content_wrap {
+  position: relative;
+  margin: 0 -5000px;
+  padding: 0 5000px 52px;
+  background-color: rgba(191, 191, 191, 0.2); }
+
+.single-post .post-password-form {
+  max-width: 550px;
+  padding: 15px 0; }
+  .single-post .post-password-form label {
+    display: block;
+    margin: 0.5em 0 1.25em; }
+
+.single-post .sidebar-position-left .stm-col-xl-9 {
+  order: 2; }
+
+.single-post .sidebar-position-left .stm-col-xl-3 {
+  order: 1; }
+
+@media (max-width: 1199px) {
+  .single-post .sidebar-position-left .stm-col-xl-9 {
+    order: 1; }
+  .single-post .sidebar-position-left .stm-col-xl-3 {
+    order: 2; } }
+
+@media (max-width: 991px) {
+  .single-post .container .starter-row {
+    display: flex; }
+    .single-post .container .starter-row .single-post__content {
+      order: 1; }
+      .single-post .container .starter-row .single-post__content .single-post-content {
+        margin-bottom: 12px; }
+    .single-post .container .starter-row .single-post__sidebar {
+      margin-bottom: 10px;
+      order: 4; }
+    .single-post .container .starter-row .single-post__after_content {
+      order: 2; }
+    .single-post .container .starter-row .single-post__related {
+      order: 3; } }
+
+@media (max-width: 767px) {
+  .single-post .container .starter-row .single-post__content .single-post-title {
+    text-align: center; } }
+
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.single-post .post-info {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #cccccc;
+  padding-top: 5px;
+  margin-bottom: 15px; }
+  .single-post .post-info__item {
+    margin-right: 35px;
+    margin-bottom: 12px;
+    font-size: 13px; }
+    .single-post .post-info__item:before {
+      font-family: 'Linearicons-Free';
+      display: inline-block;
+      vertical-align: middle;
+      margin-top: -2px;
+      margin-right: 4px;
+      font-size: 125%;
+      color: #385bce; }
+    .single-post .post-info__item.post-categories:before {
+      content: "\e828"; }
+    .single-post .post-info__item.post-author:before {
+      content: "\e82a"; }
+    .single-post .post-info__item.post-date:before {
+      content: "\e836"; }
+    .single-post .post-info__item.post-comment:before {
+      content: "\e83f"; }
+    .single-post .post-info__item a {
+      color: var(--text_color);
+      text-decoration: none; }
+      .single-post .post-info__item a:hover {
+        text-decoration: underline; }
+
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.post-category-list {
+  margin-bottom: 20px; }
+  .post-category-list a {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    padding: 3px 10px;
+    margin: 0 3px 11px 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #fff;
+    font-size: 12px; }
+    .post-category-list a:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #385bce;
+      transition: all 0.15s;
+      opacity: 0.8;
+      z-index: -1; }
+    .post-category-list a:hover {
+      text-decoration: none;
+      color: #fff; }
+      .post-category-list a:hover:after {
+        opacity: 1; }
+  @media (max-width: 767px) {
+    .post-category-list {
+      text-align: center; } }

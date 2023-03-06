@@ -1,0 +1,79 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.posts-template.post-layout-list .post {
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  display: flex; }
+  .posts-template.post-layout-list .post.sticky {
+    border-bottom: 2px solid #385bce;
+    margin-bottom: 30px;
+    padding-bottom: 15px; }
+  .posts-template.post-layout-list .post .post-thumbnail {
+    flex-shrink: 0;
+    padding: 12px 24px 10px 0; }
+  .posts-template.post-layout-list .post .post-main {
+    flex-grow: 1;
+    max-width: 100%; }
+  .posts-template.post-layout-list .post .post-sticky-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 5px;
+    background-color: #385bce;
+    margin-bottom: 12px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400; }
+  .posts-template.post-layout-list .post .post-title h2 {
+    font-size: 26px;
+    line-height: 1.5;
+    margin: 0 0 8px; }
+  .posts-template.post-layout-list .post .post-content p:first-child {
+    margin-top: 0; }
+  .posts-template.post-layout-list .post .post-content p:last-child {
+    margin-bottom: 1em; }
+  .posts-template.post-layout-list .post .post-info {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; }
+    .posts-template.post-layout-list .post .post-info__item {
+      display: inline-block;
+      margin-right: 28px;
+      margin-bottom: 8px;
+      font-size: 13px;
+      line-height: 1.7; }
+      .posts-template.post-layout-list .post .post-info__item:before {
+        font-family: 'Linearicons-Free';
+        display: inline-block;
+        vertical-align: middle;
+        margin-top: -2px;
+        margin-right: 4px;
+        font-size: 125%;
+        color: #385bce; }
+      .posts-template.post-layout-list .post .post-info__item.post-categories:before {
+        content: "\e828"; }
+      .posts-template.post-layout-list .post .post-info__item.post-author:before {
+        content: "\e82a"; }
+      .posts-template.post-layout-list .post .post-info__item.post-date:before {
+        content: "\e836"; }
+      .posts-template.post-layout-list .post .post-info__item.post-comment:before {
+        content: "\e83f"; }
+      .posts-template.post-layout-list .post .post-info__item a {
+        color: var(--text_color);
+        text-decoration: none; }
+        .posts-template.post-layout-list .post .post-info__item a:hover {
+          text-decoration: underline; }
+
+.posts-template .sidebar-position-left .stm-col-xl-9 {
+  order: 2; }
+
+.posts-template .sidebar-position-left .stm-col-xl-3 {
+  order: 1; }
+
+@media (max-width: 1199px) {
+  .posts-template .sidebar-position-left .stm-col-xl-9 {
+    order: 1; }
+  .posts-template .sidebar-position-left .stm-col-xl-3 {
+    order: 2; } }

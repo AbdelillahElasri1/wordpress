@@ -1,0 +1,159 @@
+span.hint--top {
+    pointer-events: none;
+}
+.starter-row {
+    display: flex;
+    margin: 10px;
+}
+
+.starter-column {
+    margin: 30px 30px 30px 0;
+}
+
+.starter-column img {
+    box-shadow: 0 3px 5px rgb(0 0 0 / 7%);
+    border-radius: 5px;
+    width: 100%;
+}
+
+.starter-column .logo img {
+    box-shadow: none;
+}
+
+.content {
+    width: 280px;
+    position: absolute;
+    margin: 80px 0 0 40px;
+}
+
+@media(max-width: 1300px ) and (min-width: 1200px) {
+    .starter-column .logo img {
+        width: 90%;
+    }
+    .content {
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    .text {
+        margin-right: 30px;
+    }
+}
+
+.has-content {
+    position: relative;
+}
+
+.logo, .text {
+    margin-bottom: 30px;
+}
+
+.starter-btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.documentation {
+    background: #227AFF;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+}
+
+.documentation svg {
+    width: 16px;
+    height: 16px;
+    fill: white;
+    margin-right: 5px;
+}
+
+.documentation:hover {
+    background: rgba(34, 122, 255, 0.75);
+    color: white;
+}
+
+.changelog {
+    background: #EEF1F7;
+    color: #4D5E6F;
+}
+
+.changelog:hover {
+    background: rgba(238, 241, 247, 0.62);
+    cursor: pointer;
+}
+
+@media (max-width: 1024px) {
+    .starter-row {
+        flex-direction: column;
+    }
+}
+
+.stm-loader-warning {
+    position: relative;
+    padding: 10px 15px 10px 30px;
+    background-color: white;
+    border-color: #227afb;
+}
+
+.stm-loader-warning p {
+    color: #222222;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.stm-loader-warning .stm_lms_install_button {
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+    background-color: #227afb;
+    color: #fff !important;
+    border-radius: 5px;
+    transition: .3s ease;
+    line-height: 1.3;
+    border-color: #227afb;
+}
+
+.stm_lms_install_button:hover {
+    background-color: #004ec4 !important;
+    border-color: #004ec4 !important;
+}
+
+.updating {
+    background-color: #004ec4 !important;
+    border-color: #004ec4 !important;
+}
+
+.notice-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inner-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.inner-wrapper img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+@media (max-width: 800px) {
+    .notice-wrapper {
+        flex-direction: column;
+    }
+}

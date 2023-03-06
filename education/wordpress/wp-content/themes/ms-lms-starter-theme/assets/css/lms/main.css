@@ -1,0 +1,419 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.theme-ms-lms-starter-theme .stm_lms_courses__single__inner {
+  overflow: hidden; }
+
+.theme-ms-lms-starter-theme .stm_lms_featured_teacher .stm_lms_featured_teacher_content a.btn.btn-default {
+  font-family: "Montserrat", "Open Sans";
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.24px;
+  background-color: #195EC8;
+  border-radius: 50px 50px 50px 50px;
+  padding: 18px 30px 18px 30px;
+  border: solid 2px #385bce; }
+  .theme-ms-lms-starter-theme .stm_lms_featured_teacher .stm_lms_featured_teacher_content a.btn.btn-default:hover {
+    color: #385bce;
+    background-color: #fff; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses__grid_found_1 {
+  margin-bottom: 0 !important; }
+
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.theme-ms-lms-starter-theme .stm_lms_courses_carousel {
+  position: relative; }
+  .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 110%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+    @media (max-width: 1030px) {
+      .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons {
+        display: none; } }
+    .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button_prev {
+      position: absolute;
+      left: 0; }
+    .theme-ms-lms-starter-theme .stm_lms_courses_carousel .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button_next {
+      position: absolute;
+      right: 0; }
+
+.theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button {
+  background-color: #f0f4fa !important;
+  border: 1px solid #f0f4fa !important; }
+  .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button i {
+    background-color: #f0f4fa !important; }
+
+.theme-ms-lms-starter-theme .btn.btn-default {
+  padding: 15px 20px; }
+
+.theme-ms-lms-starter-theme .stm_lms_lesson_comments__add textarea {
+  color: #000; }
+
+.theme-ms-lms-starter-theme .stm-lms-course__lesson-content {
+  overflow-y: hidden; }
+
+.theme-ms-lms-starter-theme .stm_lms_lesson_header .starter-row {
+  display: block; }
+
+.theme-ms-lms-starter-theme .stm_zoom_wrapper .stm_zoom_content .outline:hover {
+  color: #fff; }
+
+.theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .login_name {
+  color: #333; }
+
+form.stm-lms-single_quiz {
+  overflow-x: hidden; }
+
+body:not(.admin-bar).lesson-sidebar-opened .stm-lms-course__sidebar {
+  margin: 0; }
+
+.stm_lms_lesson_comments .stm_lms_btn_icon [type=button] {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.stm-lms-lesson-opened.stm_lms_type_zoom_conference .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button, .stm-lms-lesson-opened.stm_lms_type_stream .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button, .stm-lms-lesson-opened.stm_lms_type_video .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button {
+  background-color: transparent !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  color: #fff; }
+  .stm-lms-lesson-opened.stm_lms_type_zoom_conference .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .login_name, .stm-lms-lesson-opened.stm_lms_type_stream .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .login_name, .stm-lms-lesson-opened.stm_lms_type_video .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .login_name {
+    color: #fff !important; }
+  .stm-lms-lesson-opened.stm_lms_type_zoom_conference .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button i, .stm-lms-lesson-opened.stm_lms_type_stream .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button i, .stm-lms-lesson-opened.stm_lms_type_video .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button i {
+    color: #fff !important;
+    background-color: transparent !important; }
+  .stm-lms-lesson-opened.stm_lms_type_zoom_conference .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .caret, .stm-lms-lesson-opened.stm_lms_type_stream .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .caret, .stm-lms-lesson-opened.stm_lms_type_video .theme-ms-lms-starter-theme .stm_lms_lesson_header .stm_lms_account_dropdown .dropdown button .caret {
+    color: #fff; }
+
+.stm-lms-lesson-opened .stm_lms_lesson_header .stm_lms_account_dropdown button i {
+  margin-right: 0; }
+
+.stm_lms_type_slide .stm-lms-course__content_wrapper {
+  padding: 0 !important; }
+
+.stm_lms_finish_score__stat > * {
+  font-size: 14px !important; }
+
+.stm_lms_stream_lesson__title {
+  padding: 25px 0 40px 110px;
+  margin: 0;
+  color: #fff;
+  font-size: 50px;
+  font-weight: 200; }
+
+.stm-lms-course__content h3 {
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+.stm-lms-course__content h1 {
+  line-height: 55px;
+  word-spacing: -1px;
+  letter-spacing: -0.4px;
+  font-weight: 300;
+  font-size: 50px; }
+
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.theme-ms-lms-starter-theme .stm_lms_questions_v2_wrapper .wpcfto_radio input {
+  min-height: auto !important; }
+
+.theme-ms-lms-starter-theme .stm_lms_questions_v2_wrapper .wpcfto_checkbox input {
+  min-height: auto !important; }
+
+.theme-ms-lms-starter-theme .stm-lms-buy-buttons .btn:not(.start-course).btn_big .btn-prices.btn-prices-price {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+
+.theme-ms-lms-starter-theme .stm-lms-buy-buttons .btn:not(.start-course).btn_big .btn-prices label.sale_price {
+  margin-right: 5px; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses_grid__sort select.no-search {
+  width: auto; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__title {
+  line-height: 45px;
+  word-spacing: -1px;
+  letter-spacing: -0.4px;
+  font-weight: 300;
+  font-size: 40px; }
+
+.theme-ms-lms-starter-theme .single_product_after_title .meta-unit .value {
+  color: #555; }
+
+.theme-ms-lms-starter-theme .stm_product_list_widget.widget_woo_stm_style_2 li a .meta .title {
+  font-family: "Montserrat", "Open Sans";
+  color: #273044;
+  font-size: 14px; }
+
+.theme-ms-lms-starter-theme .stm_product_list_widget li a img {
+  width: 75px;
+  height: 75px;
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+.theme-ms-lms-starter-theme .widget_stm_lms_popular_courses h3 {
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses__single--info_title h4 {
+  color: #273044; }
+  .theme-ms-lms-starter-theme .stm_lms_courses__single--info_title h4:hover {
+    color: #385bce; }
+
+.theme-ms-lms-starter-theme .stm_lms_related_courses h2 {
+  margin-bottom: 40px;
+  line-height: 38px;
+  letter-spacing: -0.4px;
+  font-weight: 300;
+  font-size: 32px; }
+
+.theme-ms-lms-starter-theme .stm_lms_courses__single--title h5 {
+  font-weight: 500;
+  color: #273044; }
+
+.theme-ms-lms-starter-theme .stm-curriculum-section h3 {
+  margin: 45px 0 21px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-size: 24px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper {
+  padding: 50px 0 50px; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content h3 {
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content p {
+  margin: 0 0 35px;
+  font-size: 15px;
+  line-height: 30px;
+  color: #555; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content ul {
+  list-style-type: disc;
+  margin-left: 20px; }
+
+.theme-ms-lms-starter-theme .stm_lms_course__content li {
+  margin-bottom: 8px;
+  font-family: "Open Sans";
+  color: #273044;
+  font-size: 14px; }
+
+body .stm_metaboxes_grid .stm_metaboxes_grid__inner .stm-lms-questions-single.stm-lms-questions-image_match.list .actions .actions_single_info > span {
+  margin-left: 10px; }
+
+.theme-ms-lms-starter-theme .stm-lms-user-avatar-edit .avatar.photo {
+  max-width: 215px;
+  min-width: 215px;
+  max-height: 215px;
+  min-height: 215px; }
+
+.theme-ms-lms-starter-theme #stm-lms-register h3 {
+  margin-right: 15px;
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 30px; }
+
+.theme-ms-lms-starter-theme .vue_is_disabled {
+  display: flex; }
+
+.theme-ms-lms-starter-theme .elementor-widget-container .vue_is_disabled {
+  display: none; }
+
+.theme-ms-lms-starter-theme .stm_lms_demo_login a {
+  text-decoration: underline !important;
+  color: #195ec8; }
+
+.theme-ms-lms-starter-theme .stm-lms-login__top h3 {
+  margin-bottom: 30px;
+  margin-right: 15px;
+  line-height: 34px;
+  letter-spacing: -1px;
+  font-weight: 400;
+  font-size: 24px; }
+
+@media (max-width: 1025px) {
+  .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button {
+    padding: 15px; } }
+
+.theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .login_name, .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .caret {
+  color: #333; }
+  @media (max-width: 1025px) {
+    .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .login_name, .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown button .caret {
+      display: none; } }
+
+@media (max-width: 1025px) {
+  .theme-ms-lms-starter-theme .stm_lms_account_dropdown .dropdown-menu {
+    right: 0;
+    left: auto; } }
+
+.theme-ms-lms-starter-theme .stm-lms-user_edit_profile_btn a span {
+  top: 0;
+  line-height: 26px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper .container select {
+  background-image: linear-gradient(45deg, transparent 50%, gray 50%), linear-gradient(135deg, gray 50%, transparent 50%), linear-gradient(to right, #ccc, #ccc);
+  background-position: calc(100% - 20px) calc(1em + 2px), calc(100% - 15px) calc(1em + 2px), calc(100% - 2.5em) 0.5em;
+  background-size: 5px 5px, 5px 5px, 1px 1.5em;
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  padding-right: 45px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper .stm-lms-upload-select__icon {
+  display: none; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper .starter-row {
+  display: block; }
+
+.theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social input, .theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social textarea {
+  border: none; }
+
+.theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social i.fa-key, .theme-ms-lms-starter-theme .stm_lms_edit_socials .form-group-social i.fab {
+  top: 9px; }
+
+.theme-ms-lms-starter-theme .stm_lms_instructor_courses__single--status .stm_lms_instructor_courses__single--choice {
+  font-size: 12px; }
+
+.theme-ms-lms-starter-theme .elementor-widget-stm_lms_pro_site_authorization_links {
+  width: auto !important; }
+
+@media (max-width: 1025px) {
+  .theme-ms-lms-starter-theme .ms-lms-authorization-title {
+    display: none; } }
+
+@media (max-width: 1200px) and (min-width: 800px) {
+  .float_menu_position__left .hfe-nav-menu__breakpoint-tablet .hfe-nav-menu__layout-horizontal .hfe-nav-menu {
+    padding-left: 70px; }
+  .float_menu_position__right .hfe-nav-menu__breakpoint-tablet .hfe-nav-menu__layout-horizontal .hfe-nav-menu {
+    padding-right: 70px; }
+  .hfe-nav-menu__breakpoint-tablet .hfe-nav-menu__layout-horizontal .hfe-nav-menu {
+    padding-bottom: 15px; } }
+
+@media (max-width: 1200px) {
+  li.stm_lms_badge_menu {
+    display: none; } }
+
+.starter-lms-logo-merlin {
+  width: 220px;
+  height: auto;
+  margin-bottom: 20px; }
+
+.theme-ms-lms-starter-theme #page {
+  padding-bottom: 125px; }
+
+footer {
+  bottom: 0;
+  position: absolute;
+  z-index: 15;
+  width: 100%; }
+
+html {
+  position: relative; }
+
+.ehf-header #masthead {
+  z-index: 1001 !important; }
+
+div.multiseparator {
+  position: relative;
+  overflow: hidden;
+  margin: 30px 0;
+  height: 3px;
+  width: 100%; }
+  div.multiseparator:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    z-index: 10;
+    background-color: #385bce;
+    bottom: 0;
+    left: 0; }
+  div.multiseparator:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    width: 1200px;
+    height: 1px;
+    z-index: 10;
+    background-color: #dcdcdc;
+    bottom: 1px;
+    left: 65px; }
+
+.hfe-nav-menu__layout-horizontal .hfe-nav-menu .sub-arrow {
+  margin-right: -20px; }
+
+body .theme-ms-lms-starter-theme .stm-lms-wrapper .starter-row {
+  display: block; }
+
+li.stm_lms_badge_menu {
+  position: relative; }
+  li.stm_lms_badge_menu > a:after {
+    content: attr(title);
+    position: absolute;
+    opacity: 1 !important;
+    right: -12px;
+    top: -6px;
+    background: #385bce !important;
+    color: #fff;
+    padding: 0px 5px;
+    font-size: 8px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 3px;
+    border-bottom-left-radius: 0;
+    line-height: 14px; }
+
+li .sub-menu li.stm_lms_badge_menu > a:after {
+  display: block !important;
+  right: 6px;
+  top: 12px; }
+
+body .stm_lms_courses_wrapper h1 {
+  line-height: 55px;
+  word-spacing: -1px;
+  letter-spacing: -0.4px;
+  font-weight: 300;
+  font-size: 50px; }
+
+body .stm_lms_courses_wrapper .stm_lms_courses__archive_filter_toggle {
+  display: none; }
+
+body .stm_lms_courses_wrapper .courses_filters {
+  align-items: center; }
+
+body .stm_lms_courses_wrapper .stm_lms_courses__archive {
+  margin-top: 28px !important; }
+
+body .stm-lms-wrapper {
+  padding-bottom: 60px; }

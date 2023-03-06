@@ -1,0 +1,54 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.comment-list .comment {
+  margin: 10px 0; }
+  .comment-list .comment .comment {
+    margin: 10px 20px; }
+  .comment-list .comment .comment-body {
+    padding: 15px 20px 10px; }
+  .comment-list .comment.odd > .comment-body {
+    background-color: #f0f0f0; }
+  .comment-list .comment .comment-meta .comment-author .avatar {
+    float: left;
+    margin-right: 10px; }
+  .comment-list .comment .comment-meta .comment-metadata {
+    font-size: 90%;
+    line-height: 1.8; }
+  .comment-list .comment .comment-content {
+    padding-top: 5px; }
+
+.comment-list .comment-respond {
+  margin-left: 20px; }
+
+.comment-respond {
+  padding: 15px 0 5px;
+  max-width: 720px; }
+  .comment-respond h3.comment-reply-title {
+    font-size: 20px;
+    line-height: 1.4;
+    margin: 0 0 20px; }
+    .comment-respond h3.comment-reply-title small {
+      font-size: 60%; }
+    .comment-respond h3.comment-reply-title #cancel-comment-reply-link {
+      margin-left: 15px; }
+  .comment-respond .comment-form .input-group {
+    margin: 0 0 20px; }
+    .comment-respond .comment-form .input-group input[type="text"],
+    .comment-respond .comment-form .input-group input[type="email"],
+    .comment-respond .comment-form .input-group input[type="password"],
+    .comment-respond .comment-form .input-group input[type="url"],
+    .comment-respond .comment-form .input-group textarea {
+      width: 100%;
+      display: block; }
+    .comment-respond .comment-form .input-group textarea {
+      height: 125px; }
+  .comment-respond .comment-form .form-submit {
+    margin: 0 0 10px; }
+  .comment-respond label {
+    display: block;
+    margin: 0 0 5px; }
+  .comment-respond input[type="checkbox"] + label, .comment-respond input[type="radio"] + label {
+    display: inline; }

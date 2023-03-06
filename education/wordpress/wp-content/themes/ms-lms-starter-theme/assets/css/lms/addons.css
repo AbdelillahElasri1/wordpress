@@ -1,0 +1,74 @@
+.theme-ms-lms-starter-theme .stm_lms_lesson_comments .stm_lms_btn_icon .form-control {
+  border-radius: 25px 25px 25px 25px; }
+
+.theme-ms-lms-starter-theme .user_assingment_actions .btn.approve, .theme-ms-lms-starter-theme .user_assingment_actions .btn.reject {
+  padding-left: 55px; }
+
+.theme-ms-lms-starter-theme table {
+  width: 100%; }
+
+.theme-ms-lms-starter-theme .stm_lms_points_history_table table {
+  width: 100%; }
+
+.theme-ms-lms-starter-theme .stm_lms_points_history__head {
+  margin-bottom: 10px; }
+
+.theme-ms-lms-starter-theme .stm_lms_g_course__head h4 {
+  margin-bottom: 0 !important;
+  padding: 0 !important; }
+
+.theme-ms-lms-starter-theme .stm_lms_gradebook__course__image img {
+  width: 50px; }
+
+.theme-ms-lms-starter-theme .stm-lms-wrapper--gradebook .stm_lms_gradebook__course__image {
+  margin: 0 20px 0 0; }
+
+.theme-ms-lms-starter-theme .stm_lms_gradebook__courses table tr {
+  border: 1px solid #ccc; }
+
+.theme-ms-lms-starter-theme .stm_lms_gradebook__courses table {
+  width: 100%;
+  margin-bottom: 15px; }
+
+.theme-ms-lms-starter-theme .stm_lms_gradebook__courses .stm_lms_students_gradebook__load.loading:after {
+  content: "";
+  position: relative;
+  top: 3px;
+  left: 5px;
+  display: inline-block;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  height: 15px;
+  width: 15px;
+  -webkit-animation: pulsate 1.5s ease-out;
+  animation: pulsate 1.5s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  opacity: 0;
+  z-index: 99; }
+
+.theme-ms-lms-starter-theme .stm_lms_add_student__fields .stm_lms_my_bundle__select_course_image img {
+  width: 50px;
+  height: 50px;
+  -o-object-fit: contain;
+     object-fit: contain; }
+
+.theme-ms-lms-starter-theme .stm_lms_certificate_checker__form .btn {
+  line-height: 5px; }
+
+.theme-ms-lms-starter-theme .stm_lms_ent_groups_add_edit__emails_new input.form-control {
+  display: block;
+  padding: 6px 12px !important;
+  height: 45px;
+  line-height: 1.42857143;
+  border-radius: 0;
+  border: 2px solid #f0f2f5;
+  background: #f0f2f5;
+  box-shadow: none !important;
+  color: #555; }
+
+.theme-ms-lms-starter-theme #stm_lms_instructor_adding_students #stm_lms_enterprise_groups h4 {
+  margin: 0 0 5px;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700; }

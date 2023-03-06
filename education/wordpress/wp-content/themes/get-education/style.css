@@ -1,0 +1,288 @@
+/*
+Theme Name: Get Education
+Template: bizberg
+Text Domain: get-education
+Author: Bizberg Themes
+Author URI: https://bizbergthemes.com/    
+Theme URI: https://bizbergthemes.com/downloads/get-education/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: Get Education is the child theme of Bizberg WordPress Theme. The theme is a clean & modern Education WordPress Theme. Get Education is suitable for any tuition, marketing, bookselling, university, workshop, college, school, course hub, ecommerce, woocommerce, store, shop, training center, blogging, or educational institution. Also, the Get Education theme is a perfect solution for your educational websites. This Free WordPress theme is fully responsive, cross-browser compatible, translation ready & SEO friendly. If you run into any problems while using our theme, you can refer to extensive documentation or contact our friendly support team. It fully supports Elementor, and all the sections are made from Elementor.
+Tags: custom-logo,custom-menu,featured-images,threaded-comments,translation-ready,left-sidebar,right-sidebar,grid-layout,theme-options,blog,news,portfolio
+Version: 0.3
+Requires PHP: 5.6
+Tested up to: 6.1
+*/
+
+.navbar-default .navbar-nav > li > a {
+    letter-spacing: 0;
+}
+
+.services_wrapper h4{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    padding-bottom: 5px;
+}
+
+.services_wrapper p{
+    font-family: 'OpenSansRegular';
+}
+
+.feature-block-one .inner-box {
+    overflow: hidden;
+    border: 1px solid #d6d4dd;
+    transition: all 500ms ease;
+}
+
+.b_radius_10 {
+    border-radius: 10px;
+}
+
+.pl_150 {
+    padding-left: 150px;
+}
+
+.pb_30 {
+    padding-bottom: 30px;
+}
+
+.pr_30 {
+    padding-right: 30px;
+}
+
+.pt_35 {
+    padding-top: 35px;
+}
+
+.p_relative {
+    position: relative;
+}
+
+.d_block {
+    display: block;
+}
+
+.feature-block-one .inner-box:before {
+    position: absolute;
+    content: '';
+    width: 0%;
+    height: 0%;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+    transition: all 500ms ease;
+}
+
+.feature-block-one .inner-box:before {
+    border: 1px solid #ffb606;
+}
+
+.feature-block-one .inner-box .icon-box {
+    background: #d6d4dd;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    left: -130px;
+    top: -130px;
+    width: 260px;
+    height: 260px;
+    line-height: 260px;
+    z-index: 1;
+}
+
+.fs_65 {
+    font-size: 65px;
+}
+.p_absolute {
+    position: absolute;
+}
+.color-white {
+    color: #fff;
+}
+.centred {
+    text-align: center;
+}
+
+.feature-block-one .inner-box .icon-box:before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    transform: scaleY(0) scaleX(0);
+    z-index: -1;
+    border-radius: 50%;
+    transition: all 500ms ease;
+}
+
+.feature-block-one .inner-box .icon-box:before {
+    background: #ffb606;
+}
+
+.feature-block-one .inner-box .icon-box i {
+    position: relative;
+    left: 54px;
+    top: 50px;
+    font-size: 50px;
+}
+
+.feature-block-one .inner-box:hover:before {
+    width: 100%;
+    height: 100%;
+}
+
+.feature-block-one .inner-box:hover .icon-box:before {
+    transform: scaleY(1) scaleX(1);
+}
+
+.services_wrapper{
+    padding: 40px 0;
+}
+
+.home .bizberg_default_page .two-tone-layout .entry-content header.entry-header,
+.blog-lists.blog-nosidebar-1 .blog-listing.no-sidebars .blog-post.blog-large .entry-header {
+    margin-top: 0 !important;
+}
+
+.testimonial_wrapper{
+    text-align: center;
+}
+
+.testimonial_inner_wrapper {
+    background: #d6d4dd24;
+    padding: 50px;
+    border-radius: 10px;
+    display: grid;
+    row-gap: 15px;
+}
+
+.testimonial_inner_wrapper i{
+    font-size: 30px;
+}
+
+.testimonial_inner_wrapper h4{
+    font-family: 'Poppins';
+    font-size: 30px;
+}
+
+.testimonial_inner_wrapper p{
+        font-family: 'Poppins';
+    font-style: italic;
+    padding: 0 115px;
+    font-size: 20px;
+    line-height: 33px;
+}
+
+.testimonial_inner_wrapper img{
+    margin: 0 auto;
+}
+
+.testimonial_inner_wrapper .name{
+           font-family: 'Poppins';
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.testimonial_inner_wrapper .position{
+  font-family: 'Poppins';
+}
+
+#home_banner_4 img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 800px;
+    margin: 0 auto;
+    border-radius: 50%;
+    animation: border-transform 10s linear infinite alternate forwards;
+}
+
+@-webkit-keyframes border-transform {
+    0%, to {
+        border-radius: 63% 37% 54% 46%/55% 48% 52% 45%
+    }
+    14% {
+        border-radius: 40% 60% 54% 46%/49% 60% 40% 51%
+    }
+    28% {
+        border-radius: 54% 46% 38% 62%/49% 70% 30% 51%
+    }
+    42% {
+        border-radius: 61% 39% 55% 45%/61% 38% 62% 39%
+    }
+    56% {
+        border-radius: 61% 39% 67% 33%/70% 50% 50% 30%
+    }
+    70% {
+        border-radius: 50% 50% 34% 66%/56% 68% 32% 44%
+    }
+    84% {
+        border-radius: 46% 54% 50% 50%/35% 61% 39% 65%
+    }
+}
+
+@keyframes border-transform {
+    0%, to {
+        border-radius: 63% 37% 54% 46%/55% 48% 52% 45%}
+    14% {
+        border-radius: 40% 60% 54% 46%/49% 60% 40% 51%}
+    28% {
+        border-radius: 54% 46% 38% 62%/49% 70% 30% 51%}
+    42% {
+        border-radius: 61% 39% 55% 45%/61% 38% 62% 39%}
+    56% {
+        border-radius: 61% 39% 67% 33%/70% 50% 50% 30%}
+    70% {
+        border-radius: 50% 50% 34% 66%/56% 68% 32% 44%}
+    84% {
+        border-radius: 46% 54% 50% 50%/35% 61% 39% 65%}
+}
+
+#tf-partical-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.tf-ball {
+    position: absolute;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -moz-border-radius: 100%;
+    opacity: 0.2;
+}
+
+@media (max-width: 991px){
+
+    .services_wrapper .feature-block{
+        margin-bottom: 20px;
+    }
+
+    .services_wrapper .feature-block p{
+        font-size: 17px;
+    }
+
+    .testimonial_inner_wrapper p {
+        padding: 0 30px;
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+}
+
+@media (max-width: 412px){
+
+   .testimonial_inner_wrapper p {
+        padding: 0;
+        font-size: 17px;
+        line-height: 30px;
+    } 
+
+}

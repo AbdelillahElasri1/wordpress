@@ -1,0 +1,84 @@
+/* All theme color values should be here.
+ * Delete this comment after reading!
+ */
+/* Colors */
+/* Fonts */
+.posts-template .post,
+.posts-template .page {
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  display: flex; }
+  .posts-template .post.sticky,
+  .posts-template .page.sticky {
+    border-bottom: 2px solid #385bce;
+    margin-bottom: 30px;
+    padding-bottom: 15px; }
+  .posts-template .post .post-thumbnail,
+  .posts-template .page .post-thumbnail {
+    flex-shrink: 0;
+    padding: 12px 24px 10px 0; }
+  .posts-template .post .post-main,
+  .posts-template .page .post-main {
+    flex-grow: 1;
+    max-width: 100%; }
+  .posts-template .post .post-sticky-badge,
+  .posts-template .page .post-sticky-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 5px;
+    background-color: #385bce;
+    margin-bottom: 12px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400; }
+  .posts-template .post .post-title h2,
+  .posts-template .page .post-title h2 {
+    font-size: 26px;
+    line-height: 1.5;
+    margin: 0 0 8px; }
+  .posts-template .post .post-content p:first-child,
+  .posts-template .page .post-content p:first-child {
+    margin-top: 0; }
+  .posts-template .post .post-content p:last-child,
+  .posts-template .page .post-content p:last-child {
+    margin-bottom: 1em; }
+  .posts-template .post .post-info,
+  .posts-template .page .post-info {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; }
+    .posts-template .post .post-info__item,
+    .posts-template .page .post-info__item {
+      display: inline-block;
+      margin-right: 28px;
+      margin-bottom: 8px;
+      font-size: 13px;
+      line-height: 1.7; }
+      .posts-template .post .post-info__item:before,
+      .posts-template .page .post-info__item:before {
+        font-family: 'Linearicons-Free';
+        display: inline-block;
+        vertical-align: middle;
+        margin-top: -2px;
+        margin-right: 4px;
+        font-size: 125%;
+        color: #385bce; }
+      .posts-template .post .post-info__item.post-categories:before,
+      .posts-template .page .post-info__item.post-categories:before {
+        content: "\e828"; }
+      .posts-template .post .post-info__item.post-author:before,
+      .posts-template .page .post-info__item.post-author:before {
+        content: "\e82a"; }
+      .posts-template .post .post-info__item.post-date:before,
+      .posts-template .page .post-info__item.post-date:before {
+        content: "\e836"; }
+      .posts-template .post .post-info__item.post-comment:before,
+      .posts-template .page .post-info__item.post-comment:before {
+        content: "\e83f"; }
+      .posts-template .post .post-info__item a,
+      .posts-template .page .post-info__item a {
+        color: var(--text_color);
+        text-decoration: none; }
+        .posts-template .post .post-info__item a:hover,
+        .posts-template .page .post-info__item a:hover {
+          text-decoration: underline; }

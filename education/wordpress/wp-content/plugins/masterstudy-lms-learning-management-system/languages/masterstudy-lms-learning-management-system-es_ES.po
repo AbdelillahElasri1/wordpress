@@ -1,0 +1,5909 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: zzz free spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: Spanish (Spain)\n"
+"PO-Revision-Date: 2022-04-22 10:51+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-13 08:37+0000\n"
+"Last-Translator: \n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#: post_type/posts.php:192 post_type/posts.php:197
+msgctxt " name"
+msgid "%s"
+msgstr "nombre  %s"
+
+#: lms/classes/instructors.php:514
+msgctxt "\"1 Review\" or \"2 Reviews\""
+msgid "%s %s"
+msgstr "\"1 comentario\" o \"2 comentarios\" %s %s"
+
+#: settings/main_settings/general.php:98
+msgid "% that instructors get from sales"
+msgstr "% que los instructores obtienen de las ventas"
+
+#. %s: Review  %s: Reviews
+#: lms/classes/instructors.php:575
+#, php-format
+msgid "%s %s."
+msgstr ""
+
+#: lms/classes/instructors.php:783
+msgid "%s added to %s"
+msgstr "%s añadido a %s"
+
+#. %s: nubmer
+#: lms/helpers.php:65
+msgid "%s ago"
+msgstr "hace %s"
+
+#: lms/classes/comments.php:173
+msgid "%s commented - \"%s\" on lesson %s in a course %s"
+msgstr "%s comentado - \"%s\" en la lección %s en un curso %s"
+
+#. %s: number
+#. %s: nubmer
+#: partials/vc_parts/courses_categories/style_1.php:76
+#: partials/vc_parts/courses_categories/style_2.php:72
+#: partials/vc_parts/courses_categories/style_5.php:76
+msgid "%s Courses"
+msgstr "%s Cursos"
+
+#. %s: nubmer
+#: lms/helpers.php:89
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s día"
+msgstr[1] ""
+
+#. %s: field name
+#: lms/classes/user.php:232 lms/classes/user.php:251
+msgid "%s field is required"
+msgstr "El campo %s  es obligatorio"
+
+#. %s: nubmer
+#: lms/helpers.php:93
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s hora"
+msgstr[1] ""
+
+#: stm-lms-templates/courses/parts/meta.php:20
+msgid "%s Lectures"
+msgstr "Clases %s"
+
+#. %s: nubmer
+#: lms/helpers.php:97
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minuto"
+msgstr[1] ""
+
+#. %s: nubmer
+#: lms/helpers.php:81
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s mes"
+msgstr[1] ""
+
+#. %s: number
+#: user_manager/UserManager.CourseUser.php:280
+#: stm-lms-templates/course/parts/tabs/curriculum.php:47
+msgid "%s question"
+msgid_plural "%s questions"
+msgstr[0] "%s pregunta"
+msgstr[1] "%s preguntas"
+
+#: stm-lms-templates/lesson/curriculum.php:118
+msgid "%s questions"
+msgstr "%s preguntas"
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:42
+msgid "%s Ratings"
+msgstr "Calificaciones %s"
+
+#: lms/classes/comments.php:154 lms/classes/comments.php:258
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "Respuesta %s"
+msgstr[1] "Respuestas %s"
+
+#: stm-lms-templates/course/parts/panel_info/rate.php:22
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "Comentario %s"
+msgstr[1] "Comentarios %s"
+
+#. %s: nubmer
+#: lms/helpers.php:101
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s segundo"
+msgstr[1] ""
+
+#: stm-lms-templates/course/parts/info.php:15
+#: stm-lms-templates/course/parts/info.php:21
+msgid "%s student"
+msgid_plural "%s students"
+msgstr[0] "%s estudiante"
+msgstr[1] "%s estudiantes"
+
+#. %s: nubmer
+#: lms/helpers.php:85
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s semana"
+msgstr[1] ""
+
+#. %s: nubmer
+#: lms/helpers.php:77
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s año"
+msgstr[1] ""
+
+#. %s: course complete
+#: lms/classes/user.php:708
+msgid "%s%% Complete"
+msgstr "%s%% Completo"
+
+#: lms/classes/cart.php:185
+msgid "%s. Order key: %s"
+msgstr "%s. Clave de pedido: %s"
+
+#: stm-lms-templates/global/buy-button.php:128
+#: stm-lms-templates/global/buy-button.php:142
+msgid "- Or -"
+msgstr "- O -"
+
+#: stm-lms-templates/stm-lms-go-pro.php:160
+msgid "1 year"
+msgstr "1 año"
+
+#: lms/widgets/popular.widget.php:136
+msgid "3"
+msgstr ""
+
+#: stm-lms-templates/courses/advanced_filters/filters/rating.php:8
+msgid "3.0 & up"
+msgstr "3.0 y más"
+
+#: stm-lms-templates/courses/advanced_filters/filters/rating.php:12
+msgid "3.5 & up"
+msgstr ""
+
+#: stm-lms-templates/courses/advanced_filters/filters/rating.php:16
+msgid "4.0 & up"
+msgstr ""
+
+#: stm-lms-templates/courses/advanced_filters/filters/rating.php:20
+msgid "4.5 & up"
+msgstr ""
+
+#: db/fix_rating.php:88
+msgid "<p>All course ratings have been refreshed</p>"
+msgstr "<p>Todos los ratings de los cursos han sido refrescados</p>"
+
+#: db/fix_rating.php:42
+msgid "<p>Rating for course \"%s\" refreshed</p>"
+msgstr "<p>Clasificación para el curso \"%s\" renovado</p>"
+
+#: lms/classes/user.php:1472
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+
+#: lms/classes/user.php:1476
+msgid ""
+"<strong>ERROR</strong>: There is no account with that username or email "
+"address."
+msgstr ""
+
+#: settings/lms_metaboxes.php:142
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: lms/classes/page_routes.php:238
+#: stm-lms-templates/global/account-dropdown.php:25
+msgid "Account"
+msgstr "Cuenta"
+
+#: lms/classes/cart.php:231
+msgid "Account Number"
+msgstr "Número de Cuenta"
+
+#: settings/manage_users/main.php:19
+msgid "Actions"
+msgstr "Acciones"
+
+#. %s: site name
+#: lms/classes/user.php:385
+msgid "Activate your account on site %s"
+msgstr "Activar tu cuenta en el sitio %s"
+
+#: settings/questions_v2/tpls/add_new_quiz.php:41
+msgid "Add"
+msgstr ""
+
+#: settings/answers/components/answers.php:219
+msgid "Add answer..."
+msgstr "Añadir respuesta..."
+
+#: stm-lms-templates/lesson/comments.php:144
+msgid "Add Comment"
+msgstr "Añadir comentario"
+
+#: lms/helpers.php:483
+msgid "Add Course materials"
+msgstr "Agregar materiales del curso"
+
+#: lms/helpers.php:431
+msgid ""
+"Add Course materials available for all users. Lesson specified materials you "
+"can add directly to lesson."
+msgstr ""
+"Agregue materiales del curso disponibles para todos los usuarios. Materiales "
+"específicos de la lección que puede agregar directamente a la lección."
+
+#: settings/drip_content/components/drip_content.php:112
+msgid "Add dependency"
+msgstr "Agregar dependencia"
+
+#: settings/answers/tpls/image.php:45
+msgid "Add description (not required)"
+msgstr "Agregar descripción (no es obligatorio)"
+
+#: settings/answers/tpls/image.php:5
+msgid "Add Image URL"
+msgstr "Agregar URL de imagen"
+
+#: lms/helpers.php:544
+msgid "Add lesson materials"
+msgstr "Agregar materiales de lecciones"
+
+#: settings/drip_content/components/drip_content.php:34
+msgid "Add must be done lesson"
+msgstr "Añadir hay que hacer la lección"
+
+#: post_type/posts.php:193
+msgid "Add New %s"
+msgstr "Añadir Nuevo %s"
+
+#: stm-lms-templates/account/private/instructor_parts/courses.php:18
+msgid "Add New course"
+msgstr "Agregar Nuevo curso"
+
+#: stm-lms-templates/wizard/views/steps/finish.php:16
+msgid "Add new course"
+msgstr "Añadir nuevo curso"
+
+#: post_type/taxonomies.php:38
+msgid "Add New Course category"
+msgstr "Agregar nueva categoría de Curso"
+
+#: settings/questions_v1/components/questions.php:113
+msgid "Add new question"
+msgstr "Añadir nueva pregunta"
+
+#: post_type/taxonomies.php:61
+msgid "Add New Question category"
+msgstr "Añadir una nueva categoría de preguntas"
+
+#: settings/questions_v2/tpls/add_new_quiz.php:62
+msgid "Add question"
+msgstr ""
+
+#: settings/questions_v2/tpls/add_new_qb.php:57
+msgid "Add question bank"
+msgstr "Agregar banco de preguntas"
+
+#: settings/answers/components/answers.php:211
+msgid "Add question..."
+msgstr "Añadir pregunta..."
+
+#: stm-lms-templates/course/parts/add_review.php:45
+msgid "Add review"
+msgstr "Añadir comentario"
+
+#: settings/curriculum/tpls/section_data.php:21
+msgid "Add section"
+msgstr "Añadir sección"
+
+#: lms/helpers.php:843
+msgid ""
+"Add similar or related courses to the one bundle and sell them as a package "
+"at a discount price."
+msgstr ""
+"Agregue cursos similares o relacionados al paquete único y véndalos como un "
+"paquete a un precio de descuento."
+
+#: lms/classes/instructors.php:59
+#: stm-lms-templates/dashboard/components/add_user.php:12
+#: stm-lms-templates/account/private/add_student/main.php:48
+msgid "Add student"
+msgstr "Añadir estudiante"
+
+#: stm-lms-templates/account/private/add_student/main.php:97
+msgid "Add students"
+msgstr "Añadir alumnos"
+
+#: settings/main_settings/profiles.php:30
+msgid "Add students to own course"
+msgstr "Añadir alumnos a su propio curso"
+
+#: lms/classes/user.php:886 stm-lms-templates/global/wish-list.php:15
+#: stm-lms-templates/global/wish-list.php:25
+msgid "Add to Wishlist"
+msgstr "Añadir a la Lista de deseos"
+
+#: stm-lms-templates/account/private/edit_account/socials.php:6
+msgid ""
+"Add your social profiles links, they will be shown on your public profile."
+msgstr ""
+"Añade tus enlaces de perfiles sociales, se mostrarán en tu perfil público."
+
+#: settings/curriculum/tpls/search.php:49
+msgid "Add {x} selected courses."
+msgstr "Agregue {x} cursos seleccionados."
+
+#: settings/questions_v2/tpls/search.php:49
+msgid "Add {x} selected questions."
+msgstr "Agregue {x} preguntas seleccionadas."
+
+#: settings/curriculum/tpls/search.php:8
+msgid "Adding items to section"
+msgstr "Agregar elementos a la sección"
+
+#: settings/questions_v2/tpls/search.php:8
+msgid "Adding questions to quiz"
+msgstr "Agregar preguntas al cuestionario"
+
+#: lms/classes/addons.php:16
+msgid "Addons"
+msgstr "Addons"
+
+#: lms/helpers.php:882
+msgid ""
+"Adjust your email templates for different types of notifications and make "
+"your messages look good and clear."
+msgstr ""
+"Ajuste sus plantillas de correo electrónico para diferentes tipos de "
+"notificaciones y haga que sus mensajes se vean bien y claros."
+
+#: lms/classes/models/StmLmsPayout.php:150
+#: lms/views/statistics/statistics.php:70
+#: lms/views/payout/meta-box-payout-data.php:116
+#: stm-lms-templates/wizard/views/steps/general.php:78
+msgid "Admin commission"
+msgstr "Comisión de administración"
+
+#: settings/main_settings/course.php:78 lms/classes/helpers.php:558
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: settings/lms_metaboxes.php:218
+msgid "Affiliate course"
+msgstr "Curso de afiliado"
+
+#: lms/classes/instructors.php:277
+msgid ""
+"After changing the course's author, the author of all lessons, quizzes and "
+"assignments related to this course will be changed automatically. Do you "
+"really want to change the author of the course?"
+msgstr ""
+"Después de cambiar el autor del curso, el autor de todas las lecciones, "
+"cuestionarios y tareas relacionadas con este curso se cambiará "
+"automáticamente. ¿Realmente quieres cambiar el autor del curso?"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_recent_courses.php:36
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_carousel.php:133
+msgid "All categories"
+msgstr ""
+
+#: stm-lms-templates/dashboard/components/courses.php:8
+msgid "All Courses"
+msgstr "Todos los cursos"
+
+#: post_type/taxonomies.php:33
+msgid "All Courses category"
+msgstr "Todas las categorías de Cursos"
+
+#: lms/classes/subscriptions.php:115
+msgid "All courses in the selected categories are disabled."
+msgstr ""
+
+#: lms/classes/subscriptions.php:117
+msgid "All courses in the selected categories are enabled."
+msgstr ""
+
+#: settings/media_library/main.php:34
+msgid "All files"
+msgstr "Todos los archivos"
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:67
+#: elementor/widgets/stm_lms_featured_teacher.php:165
+msgid "All instructor courses button text"
+msgstr "Texto del botón Todos los cursos del instructor"
+
+#: settings/main_settings/profiles.php:13
+msgid "All new registration will have an E-mail with account verification"
+msgstr ""
+"Todo nuevo registro tendrá un correo electrónico con la verificación de la "
+"cuenta"
+
+#: stm-lms-templates/stm-lms-lesson.php:165
+msgid ""
+"All of the most interesting lessons further. In order to continue you just "
+"need to purchase it"
+msgstr ""
+"Todas las lecciones más interesantes en adelante. Para poder continuar sólo "
+"tienes que comprarlo"
+
+#: post_type/taxonomies.php:56
+msgid "All Questions category"
+msgstr "Todas las preguntas de la categoría"
+
+#: settings/main_settings/course.php:99
+msgid "Allow instructors create new categories for courses."
+msgstr "Permitir que los instructores creen nuevas categorías para los cursos."
+
+#: settings/main_settings/course.php:98
+#: stm-lms-templates/wizard/views/steps/curriculum.php:95
+msgid "Allow instructors to create new categories"
+msgstr "Permitir a los instructores crear nuevas categorías"
+
+#: settings/main_settings/course.php:103
+msgid "Allow instructors to create new question categories"
+msgstr ""
+
+#: settings/main_settings/course.php:107
+#: stm-lms-templates/wizard/views/steps/curriculum.php:75
+msgid "Allow instructors to upload video files to video lessons"
+msgstr ""
+"Permitir que los instructores carguen archivos de video en lecciones de video"
+
+#: stm-lms-templates/wizard/views/steps/general.php:66
+msgid ""
+"Allow the guests to skip the registration and proceed with the purchase by "
+"only entering their email address."
+msgstr ""
+"Permita que los invitados omitan el registro y procedan con la compra "
+"ingresando solo su dirección de correo electrónico."
+
+#: stm-lms-templates/account/v1/fast_login/main.php:23
+msgid "Already registered?"
+msgstr "¿Ya está registrado?"
+
+#: settings/lms_metaboxes.php:298 settings/lms_metaboxes.php:303
+#: stm-lms-templates/course/parts/tabs.php:11
+#: stm-lms-templates/wizard/views/steps/single_course.php:58
+msgid "Announcement"
+msgstr "Anuncio"
+
+#: stm-lms-templates/stm-lms-go-pro.php:119
+msgid "Annual"
+msgstr "Anual"
+
+#: settings/faq/components/faq.php:16
+msgid "Answer"
+msgstr "Respuesta"
+
+#: settings/manage_users/main.php:70
+msgid "Answer date"
+msgstr "Fecha de respuesta"
+
+#: stm-lms-templates/quiz/timer.php:34
+msgid "answered <strong>%s</strong>/<label>%s</label>"
+msgstr "respondió <strong>%s</strong>/<label>%s</label>"
+
+#: stm-lms-templates/quiz/circle_result.php:25
+msgid "Answered correctly"
+msgstr "Contestado correctamente"
+
+#: settings/lms_metaboxes.php:463
+#: settings/questions_v2/tpls/question_data.php:96
+msgid "Answers"
+msgstr "Respuestas"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:253
+msgid "Apply"
+msgstr "Aplicar"
+
+#: settings/manage_users/main.php:45
+msgid "Approve"
+msgstr "Aprobar"
+
+#: user_manager/UserManager.CourseUser.php:233
+msgid "Approved by admin"
+msgstr "Aprobado por admin"
+
+#: stm-lms-templates/lesson/comments.php:133
+msgid "Ask A Question"
+msgstr "Haga una pregunta"
+
+#: settings/curriculum/tpls/add_items.php:18
+msgid "Assignment"
+msgstr "Asignación"
+
+#: lms/classes/lesson.php:127
+msgid "Assignment %s"
+msgstr "Asignación %s"
+
+#: lms/helpers.php:824
+msgid "Assignments"
+msgstr "Asignaciones"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:107
+#: stm-lms-templates/global/completed_info.php:64
+msgid "Assignments:"
+msgstr "Asignaciones:"
+
+#: stm-lms-templates/global/files.php:22
+msgid "Attached file"
+msgstr "Archivo adjunto"
+
+#: stm-lms-templates/dashboard/components/student_quiz.php:13
+msgid "Attempt #"
+msgstr "Intento #"
+
+#: settings/media_library/main.php:38
+msgid "Audio"
+msgstr "Audio"
+
+#: libraries/paypal/includes/classes/PayPal.php:153
+msgid "Australian dollar AUD"
+msgstr "Dólar australiano AUD"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:415
+msgid "Author"
+msgstr "Autor"
+
+#: settings/questions_v2/tpls/add_new_qb.php:14
+msgid "Available categories"
+msgstr "Categorías disponibles"
+
+#: stm-lms-templates/account/private/instructor_parts/courses.php:28
+msgid "Available featured Quotes:"
+msgstr "Cotizaciones destacadas disponibles:"
+
+#: lms/helpers.php:975
+msgid "Available in"
+msgstr ""
+
+#: settings/main_settings/certificates.php:98
+msgid ""
+"Available shortcodes: Username - {username}; Course name - {course}; User "
+"First name - {user_first_name}; User Last name - {user_last_name}"
+msgstr ""
+"Códigos cortos disponibles: Nombre de usuario  - {username}; Nombre del "
+"curso - {course}; Primer nombre de usuario - {user_first_name};Apellido del "
+"usuario - {user_last_name}"
+
+#: stm-lms-templates/dashboard/components/back.php:5
+msgid "Back"
+msgstr "Atrás"
+
+#: stm-lms-templates/lesson/comments.php:214
+msgid "Back to all questions"
+msgstr "Volver a todas las preguntas"
+
+#: stm-lms-templates/lesson/header.php:43
+msgid "Back to Dashboard"
+msgstr "Volver al Panel de control"
+
+#: stm-lms-templates/lesson/comments.php:128
+msgid "Back to Q&A List"
+msgstr "Volver a la Lista de preguntas y respuestas"
+
+#: stm-lms-templates/dashboard/components/navigation.php:7
+msgid "Back to Site"
+msgstr "Volver al sitio"
+
+#: elementor/widgets/stm_lms_courses_categories.php:184
+#: elementor/widgets/stm_lms_courses_categories.php:289
+msgid "Background"
+msgstr "Fondo"
+
+#: settings/main_settings/float_menu.php:42
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: settings/manage_users/main.php:21
+msgid "Ban"
+msgstr "Prohibición"
+
+#: lms/classes/cart.php:233
+msgid "Bank name"
+msgstr "Nombre del banco"
+
+#: settings/questions_v2/tpls/add_new_qb.php:11
+msgid "Bank name *"
+msgstr "Nombre del banco *"
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:102
+msgid "Be the first to add a review."
+msgstr "Sea el primero en agregar un comentario."
+
+#: stm-lms-templates/account/private/parts/become_instructor.php:13
+#, fuzzy
+msgid "Become an Instructor?"
+msgstr "Convertirme en profesor"
+
+#: settings/main_settings/course.php:70 lms/classes/helpers.php:556
+msgid "Beginner"
+msgstr "Principiante"
+
+#: lms/classes/user.php:982
+#: stm-lms-templates/account/private/edit_account/bio.php:7
+msgid "Bio"
+msgstr "Biografía"
+
+#: elementor/widgets/stm_lms_courses_categories.php:221
+#: elementor/widgets/stm_lms_courses_categories.php:326
+msgid "Border Radius"
+msgstr "Radio de borde"
+
+#: libraries/paypal/includes/classes/PayPal.php:154
+msgid "Brazilian real BRL"
+msgstr "El real brasileño BRL"
+
+#: settings/media_library/media_library_input.php:12
+msgid "Browse file"
+msgstr "Examinar archivo"
+
+#: stm-lms-templates/account/v1/form_builder/file.php:14
+#: stm-lms-templates/account/private/edit_account/custom_fields.php:63
+msgid "Browse..."
+msgstr "Hojear..."
+
+#: wizard/main.php:71
+msgid "Business"
+msgstr "Negocio"
+
+#: settings/main_settings/courses.php:60
+msgid "Button"
+msgstr "Botón"
+
+#: settings/lms_metaboxes.php:235
+msgid "Button Link"
+msgstr "Botón de enlace"
+
+#: settings/lms_metaboxes.php:224
+msgid "Button Text"
+msgstr "Botón de texto"
+
+#: stm-lms-templates/account/v1/use_membership.php:49
+msgid "Buy Membership"
+msgstr "Comprar Suscripción"
+
+#: lms/widgets/popular.widget.php:102
+msgid "By %s"
+msgstr "Por %s"
+
+#: settings/main_settings/course.php:180
+msgid "By author"
+msgstr "Por autor"
+
+#: settings/main_settings/course.php:179
+msgid "By category"
+msgstr "Por categoría"
+
+#: stm-lms-templates/wizard/views/steps/profiles.php:42
+msgid ""
+"By disabling instructor registration you are removing the checkbox "
+"\"Register as an instructor\" from the registration form."
+msgstr ""
+"Al deshabilitar el registro del instructor, está eliminando la casilla de "
+"verificación \"Registrarse como instructor\" del formulario de registro."
+
+#: settings/main_settings/course.php:181
+msgid "By level"
+msgstr "Por nivel"
+
+#: settings/main_settings.php:10
+msgid "by StylemixThemes"
+msgstr ""
+
+#: libraries/paypal/includes/classes/PayPal.php:155
+msgid "Canadian dollar CAD"
+msgstr "Dólar canadiense CAD"
+
+#: stm-lms-templates/account/public/instructor_parts/fast_message.php:34
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: stm-lms-templates/account/private/instructor_parts/grid.php:127
+msgid "Cancel request"
+msgstr "Cancelar solicitud"
+
+#: settings/main_settings/profiles.php:49
+msgid "Cancel subscription page"
+msgstr "Página de cancelación de la suscripción"
+
+#: lms/classes/order.php:138
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: lms/classes/user.php:1541
+msgid "Cant send E-mail."
+msgstr "No puedo enviar un correo electrónico."
+
+#: lms/classes/user.php:154 lms/classes/user.php:188
+msgid "CAPTCHA verification failed."
+msgstr "La verificación del CAPTCHA falló."
+
+#: stm-lms-templates/checkout/empty-cart.php:2
+#, fuzzy
+msgid "Cart is empty<span>,</span> <a href=\"%s\">add Courses</a>"
+msgstr "El carrito está vacío, <a href=\"%s\">añadir Cursos</a>"
+
+#: stm-lms-templates/account/float_menu/logged_out.php:28
+msgid "Categories"
+msgstr ""
+
+#: settings/answers/components/answers.php:394
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: lms/classes/helpers.php:586 settings/questions_v2/tpls/question_data.php:26
+#: stm-lms-templates/dashboard/components/courses.php:24
+#: stm-lms-templates/courses/advanced_filters/filters/category.php:21
+msgid "Category"
+msgstr "Categoría"
+
+#: settings/course_taxonomy.php:14
+msgid "Category Color"
+msgstr "Color de la Categoría"
+
+#: settings/course_taxonomy.php:10
+msgid "Category Icon"
+msgstr "Icono de Categoría"
+
+#: settings/course_taxonomy.php:6
+msgid "Category Image"
+msgstr "Imagen de Categoría"
+
+#: settings/main_settings/courses.php:114
+msgid "Category parent slug"
+msgstr "Categoría madre"
+
+#: stm-lms-templates/course/parts/panel_info/categories.php:11
+msgid "Category:"
+msgstr "Categoría:"
+
+#: settings/main_settings/courses.php:86
+msgid "Center"
+msgstr "Centro"
+
+#: settings/lms_metaboxes.php:326
+#: stm-lms-templates/stm-lms-certificates-generator.php:25
+#: stm-lms-templates/lesson/finish_score_popup.php:121
+#: stm-lms-templates/lesson/finish_score_popup.php:125
+#: stm-lms-templates/account/private/parts/certificate-list.php:33
+msgid "Certificate"
+msgstr "Certificado"
+
+#: lms/helpers.php:887
+msgid "Certificate Builder"
+msgstr "Generador de certificados"
+
+#: elementor/widgets/stm_lms_certificate_checker.php:45
+msgid "Certificate Checker"
+msgstr "Comprobador de certificados"
+
+#: settings/main_settings/certificates.php:45
+msgid "Certificate Image"
+msgstr "Imagen del Certificado"
+
+#: settings/main_settings/certificates.php:40
+msgid "Certificate Settings"
+msgstr "Configuración del certificado"
+
+#: settings/main_settings/certificates.php:76
+msgid "Certificate subtitle"
+msgstr "Subtítulo del certificado"
+
+#: settings/main_settings/certificates.php:81
+msgid "Certificate subtitle color"
+msgstr "Color de los subtítulos de los certificados"
+
+#: settings/main_settings/certificates.php:86
+msgid "Certificate subtitle font size (px)"
+msgstr "Tamaño de la fuente de los subtítulos del certificado (px)"
+
+#: settings/main_settings/certificates.php:71
+msgid "Certificate Subtitle Settings"
+msgstr "Configuración de subtítulos de certificado"
+
+#: settings/main_settings/certificates.php:97
+msgid "Certificate Text"
+msgstr "Texto del certificado"
+
+#: settings/main_settings/certificates.php:105
+msgid "Certificate text color"
+msgstr "El color del texto del certificado"
+
+#: settings/main_settings/certificates.php:111
+msgid "Certificate text font size (px)"
+msgstr "Tamaño de fuente del texto del certificado (px)"
+
+#: settings/main_settings/certificates.php:92
+msgid "Certificate Text Settings"
+msgstr "Configuración de texto del certificado"
+
+#: settings/main_settings/certificates.php:13
+msgid "Certificate threshold (%)"
+msgstr "Límite del certificado (%)"
+
+#: settings/main_settings/certificates.php:55
+msgid "Certificate Title"
+msgstr "Título del Certificado"
+
+#: settings/main_settings/certificates.php:60
+msgid "Certificate title color"
+msgstr "Color del título del certificado"
+
+#: settings/main_settings/certificates.php:65
+msgid "Certificate title font size (px)"
+msgstr "Tamaño de la fuente del título del certificado (px)"
+
+#: settings/main_settings/certificates.php:50
+msgid "Certificate Title Settings"
+msgstr "Configuración del título del certificado"
+
+#: settings/main_settings/certificates.php:6
+msgid "Certificates"
+msgstr "Certificados"
+
+#: settings/main_settings/certificates.php:7
+msgid "Certificates Settings"
+msgstr ""
+
+#: settings/questions_v2/tpls/image.php:16
+#: settings/questions_v2/tpls/image.php:33
+msgid "Change"
+msgstr "Cambio"
+
+#: lms/classes/instructors.php:236
+msgid "Change Author"
+msgstr "Cambiar el autor"
+
+#: stm-lms-templates/account/private/edit_account/change_password.php:5
+msgid "Change Password"
+msgstr "Cambiar contraseña"
+
+#: stm-lms-templates/account/private/parts/avatar_edit.php:19
+#: stm-lms-templates/buddypress/account/v1/private/instructor_parts/info.php:22
+#: stm-lms-templates/buddypress/account/v1/private/parts/info.php:21
+msgid "Change photo"
+msgstr "Cambiar foto"
+
+#: lms/views/payout/meta-box-payout-data.php:48
+#, fuzzy
+msgid "Change Status to PAID"
+msgstr "Cambiar el estado a PAGADO"
+
+#: lms/classes/reviews.php:258
+msgid "Check out new review on course %s by %s"
+msgstr "Comprueba lel nuevo comentario en el curso %s por %s"
+
+#: settings/main_settings/routes.php:34 lms/classes/page_routes.php:253
+#: stm-lms-templates/checkout/items.php:18
+#: stm-lms-templates/checkout/guest-checkout.php:18
+#: settings/page_generator/api/get.php:8
+#: stm-lms-templates/wizard/views/steps/general.php:24
+msgid "Checkout"
+msgstr "Pagar"
+
+#: stm-lms-templates/wizard/views/steps/business.php:3
+msgid "Choose Business Type"
+msgstr "Elija el tipo de negocio"
+
+#: lms/helpers.php:987
+msgid "Choose category"
+msgstr ""
+
+#: lms/helpers.php:441 lms/helpers.php:497
+msgid "Choose file"
+msgstr "Elegir archivo"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:36
+msgid "Choose how to display courses: in a grid view or list. "
+msgstr ""
+
+#: stm-lms-templates/wizard/views/steps/curriculum.php:44
+msgid ""
+"Choose how to display quizzes: divide questions into pages or display the "
+"whole list on one page."
+msgstr ""
+"Elija cómo mostrar los cuestionarios: divida las preguntas en páginas o "
+"muestre toda la lista en una página."
+
+#: settings/lms_wpcfto_helpers.php:26
+msgid "Choose User 1"
+msgstr "Elija el usuario 1"
+
+#: settings/main_settings/course.php:13 settings/main_settings/course.php:88
+#: stm-lms-templates/wizard/views/steps/curriculum.php:30
+#: stm-lms-templates/wizard/views/steps/single_course.php:94
+#: stm-lms-templates/wizard/views/steps/profiles.php:70
+msgid "Classic"
+msgstr "Clásico"
+
+#: lms/views/statistics/statistics.php:97
+msgid "Clear filter"
+msgstr "Borrar filtro"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:42
+#: libraries/paypal/includes/admin/views/settings/index.php:45
+msgid "Client ID"
+msgstr "ID del cliente"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:51
+#: libraries/paypal/includes/admin/views/settings/index.php:54
+msgid "Client Secret"
+msgstr "Secreto de cliente"
+
+#: lms/classes/quiz.php:238 settings/questions_v2/tpls/image.php:20
+#: settings/questions_v2/tpls/image.php:36
+msgid "Close"
+msgstr "Cerrar"
+
+#: lms/helpers.php:804
+msgid ""
+"Collect statistics of your students’ progress, check their performance, and "
+"keep track of their grades."
+msgstr ""
+"Recopile estadísticas del progreso de sus estudiantes, verifique su "
+"desempeño y realice un seguimiento de sus calificaciones."
+
+#: settings/main_settings/general.php:15
+msgid "Colors"
+msgstr "Colores"
+
+#: elementor/widgets/stm_lms_course_bundles.php:116
+msgid "Columns"
+msgstr "Columnas"
+
+#: stm-lms-templates/lesson/navigation.php:27
+#: settings/demo_import/tpls/field.php:31
+#: stm-lms-templates/dashboard/components/course_user.php:70
+#: stm-lms-templates/dashboard/components/course_user.php:79
+#: stm-lms-templates/dashboard/components/course_user.php:86
+msgid "Complete"
+msgstr "Completo"
+
+#: lms/classes/order.php:137 stm-lms-templates/lesson/navigation.php:25
+#: stm-lms-templates/lesson/navigation.php:43
+#: stm-lms-templates/lesson/navigation.php:43
+#: stm-lms-templates/global/completed_label.php:15
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:93
+msgid "Completed"
+msgstr "Finalizado"
+
+#: stm-lms-templates/account/v1/register.php:78
+msgid "Confirm password"
+msgstr "Confirmar contraseña"
+
+#: stm-lms-templates/wizard/views/steps/finish.php:6
+msgid "Congratulations"
+msgstr "Felicidades"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:15
+#: visual_composer/modules/stm_lms_instructors_carousel.php:16
+#: visual_composer/modules/stm_lms_courses_grid.php:18
+#: visual_composer/modules/stm_lms_single_course_carousel.php:18
+#: visual_composer/modules/stm_courses_searchbox.php:14
+#: visual_composer/modules/stm_lms_courses_categories.php:18
+#: visual_composer/modules/stm_lms_featured_teacher.php:16
+#: visual_composer/modules/stm_lms_courses_carousel.php:19
+#: lms/classes/helpers.php:588 elementor/widgets/stm_lms_recent_courses.php:87
+#: elementor/widgets/stm_lms_google_classroom.php:87
+#: elementor/widgets/stm_lms_certificate_checker.php:87
+#: elementor/widgets/stm_lms_instructors_carousel.php:87
+#: elementor/widgets/stm_lms_courses_grid.php:87
+#: elementor/widgets/stm_lms_single_course_carousel.php:87
+#: elementor/widgets/stm_courses_searchbox.php:87
+#: elementor/widgets/stm_lms_courses_categories.php:93
+#: elementor/widgets/stm_lms_course_bundles.php:87
+#: elementor/widgets/stm_lms_featured_teacher.php:97
+#: elementor/widgets/stm_lms_courses_carousel.php:87
+msgid "Content"
+msgstr "Contenido"
+
+#: settings/lms_metaboxes.php:267
+msgid "Content Drip"
+msgstr "Goteo de contenido"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:94
+msgid "Continue"
+msgstr "Continuar"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:65
+msgid "Copy code"
+msgstr "Copiar código"
+
+#: settings/answers/components/answers.php:27
+#: settings/answers/components/answers.php:82
+#: settings/answers/components/answers.php:107
+#: settings/answers/components/answers.php:160
+msgid "Correct"
+msgstr "Correcto"
+
+#: post_type/posts.php:64 settings/main_settings/course.php:4
+#: lms/classes/instructors.php:781 lms/classes/page_routes.php:226
+#: stm-lms-templates/checkout/items.php:25
+#: stm-lms-templates/checkout/guest-checkout.php:25
+#: lms/views/payout/meta-box-payout-data.php:143
+#: lms/classes/models/admin/StmStatisticsListTable.php:412
+#: stm-lms-templates/account/private/parts/enrolled-quizzes.php:21
+#: stm-lms-templates/account/private/parts/certificate-list.php:30
+#, fuzzy
+msgid "Course"
+msgstr "Curso"
+
+#: lms/classes/mails.php:71
+msgid "Course %s is now available to learn."
+msgstr "Curso %s está ahora disponible para aprender."
+
+#: lms/classes/mails.php:66
+msgid "Course %s was added to %s."
+msgstr "Curso %s fue añadido a %s."
+
+#: lms/classes/instructors.php:178
+msgid "Course Author"
+msgstr "Autor del curso"
+
+#: stm-lms-templates/expiration/info.php:14
+msgid "Course available for %s day"
+msgid_plural "Course available for <strong>%s days</strong>"
+msgstr[0] "Curso disponible para %s día"
+msgstr[1] ""
+
+#: lms/helpers.php:840
+msgid "Course Bundle"
+msgstr "Paquete del curso"
+
+#: elementor/widgets/stm_lms_course_bundles.php:45
+msgid "Course Bundles"
+msgstr "Paquetes de cursos"
+
+#: settings/main_settings/courses.php:71
+msgid "Course Card"
+msgstr "Tarjeta del curso"
+
+#: settings/main_settings/courses.php:84
+msgid "Course Card Info"
+msgstr "Información de la Cartilla del Curso"
+
+#: settings/main_settings/courses.php:73
+msgid "Course Card Style"
+msgstr "Estilo de tarjeta de curso"
+
+#: post_type/taxonomies.php:40
+msgid "Course category"
+msgstr "Categoría del Curso"
+
+#: settings/lms_metaboxes.php:10
+msgid "Course curriculum"
+msgstr "Programa del curso"
+
+#: lms/classes/user.php:772
+msgid "Course Deleted"
+msgstr "Curso Eliminado"
+
+#: settings/lms_metaboxes.php:257
+msgid "Course expiration (days)"
+msgstr "Caducidad del curso (días)"
+
+#: stm-lms-templates/expiration/not_expired.php:19
+msgid "Course expires in: %s"
+msgstr "El curso caduca en: %s"
+
+#: stm-lms-templates/expiration/not_expired.php:22
+msgid "Course expires in: %s days%s"
+msgstr "El curso caduca en: %s días%s"
+
+#: lms/helpers.php:435
+msgid "Course file title"
+msgstr "Título del archivo del curso"
+
+#: settings/lms_metaboxes.php:319
+msgid "Course files"
+msgstr ""
+
+#: settings/main_settings/courses.php:140
+msgid "Course Filters"
+msgstr "Filtros de curso"
+
+#: stm-lms-templates/expiration/expired.php:35
+#: stm-lms-templates/account/private/parts/expiration.php:7
+msgid "Course has expired"
+msgstr "El curso ha caducado"
+
+#: settings/lms_metaboxes.php:101
+msgid "Course Level"
+msgstr "Nivel del Curso"
+
+#: settings/main_settings/course.php:54
+msgid "Course levels"
+msgstr "Niveles del curso"
+
+#: lms/helpers.php:430
+msgid "Course materials"
+msgstr "Materiales del curso"
+
+#: lms/classes/order.php:141
+msgid "Course name"
+msgstr "Nombre del curso"
+
+#: settings/main_settings/course.php:10
+#, fuzzy
+msgid "Course Page Style"
+msgstr "Estilo de la página de cursos"
+
+#: settings/lms_metaboxes.php:141
+msgid "Course Price"
+msgstr "Precio del curso"
+
+#: lms/classes/order.php:142 stm-lms-templates/checkout/items.php:29
+#: stm-lms-templates/checkout/guest-checkout.php:29
+msgid "Course price"
+msgstr "Precio del curso"
+
+#: stm-lms-templates/dashboard/components/course_user.php:22
+msgid "Course progress"
+msgstr "Progreso del curso"
+
+#: lms/classes/instructors.php:80
+msgid "Course published"
+msgstr "Curso publicado"
+
+#: settings/lms_metaboxes.php:482
+msgid "Course Reviewed"
+msgstr "Curso evaluado"
+
+#: stm-lms-templates/lesson/curriculum.php:17
+msgid "Course sections"
+msgstr "Secciones del Curso"
+
+#: settings/lms_metaboxes.php:14 settings/main_settings/course.php:5
+msgid "Course Settings"
+msgstr "Configuración del curso"
+
+#: lms/classes/instructors.php:176
+msgid "Course Students"
+msgstr "Estudiantes del curso"
+
+#: stm-lms-templates/wizard/views/steps/single_course.php:78
+msgid "Course style"
+msgstr "Estilo del curso"
+
+#: settings/main_settings/course.php:23
+msgid "Course Tabs"
+msgstr "Pestañas del curso"
+
+#: stm-lms-templates/wizard/views/steps/single_course.php:33
+msgid "Course tabs"
+msgstr ""
+
+#: stm-lms-templates/dashboard/components/courses.php:23
+msgid "Course title"
+msgstr "Título del curso"
+
+#: settings/lms_metaboxes.php:95
+msgid "Course Views"
+msgstr "Vistas del Curso"
+
+#: settings/main_settings/profiles.php:37
+msgid "Course will have Pending status, until you approve it"
+msgstr "El Curso tendrá el estatuto Pendiente, hasta que lo apruebe"
+
+#: wizard/main.php:73 post_type/posts.php:65
+#: settings/main_settings/courses.php:9 lms/widgets/popular.widget.php:30
+#: stm-lms-templates/courses/filters.php:6
+#: settings/demo_import/tpls/field.php:25
+#: stm-lms-templates/dashboard/components/home.php:11
+#: stm-lms-templates/dashboard/components/navigation.php:14
+#: stm-lms-templates/wizard/views/steps/courses.php:5
+#: stm-lms-templates/account/private/instructor_parts/courses.php:15
+msgid "Courses"
+msgstr "Cursos"
+
+#: elementor/widgets/stm_lms_courses_carousel.php:45
+msgid "Courses Carousel"
+msgstr "Carrusel de cursos"
+
+#: elementor/widgets/stm_lms_courses_categories.php:51
+msgid "Courses Categories"
+msgstr "Categorías de cursos"
+
+#: lms/classes/subscriptions.php:394
+msgid "Courses category available for this plan"
+msgstr "Categoría de cursos disponibles para este plan"
+
+#: elementor/widgets/stm_lms_courses_grid.php:45
+msgid "Courses Grid"
+msgstr "Cuadrícula de cursos"
+
+#: settings/main_settings/courses.php:99
+msgid "Courses Image Size"
+msgstr "Tamaño de la imagen de los cursos"
+
+#: settings/main_settings/courses.php:21
+#: stm-lms-templates/wizard/views/steps/courses.php:21
+msgid "Courses Page"
+msgstr "Página de Cursos"
+
+#: settings/main_settings/courses.php:27
+#: stm-lms-templates/wizard/views/steps/courses.php:35
+msgid "Courses Page Layout"
+msgstr "Diseño de la Página de Cursos"
+
+#: elementor/widgets/stm_lms_courses_carousel.php:220
+msgid "Courses per carousel"
+msgstr "Cursos por carrusel"
+
+#: settings/main_settings/courses.php:51
+#: visual_composer/modules/stm_lms_courses_carousel.php:111
+#: stm-lms-templates/wizard/views/steps/courses.php:64
+msgid "Courses per page"
+msgstr "Cursos por página"
+
+#: visual_composer/modules/stm_lms_courses_grid.php:62
+#: elementor/widgets/stm_lms_courses_grid.php:153
+msgid "Courses Per Row"
+msgstr "Cursos por fila"
+
+#: settings/main_settings/courses.php:39
+#: visual_composer/modules/stm_lms_courses_carousel.php:105
+#: elementor/widgets/stm_lms_recent_courses.php:114
+#: elementor/widgets/stm_lms_courses_carousel.php:209
+#: stm-lms-templates/wizard/views/steps/courses.php:90
+msgid "Courses per row"
+msgstr "Cursos por fila"
+
+#: elementor/widgets/stm_courses_searchbox.php:45
+msgid "Courses Search box"
+msgstr "Cuadro de búsqueda de cursos"
+
+#: settings/main_settings/courses.php:10
+msgid "Courses Settings"
+msgstr "Configuración de los cursos"
+
+#: stm-lms-templates/account/private/instructor_parts/announcement.php:21
+msgid "Create announcement"
+msgstr "Crear anuncio"
+
+#. Description of the plugin
+msgid ""
+"Create brilliant lessons with videos, graphs, images, slides and any other "
+"attachments thanks to flexible and user-friendly lesson management tool "
+"powered by WYSIWYG editor."
+msgstr ""
+"Crea clases destacadas con vídeos, gráficos, imágenes, diapositivas y "
+"cualquier otro documento gracias a una herramienta de gestión de clases "
+"flexible y fácil de usar, que funciona con el editor WYSIWYG."
+
+#: stm-lms-templates/wizard/views/steps/courses.php:13
+#: stm-lms-templates/wizard/views/steps/general.php:13
+msgid "Create LMS Pages"
+msgstr "Crear páginas LMS"
+
+#: stm-lms-templates/wizard/views/steps/general.php:14
+msgid "Create LMS system pages automatically."
+msgstr "Cree páginas del sistema LMS automáticamente."
+
+#: lms/views/statistics/statistics.php:50
+msgid "Create Payout"
+msgstr "Crear pago"
+
+#: stm-lms-templates/wizard/views/steps/business.php:25
+msgid ""
+"Create personalized learning programs and promote yourself as a private "
+"instructor."
+msgstr ""
+"Crea programas de aprendizaje personalizados y promuévete como instructor "
+"privado."
+
+#: settings/questions_v2/tpls/add_new_quiz.php:40
+msgid "Create question category"
+msgstr ""
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:158
+msgid "Created date"
+msgstr "Fecha de creación"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:54
+#: visual_composer/modules/stm_lms_instructors_carousel.php:100
+#: visual_composer/modules/stm_lms_courses_grid.php:101
+#: visual_composer/modules/stm_lms_single_course_carousel.php:72
+#: visual_composer/modules/stm_courses_searchbox.php:30
+#: visual_composer/modules/stm_lms_courses_categories.php:56
+#: visual_composer/modules/stm_lms_featured_teacher.php:61
+#: visual_composer/modules/stm_lms_courses_carousel.php:161
+msgid "Css"
+msgstr ""
+
+#: settings/main_settings/general.php:31 lms/classes/cart.php:236
+#: libraries/paypal/includes/admin/views/settings/index.php:84
+msgid "Currency"
+msgstr "Moneda"
+
+#: settings/main_settings/general.php:36
+msgid "Currency Position"
+msgstr "Posición de la divisa"
+
+#: settings/main_settings/general.php:29
+msgid "Currency symbol"
+msgstr "Símbolo de la divisa"
+
+#: settings/lms_metaboxes.php:106
+msgid "Current students"
+msgstr "Estudiantes actuales"
+
+#: settings/lms_metaboxes.php:72 lms/classes/helpers.php:589
+#: stm-lms-templates/course/parts/tabs.php:9
+#: stm-lms-templates/wizard/views/steps/curriculum.php:5
+#: stm-lms-templates/wizard/views/steps/single_course.php:48
+msgid "Curriculum"
+msgstr "Currículum"
+
+#: libraries/paypal/includes/classes/PayPal.php:156
+msgid "Czech koruna CZK"
+msgstr "Corona Checa CZK"
+
+#: libraries/paypal/includes/classes/PayPal.php:157
+msgid "Danish krone DKK"
+msgstr "Corona danesa DKK"
+
+#: lms/classes/user.php:1740
+msgid "Dashboard"
+msgstr "Salpicadero"
+
+#: lms/classes/order.php:130 lms/classes/models/StmLmsPayout.php:152
+msgid "Date"
+msgstr "Fecha"
+
+#: stm-lms-templates/expiration/expired.php:39
+msgid "Date of expiry: %s"
+msgstr "Fecha de caducidad: %s"
+
+#: settings/media_library/main.php:49
+msgid "Date: New / old"
+msgstr "Fecha: Nuevo / viejo"
+
+#: lms/helpers.php:45
+msgid "day"
+msgstr "día"
+
+#: stm-lms-templates/quiz/timer.php:15
+msgid "Days"
+msgstr "Días"
+
+#: settings/main_settings/general.php:54
+msgid "Decimals Separator"
+msgstr "Separador de decimales"
+
+#: settings/manage_users/main.php:46
+msgid "Decline"
+msgstr "Rechazar"
+
+#: user_manager/UserManager.CourseUser.php:233
+msgid "Declined by admin"
+msgstr "Rechazado por el administrador"
+
+#: settings/main_settings/course.php:12 settings/main_settings/course.php:87
+#: elementor/widgets/stm_lms_instructors_carousel.php:189
+#: stm-lms-templates/wizard/views/steps/curriculum.php:23
+#: stm-lms-templates/wizard/views/steps/single_course.php:87
+#: stm-lms-templates/wizard/views/steps/profiles.php:63
+msgid "Default"
+msgstr "Por defecto"
+
+#: settings/main_settings/quiz.php:17
+msgid "Default style"
+msgstr "Estilo predeterminado"
+
+#: stm-lms-templates/account/v1/register.php:117
+#: stm-lms-templates/account/v1/become_instructor.php:45
+msgid "Degree"
+msgstr "Título"
+
+#: settings/manage_users/main.php:39
+msgid "Degree - "
+msgstr ""
+
+#: stm-lms-templates/checkout/items.php:40
+#: stm-lms-templates/checkout/guest-checkout.php:41
+msgid "Delete"
+msgstr "Borrar"
+
+#: lms/helpers.php:444 lms/helpers.php:500
+msgid "Delete file"
+msgstr "Eliminar archivo"
+
+#: user_manager/UserManager.Course.php:41
+msgid "Deleted user"
+msgstr "Usuario eliminado"
+
+#: settings/main_settings/general.php:108
+msgid ""
+"Deny Instructors from accessing the admin panel (redirects to personal "
+"profile)"
+msgstr ""
+"Denegar a los instructores el acceso al panel de administración (redirige al "
+"perfil personal)"
+
+#: lms/classes/cart.php:235 stm-lms-templates/course/parts/tabs.php:8
+#: stm-lms-templates/wizard/views/steps/single_course.php:43
+msgid "Description"
+msgstr "Descripción"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:56
+#: visual_composer/modules/stm_lms_instructors_carousel.php:102
+#: visual_composer/modules/stm_lms_courses_grid.php:103
+#: visual_composer/modules/stm_lms_single_course_carousel.php:74
+#: visual_composer/modules/stm_courses_searchbox.php:32
+#: visual_composer/modules/stm_lms_courses_categories.php:58
+#: visual_composer/modules/stm_lms_featured_teacher.php:63
+#: visual_composer/modules/stm_lms_courses_carousel.php:163
+msgid "Design options"
+msgstr "Opciones de diseño"
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:49
+msgid "Detailed Rating"
+msgstr "Calificación Detallada"
+
+#: stm-lms-templates/stm-lms-go-pro.php:39
+msgid "Developer Oriented"
+msgstr "Orientado al desarrollador"
+
+#: elementor/widgets/stm_lms_instructors_carousel.php:204
+#: elementor/widgets/stm_lms_instructors_carousel.php:219
+#: elementor/widgets/stm_lms_single_course_carousel.php:116
+#: elementor/widgets/stm_lms_single_course_carousel.php:131
+#: elementor/widgets/stm_lms_courses_carousel.php:136
+#: elementor/widgets/stm_lms_courses_carousel.php:169
+#: elementor/widgets/stm_lms_courses_carousel.php:184
+#: elementor/widgets/stm_lms_courses_carousel.php:199
+msgid "Disable"
+msgstr "Inutilizar"
+
+#: settings/main_settings/course.php:192
+msgid "Disable default image for course completion notification"
+msgstr ""
+"Deshabilitar la imagen predeterminada para la notificación de finalización "
+"del curso"
+
+#: settings/main_settings/courses.php:120
+msgid "Disable Featured Courses Top Block on the Course List Page"
+msgstr ""
+"Deshabilitar el bloque superior de cursos destacados en la página Lista de "
+"cursos"
+
+#: lms/classes/subscriptions.php:437
+msgid "Disable for all"
+msgstr "Desactivar para todos"
+
+#: settings/main_settings/profiles.php:24
+msgid "Disable Instructor Pre-moderation"
+msgstr "Deshabilitar la moderación previa del instructor"
+
+#: settings/main_settings/profiles.php:18
+msgid "Disable Instructor Registration"
+msgstr "Deshabilitar el registro de instructor"
+
+#: settings/main_settings/courses.php:109
+msgid "Disable Lazyload"
+msgstr "Desactivar Lazyload"
+
+#: settings/lms_metaboxes.php:151
+msgid ""
+"Disable one time purchase to make course available only from subscription "
+"plans. Also, you can make course free by leaving price field empty"
+msgstr ""
+"Deshabilite la compra única para que el curso esté disponible solo desde los "
+"planes de suscripción. Además, puede hacer que el curso sea gratuito dejando "
+"el campo de precio vacío"
+
+#: settings/main_settings/course.php:193
+msgid ""
+"Disable the display of a default image in the course completion notification."
+msgstr ""
+"Deshabilite la visualización de una imagen predeterminada en la notificación "
+"de finalización del curso."
+
+#: lms/classes/subscriptions.php:429
+msgid "Disable/Enable one-time purchase on courses in category - "
+msgstr ""
+"Deshabilitar/habilitar la compra de una sola vez en los cursos de la "
+"categoría - "
+
+#: visual_composer/modules/stm_lms_courses_carousel.php:14
+msgid "Display Courses in Styled Carousel"
+msgstr "Mostrar cursos en carrusel con estilo"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:12
+msgid "Display Instructors in Styled Carousel"
+msgstr "Mostrar instructores en carrusel con estilo"
+
+#: visual_composer/modules/stm_lms_single_course_carousel.php:14
+msgid "Display Signle Course in Styled Carousel"
+msgstr "Mostrar curso de signle en carrusel con estilo"
+
+#: lms/widgets/popular.widget.php:16
+msgid "Display your popular courses"
+msgstr "Muestra tus cursos populares"
+
+#: lms/helpers.php:819
+msgid ""
+"Distribute courses to a group of people. You can sell them to enterprises, "
+"or to a group of company employees."
+msgstr ""
+"Distribuir cursos a un grupo de personas. Puede venderlos a empresas o a un "
+"grupo de empleados de la empresa."
+
+#: lms/classes/subscriptions.php:446
+msgid "Do not reload the page..."
+msgstr "No recargues la página..."
+
+#: settings/curriculum/tpls/section_data.php:35
+msgid "Do you really want to delete section with all content?"
+msgstr "¿Realmente quieres eliminar la sección con todo el contenido?"
+
+#: settings/curriculum/tpls/item.php:34
+msgid "Do you really want to delete this item from section?"
+msgstr "¿Realmente desea eliminar este elemento de la sección?"
+
+#: settings/questions_v1/components/questions.php:20
+msgid "Do you really want to delete this item?"
+msgstr "¿Realmente quieres eliminar este elemento?"
+
+#: settings/questions_v2/tpls/question_data.php:79
+msgid "Do you really want to delete this question?"
+msgstr "¿Realmente quieres eliminar esta pregunta?"
+
+#: settings/media_library/main.php:36
+msgid "Documents"
+msgstr "Documentos"
+
+#: stm-lms-templates/account/private/instructor_parts/courses.php:33
+msgid "Done"
+msgstr "Hecho"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:50
+#: stm-lms-templates/account/private/parts/certificate-list.php:56
+msgid "Download"
+msgstr "Descargar"
+
+#: stm-lms-templates/global/completed_info.php:82
+#: stm-lms-templates/global/completed_info.php:88
+msgid "Download your Certificate"
+msgstr "Descargue su certificado"
+
+#: lms/classes/instructors.php:438
+#, fuzzy
+msgid "Draft"
+msgstr "Borrador"
+
+#: stm-lms-templates/account/private/instructor_parts/grid.php:82
+msgid "Drafted"
+msgstr "Redactado"
+
+#: settings/media_library/media_library_input.php:11
+msgid "Drag and Drop file here or click here to select from computer"
+msgstr ""
+"Arrastre y suelte el archivo aquí o haga clic aquí para seleccionar desde la "
+"computadora"
+
+#: stm-lms-templates/questions/image_match.php:44
+msgid "Drag and match Answer"
+msgstr "Arrastrar y hacer coincidir la respuesta"
+
+#: lms/helpers.php:794 settings/drip_content/components/drip_content.php:16
+msgid "Drip Content"
+msgstr "Contenido por goteo"
+
+#: stm-lms-templates/course/parts/info.php:27
+msgid "Duration"
+msgstr "Duración"
+
+#: settings/lms_metaboxes.php:111
+msgid "Duration info"
+msgstr "Información sobre la duración"
+
+#: lms/classes/user.php:200 stm-lms-templates/account/v1/enterprise.php:49
+#: stm-lms-templates/account/v1/register.php:50
+msgid "E-mail"
+msgstr "E-mail"
+
+#: lms/helpers.php:858
+msgid ""
+"Ease the process of structuring the workflow by connecting your Google "
+"Classroom account with your website and import the needed classes."
+msgstr ""
+"Facilite el proceso de estructuración del flujo de trabajo conectando su "
+"cuenta de Google Classroom con su sitio web e importando las clases "
+"necesarias."
+
+#: lms/helpers.php:773
+msgid ""
+"Easily paste any quizzes through the shortcode to any page and check the "
+"quizzes’ performance."
+msgstr ""
+"Pegue fácilmente cualquier cuestionario a través del shortcode en cualquier "
+"página y verifique el rendimiento de los cuestionarios."
+
+#: lms/helpers.php:874
+msgid ""
+"Easily upload to your LMS any course that was created with the help of "
+"different content authoring tools."
+msgstr ""
+"Cargue fácilmente en su LMS cualquier curso que haya sido creado con la "
+"ayuda de diferentes herramientas de creación de contenido."
+
+#: settings/curriculum/tpls/item.php:41
+msgid "Edit"
+msgstr "Editar"
+
+#: post_type/posts.php:195
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: stm-lms-templates/account/private/instructor_parts/grid.php:88
+#: stm-lms-templates/account/private/instructor_parts/grid.php:123
+msgid "Edit course"
+msgstr "Editar curso"
+
+#: post_type/taxonomies.php:36
+msgid "Edit Course category"
+msgstr "Editar la categoría de Curso"
+
+#: post_type/taxonomies.php:59
+msgid "Edit Question category"
+msgstr "Editar la categoría de preguntas"
+
+#: stm-lms-templates/account/v1/fast_login/main.php:37
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: lms/helpers.php:879
+msgid "Email Manager"
+msgstr "Administrador de correo electrónico"
+
+#: elementor/widgets/stm_lms_instructors_carousel.php:203
+#: elementor/widgets/stm_lms_instructors_carousel.php:218
+#: elementor/widgets/stm_lms_single_course_carousel.php:115
+#: elementor/widgets/stm_lms_single_course_carousel.php:130
+#: elementor/widgets/stm_lms_courses_carousel.php:135
+#: elementor/widgets/stm_lms_courses_carousel.php:168
+#: elementor/widgets/stm_lms_courses_carousel.php:183
+#: elementor/widgets/stm_lms_courses_carousel.php:198
+msgid "Enable"
+msgstr "Habilitar"
+
+#: settings/main_settings/course.php:42
+msgid "Enable \"Announcement\" tab"
+msgstr "Habilite la pestaña \"Anuncio\""
+
+#: settings/main_settings/course.php:32
+msgid "Enable \"Curriculum\" tab"
+msgstr "Habilitar la pestaña \"Currículo\""
+
+#: settings/main_settings/course.php:27
+msgid "Enable \"Description\" tab"
+msgstr "Habilite la pestaña \"Descripción\""
+
+#: settings/main_settings/course.php:37
+msgid "Enable \"FAQ\" tab"
+msgstr "Habilite la pestaña \"Preguntas frecuentes\""
+
+#: settings/main_settings/course.php:48
+msgid "Enable \"Reviews\" tab"
+msgstr "Habilite la pestaña \"Reseñas\""
+
+#: settings/main_settings/courses.php:133
+msgid "Enable Archive Filter"
+msgstr "Habilitar filtro de archivo"
+
+#: settings/main_settings/course.php:112
+msgid "Enable bottom sticky panel"
+msgstr "Habilitar el panel adhesivo inferior"
+
+#: settings/main_settings/course.php:162
+msgid "Enable Buy Button in bottom sticky panel"
+msgstr "Habilitar el botón de compra en el panel adhesivo inferior"
+
+#: settings/main_settings/course.php:143
+msgid "Enable Category in bottom sticky panel"
+msgstr "Activar la categoría en el panel adhesivo inferior"
+
+#: settings/main_settings/profiles.php:36
+msgid "Enable Course Pre-moderation"
+msgstr "Habilitar la pre-moderación del Curso"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:134
+msgid "Enable Courses Filter"
+msgstr "Habilitar filtro de cursos"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:141
+msgid "Enable courses filtering by category, levels, price, and others."
+msgstr "Habilite el filtrado de cursos por categoría, niveles, precio y otros."
+
+#: settings/main_settings/profiles.php:12
+msgid "Enable Email Confirmation"
+msgstr "Habilitar la confirmación por correo electrónico"
+
+#: settings/main_settings/courses.php:141
+msgid "Enable filter - Category"
+msgstr "Habilitar filtro - Categoría"
+
+#: settings/main_settings/courses.php:191
+msgid "Enable filter - Instructor"
+msgstr "Habilitar filtro - Instructor"
+
+#: settings/main_settings/courses.php:161
+msgid "Enable filter - Levels"
+msgstr "Habilitar filtro - Niveles"
+
+#: settings/main_settings/courses.php:202
+msgid "Enable filter - Price"
+msgstr "Activar filtro - Precio"
+
+#: settings/main_settings/courses.php:171
+msgid "Enable filter - Rating"
+msgstr "Activar filtro - Clasificación"
+
+#: settings/main_settings/courses.php:181
+msgid "Enable filter - Status"
+msgstr "Habilitar filtro - Estado"
+
+#: settings/main_settings/courses.php:151
+msgid "Enable filter - Subcategory"
+msgstr "Habilitar filtro - Subcategoría"
+
+#: settings/main_settings/float_menu.php:10
+msgid "Enable floating menu"
+msgstr "Habilitar menú flotante"
+
+#: lms/classes/subscriptions.php:440
+msgid "Enable for all"
+msgstr "Habilitar para todos"
+
+#: lms/helpers.php:789
+msgid ""
+"Enable free trial lessons, so that your students could try some of the "
+"modules before taking the course."
+msgstr ""
+"Habilite las lecciones de prueba gratuitas, para que sus estudiantes puedan "
+"probar algunos de los módulos antes de tomar el curso."
+
+#: settings/main_settings/general.php:76
+#: stm-lms-templates/wizard/views/steps/general.php:59
+msgid "Enable Guest Checkout"
+msgstr "Habilitar el pago como invitado"
+
+#: settings/main_settings/course.php:152
+msgid "Enable Price in bottom sticky panel"
+msgstr "Activar el precio en el panel adhesivo inferior"
+
+#: settings/main_settings/course.php:125
+msgid "Enable Rating in bottom sticky panel"
+msgstr "Activar la clasificación en el panel adhesivo inferior"
+
+#: stm-lms-templates/wizard/views/steps/single_course.php:21
+msgid ""
+"Enable redirect to the checkout page after the course was added to cart."
+msgstr ""
+"Habilite la redirección a la página de pago después de agregar el curso al "
+"carrito."
+
+#: settings/main_settings/course.php:172
+msgid "Enable related courses"
+msgstr "Habilitar cursos relacionados"
+
+#: settings/main_settings/course.php:134
+msgid "Enable Teacher in bottom sticky panel"
+msgstr "Habilitar al maestro en el panel adhesivo inferior"
+
+#: settings/main_settings/course.php:116
+msgid "Enable Title in bottom sticky panel"
+msgstr "Habilitar el título en el panel adhesivo inferior"
+
+#: settings/main_settings/general.php:70
+msgid "Enable WooCommerce Checkout"
+msgstr "Activar el pago WooCommerce"
+
+#: lms/helpers.php:866
+msgid ""
+"Enjoy the new type of lesson — connect Zoom Video Conferencing with your "
+"website and interact with your students in real-time."
+msgstr ""
+"Disfrute del nuevo tipo de lección: conecte Zoom Video Conferencing con su "
+"sitio web e interactúe con sus estudiantes en tiempo real."
+
+#: stm-lms-templates/account/v1/use_membership_multiply.php:51
+msgid "Enroll Course"
+msgstr "Inscríbete en el curso"
+
+#: stm-lms-templates/global/buy-button.php:31
+msgid "Enroll course"
+msgstr "Inscríbete en el curso"
+
+#: stm-lms-templates/account/v1/use_membership_multiply.php:10
+msgid "Enroll course via Membership"
+msgstr "Inscríbete en el curso a través de la membresía"
+
+#: stm-lms-templates/global/buy-button.php:136
+#: stm-lms-templates/global/buy-button.php:147
+msgid "Enroll with Membership"
+msgstr "Inscríbete como miembro"
+
+#: stm-lms-templates/account/v1/use_membership.php:38
+msgid "Enroll with membership"
+msgstr "Inscríbete con la membresía"
+
+#: stm-lms-templates/course/parts/info.php:14
+#: stm-lms-templates/course/parts/info.php:20
+msgid "Enrolled"
+msgstr "Inscrito"
+
+#: lms/classes/user.php:1758
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:13
+msgid "Enrolled Courses"
+msgstr "Cursos inscritos"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:19
+msgid "Enrolled date (first one)"
+msgstr "Fecha de inscripción (primera)"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:18
+msgid "Enrolled date (last one)"
+msgstr "Fecha de inscripción (la última)"
+
+#: lms/classes/user.php:1803
+#: stm-lms-templates/account/private/parts/enrolled-quizzes.php:11
+msgid "Enrolled Quizzes"
+msgstr "Cuestionarios inscritos"
+
+#: settings/answers/components/answers.php:60
+#: settings/answers/components/answers.php:137
+#: settings/answers/components/answers.php:325
+msgid "Enter answer"
+msgstr "Introduzca la respuesta"
+
+#: settings/curriculum/tpls/add_item.php:17
+msgid "Enter Assignment title"
+msgstr "Introduzca el título de la asignación"
+
+#: stm-lms-templates/account/v1/become_instructor.php:50
+msgid "Enter degree"
+msgstr "Ingresar grado"
+
+#: stm-lms-templates/account/v1/become_instructor.php:59
+msgid "Enter Expertise"
+msgstr "Ingresar nivel de peritaje"
+
+#: settings/faq/components/faq.php:17
+msgid "Enter FAQ answer"
+msgstr "Ingrese la respuesta de preguntas frecuentes"
+
+#: settings/faq/components/faq.php:12
+msgid "Enter FAQ question"
+msgstr "Ingrese la pregunta de preguntas frecuentes"
+
+#: stm-lms-templates/questions/keywords.php:25
+msgid "Enter keyword"
+msgstr "Introduce la palabra clave"
+
+#: settings/curriculum/tpls/add_item.php:7
+msgid "Enter Lesson title"
+msgstr "Introduzca el título de la lección"
+
+#: stm-lms-templates/account/v1/login.php:100
+msgid "Enter login/e-mail"
+msgstr "Ingresa el nombre de usuario/correo electrónico"
+
+#: stm-lms-templates/account/v1/restore.php:35
+msgid "Enter new password"
+msgstr "Introduzca una nueva contraseña"
+
+#: stm-lms-templates/account/private/add_student/main.php:75
+msgid "Enter new user e-mail"
+msgstr "Introduzca el nuevo correo electrónico del usuario"
+
+#: stm-lms-templates/account/v1/login.php:57
+#: stm-lms-templates/account/v1/register.php:68
+msgid "Enter password"
+msgstr "Introducir la contraseña"
+
+#: settings/questions_v2/tpls/add_new_quiz.php:57
+#: settings/questions_v1/components/questions.php:111
+msgid "Enter question title"
+msgstr "Introduzca el título de la pregunta"
+
+#: settings/curriculum/tpls/add_item.php:12
+msgid "Enter Quiz title"
+msgstr "Introduzca el título del cuestionario"
+
+#: stm-lms-templates/dashboard/components/add_user.php:34
+msgid "Enter student email"
+msgstr "Ingrese el correo electrónico del estudiante"
+
+#: stm-lms-templates/dashboard/components/add_user.php:27
+msgid ""
+"Enter user email. If email doesnt registered on site, system will create "
+"user credentials."
+msgstr ""
+"Introduzca el correo electrónico del usuario. Si el correo electrónico no se "
+"registra en el sitio, el sistema creará credenciales de usuario."
+
+#: stm-lms-templates/account/v1/login.php:45
+#: stm-lms-templates/account/v1/register.php:44
+msgid "Enter username"
+msgstr "Introduzca el nombre de usuario"
+
+#: user_manager/UserManager.AddUser.php:32 lms/classes/guest_checkout.php:103
+msgid "Enter valid email"
+msgstr "Introduzca un correo electrónico válido"
+
+#: stm-lms-templates/account/private/edit_account/bio.php:11
+msgid "Enter your BIO"
+msgstr "Ingresa tu BIOGRAFÍA"
+
+#: stm-lms-templates/lesson/comments.php:76
+#: stm-lms-templates/lesson/comments.php:181
+msgid "Enter your comment"
+msgstr "Introduce tu comentario"
+
+#: stm-lms-templates/account/v1/register.php:122
+msgid "Enter Your Degree"
+msgstr "Ingresa Tu Título"
+
+#: stm-lms-templates/account/v1/register.php:55
+msgid "Enter your E-mail"
+msgstr "Ingresa tu E-mail"
+
+#: stm-lms-templates/account/v1/enterprise.php:54
+msgid "Enter Your Email"
+msgstr "Introduce tu Email"
+
+#: stm-lms-templates/account/v1/fast_login/main.php:40
+msgid "Enter your email"
+msgstr "Introduce tu correo electrónico"
+
+#: stm-lms-templates/account/v1/register.php:132
+msgid "Enter your Expertize"
+msgstr "Ingresa tu nivel de peritaje"
+
+#: stm-lms-templates/account/private/edit_account/socials.php:21
+msgid "Enter your Facebook URL"
+msgstr "Ingresa tu URL de Facebook"
+
+#: stm-lms-templates/account/private/edit_account/socials.php:31
+msgid "Enter your Google Plus URL"
+msgstr "Ingresa tu URL de Google Plus"
+
+#: stm-lms-templates/account/private/edit_account/socials.php:55
+msgid "Enter your Instagram URL"
+msgstr "Ingresa tu URL de Instagram"
+
+#: stm-lms-templates/account/private/edit_account/name.php:17
+msgid "Enter your last name"
+msgstr "Introduce tu apellido"
+
+#: stm-lms-templates/account/v1/enterprise.php:63
+msgid "Enter Your Message"
+msgstr "Ingresa Tu Mensaje"
+
+#: stm-lms-templates/account/v1/enterprise.php:45
+#: stm-lms-templates/account/private/edit_account/name.php:8
+msgid "Enter your name"
+msgstr "Introduce tu nombre"
+
+#: stm-lms-templates/account/private/edit_account/change_password.php:21
+msgid "Enter your New Password"
+msgstr "Ingresa tu nueva contraseña"
+
+#: stm-lms-templates/account/private/edit_account/change_password.php:41
+msgid "Enter your new password"
+msgstr "Introduce tu nueva contraseña"
+
+#: stm-lms-templates/account/v1/fast_login/main.php:47
+msgid "Enter your password"
+msgstr "Introduzca su contraseña"
+
+#: stm-lms-templates/account/private/edit_account/position.php:8
+msgid "Enter your position"
+msgstr "Ingresa tu posición"
+
+#: stm-lms-templates/account/private/edit_account/socials.php:45
+msgid "Enter your Twitter URL"
+msgstr "Ingresa tu URL  de Twitter"
+
+#. %s: dollar
+#: settings/lms_metaboxes.php:203
+msgid "Enterprise Price (%s)"
+msgstr "Precio de empresa (%s)"
+
+#: lms/classes/user.php:1360 lms/classes/user.php:1422
+msgid "Enterprise Request"
+msgstr "Solicitud de Empresa"
+
+#: settings/lms_wpcfto_helpers.php:30
+msgid "Error occurred, please try again"
+msgstr "Se ha producido un error, por favor, inténtalo de nuevo"
+
+#: lms/classes/cart.php:202
+msgid "Error occurred. Please try again."
+msgstr "Error. Por favor, inténtalo de nuevo."
+
+#: lms/classes/user.php:1496 lms/classes/user.php:1509
+msgid "ERROR: There is no account with that username or email address."
+msgstr ""
+"ERROR: No hay ninguna cuenta con ese nombre de usuario o dirección de correo "
+"electrónico."
+
+#: stm-lms-templates/wizard/views/steps/business.php:47
+msgid ""
+"Establish a big educational platform and connect teachers and learners. "
+msgstr ""
+
+#: libraries/paypal/includes/classes/PayPal.php:158
+msgid "Euro EUR"
+msgstr "Euro EUR"
+
+#: settings/main_settings/courses.php:100
+msgid "Ex.: 200x100"
+msgstr "Ej.: 200x100"
+
+#: stm-lms-templates/account/v1/register.php:127
+#: stm-lms-templates/account/v1/become_instructor.php:54
+msgid "Expertise"
+msgstr "Experiencia / Capacidad"
+
+#: settings/manage_users/main.php:40
+msgid "Expertize - "
+msgstr ""
+
+#: settings/lms_metaboxes.php:246
+msgid "Expiration"
+msgstr "Expiración"
+
+#: lms/classes/user.php:1010
+msgid "Extra profile information"
+msgstr "Información de perfil adicional"
+
+#: lms/classes/user.php:955
+#: stm-lms-templates/account/private/edit_account/socials.php:17
+msgid "Facebook"
+msgstr "Facebook"
+
+#: lms/classes/order.php:134 lms/classes/user.php:771
+msgid "Failed"
+msgstr "Fallido"
+
+#: stm-lms-templates/questions/true_false.php:12
+#: stm-lms-templates/questions/answers/true_false.php:36
+msgid "False"
+msgstr ""
+
+#: settings/lms_metaboxes.php:309 settings/lms_metaboxes.php:314
+#: stm-lms-templates/course/parts/tabs.php:10
+#: stm-lms-templates/wizard/views/steps/single_course.php:53
+msgid "FAQ"
+msgstr "FAQ"
+
+#: lms/classes/user.php:1793
+msgid "Favorite Courses"
+msgstr "Cursos favoritos"
+
+#: stm-lms-templates/account/private/parts/wishlist.php:11
+msgid "Favorite courses"
+msgstr "Cursos favoritos"
+
+#: stm-lms-templates/global/wishlist-button.php:7
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: stm-lms-templates/courses/parts/image.php:32
+#: stm-lms-templates/courses/advanced_filters/filters/status.php:6
+msgid "Featured"
+msgstr "Destacado"
+
+#: settings/lms_metaboxes.php:90
+msgid "Featured Course"
+msgstr "Curso destacado"
+
+#: stm-lms-templates/courses/grid.php:51
+msgid "Featured Courses"
+msgstr "Cursos destacados"
+
+#: elementor/widgets/stm_lms_featured_teacher.php:45
+msgid "Featured Teacher"
+msgstr "Profesor Destacado"
+
+#: settings/lms_metaboxes.php:97
+msgid ""
+"Field increments automatically when somebody views the course. But you can "
+"set certain amount of views."
+msgstr ""
+"El campo aumenta automáticamente cuando alguien ve el curso. Pero puede "
+"establecer cierta cantidad de vistas."
+
+#: stm-lms-templates/global/file.php:42
+msgid "File size:"
+msgstr "Tamaño del archivo:"
+
+#: settings/main_settings/quiz.php:42
+msgid "File Upload"
+msgstr "Carga de archivos"
+
+#: settings/media_library/main.php:58
+msgid "Files not found"
+msgstr "Archivos no encontrados"
+
+#: settings/lms_metaboxes.php:457 settings/questions_v2/field.php:33
+#: settings/questions_v1/components/questions.php:72
+msgid "Fill the Gap"
+msgstr "Llenar el vacío"
+
+#: stm-lms-templates/courses/advanced_filters/main.php:16
+msgid "Filters"
+msgstr "Filtros"
+
+#: stm-lms-templates/vc_templates/templates/stm_courses_searchbox.php:29
+msgid "Find Course"
+msgstr "Buscar curso"
+
+#: wizard/main.php:77
+msgid "Finish"
+msgstr "Terminar"
+
+#: settings/main_settings/float_menu.php:44
+msgid "Float menu Colors"
+msgstr "Menú flotante Colores"
+
+#: settings/main_settings/float_menu.php:5
+msgid "Floating menu"
+msgstr "Menú flotante"
+
+#: settings/main_settings/float_menu.php:26
+msgid "Floating menu position"
+msgstr "Posición del menú flotante"
+
+#: lms/widgets/popular.widget.php:90
+#: elementor/widgets/stm_lms_single_course_carousel.php:100
+#: elementor/widgets/stm_lms_courses_carousel.php:120
+#: stm-lms-templates/global/price.php:12
+msgid "Free"
+msgstr "Gratis"
+
+#: stm-lms-templates/courses/advanced_filters/filters/price.php:6
+msgid "Free Courses"
+msgstr "Cursos gratuitos"
+
+#: lms/classes/user.php:1448
+msgid "Further Instructions sent on E-mail."
+msgstr "Instrucciones adicionales enviadas por correo electrónico."
+
+#: settings/main_settings/gdpr.php:9
+msgid "GDPR"
+msgstr "GDPR"
+
+#: settings/main_settings/gdpr.php:15
+msgid "GDPR Label"
+msgstr "Etiqueta del GDPR"
+
+#: settings/main_settings/gdpr.php:20
+msgid "GDPR Privacy Policy Page"
+msgstr "Página de la política de privacidad de GDPR"
+
+#: settings/main_settings/gdpr.php:10
+msgid "GDPR Settings"
+msgstr "Configuración de GDPR"
+
+#: wizard/main.php:72 settings/main_settings/general.php:5
+#: settings/main_settings/profiles.php:7
+#: stm-lms-templates/wizard/views/steps/general.php:5
+msgid "General"
+msgstr "General"
+
+#: settings/lms_metaboxes.php:85 settings/main_settings/general.php:6
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:23
+msgid "Generate Courses Page"
+msgstr "Página Generar cursos"
+
+#: settings/main_settings/routes.php:50
+msgid "Generate LMS Pages"
+msgstr "Generar páginas LMS"
+
+#: stm-lms-templates/wizard/fields/pages.php:7
+msgid "Generate Pages"
+msgstr "Generar páginas"
+
+#: settings/page_generator/field.php:29
+msgid "Generate pages"
+msgstr "Generar páginas"
+
+#: stm-lms-templates/wizard/fields/pages.php:35
+msgid "Generating"
+msgstr "Generador"
+
+#: stm-lms-templates/course/sticky/buy.php:10
+msgid "Get Course"
+msgstr "Obtener el curso"
+
+#: stm-lms-templates/global/buy-button.php:94
+msgid "Get course"
+msgstr "Obtén el curso"
+
+#: stm-lms-templates/stm-lms-go-pro.php:149 lms/views/addons/main.php:10
+msgid "Get now"
+msgstr "Obtén ahora"
+
+#: settings/main_settings/certificates.php:23
+msgid "GET STARTED"
+msgstr "COMENZAR"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:83
+msgid ""
+"Get started easy, select a course here, pass it and get your first "
+"certificate"
+msgstr ""
+"Comience fácilmente, seleccione un curso aquí, páselo y obtenga su primer "
+"certificado"
+
+#: lms/classes/cart.php:45 lms/classes/cart.php:49
+#: lms/classes/guest_checkout.php:41 lms/classes/guest_checkout.php:48
+#: lms/classes/guest_checkout.php:51
+msgid "Go to Cart"
+msgstr "Ir al carro"
+
+#: settings/main_settings/google_api.php:6
+msgid "Google API"
+msgstr "API Google"
+
+#: settings/main_settings/google_api.php:7
+msgid "Google API Settings"
+msgstr "Configuración de la API de Google"
+
+#: lms/classes/user.php:1105
+msgid "Google Classroom auditory"
+msgstr "Auditorio de Google Classroom"
+
+#: lms/helpers.php:855
+msgid "Google Classrooms"
+msgstr "Aulas de Google"
+
+#: elementor/widgets/stm_lms_google_classroom.php:45
+msgid "Google Classrooms grid view"
+msgstr "Vista de cuadrícula de Google Classrooms"
+
+#: lms/classes/user.php:967
+#: stm-lms-templates/account/private/edit_account/socials.php:27
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: settings/main_settings/courses.php:29
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:45
+msgid "Grid View"
+msgstr "Vista de cuadrícula"
+
+#: lms/helpers.php:816
+msgid "Group Courses"
+msgstr "Cursos grupales"
+
+#: stm-lms-templates/account/private/parts/enterprise_form.php:7
+msgid "Have a question?"
+msgstr "¿Tiene alguna pregunta?"
+
+#: stm-lms-templates/account/private/parts/enterprise_form.php:8
+msgid "Here you can send a direct request to the site owner."
+msgstr "Aquí puede enviar una solicitud directa al propietario del sitio."
+
+#: stm-lms-templates/stm-lms-lesson.php:163
+msgid "Hey there, great course, right? Do you like this course?"
+msgstr "Hola, un gran curso, ¿verdad? ¿Te gusta este curso?"
+
+#: stm-lms-templates/global/account-dropdown.php:19
+msgid "Hey, %s"
+msgstr "Hola, %s"
+
+#: stm-lms-templates/account/float_menu/logged_out.php:38
+msgid "Hey, Please Login"
+msgstr "Oye, por favor inicie sesión"
+
+#: elementor/widgets/stm_lms_courses_grid.php:99
+#: elementor/widgets/stm_lms_courses_grid.php:127
+#: elementor/widgets/stm_lms_courses_grid.php:142
+msgid "Hide"
+msgstr "Esconder"
+
+#: visual_composer/modules/stm_lms_courses_grid.php:23
+#: elementor/widgets/stm_lms_courses_grid.php:95
+msgid "Hide Top bar"
+msgstr "Ocultar barra superior"
+
+#: settings/manage_users/main.php:20 settings/manage_users/main.php:50
+msgid "History"
+msgstr "Historia"
+
+#: lms/classes/cart.php:232
+msgid "Holder name"
+msgstr "Nombre del titular"
+
+#: libraries/paypal/includes/classes/PayPal.php:159
+msgid "Hong Kong dollar HKD"
+msgstr "Dólar de Hong Kong HKD"
+
+#: settings/lms_metaboxes.php:123 lms/classes/course.php:384
+#: stm-lms-templates/courses/advanced_filters/filters/status.php:7
+msgid "Hot"
+msgstr "Hot"
+
+#: lms/helpers.php:46
+msgid "hour"
+msgstr "hora"
+
+#: stm-lms-templates/quiz/timer.php:16
+msgid "Hours"
+msgstr "Horas"
+
+#: elementor/widgets/stm_lms_courses_categories.php:264
+msgid "Hover"
+msgstr "Cernerse"
+
+#: lms/views/addons/main.php:29
+msgid "How it works"
+msgstr "Cómo funciona"
+
+#. URI of the plugin
+msgid "http://masterstudy.stylemixthemes.com/lms-plugin/"
+msgstr "http://masterstudy.stylemixthemes.com/LMS-plugin/"
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#: libraries/paypal/includes/classes/PayPal.php:160
+msgid "Hungarian forint HUF"
+msgstr "Forint húngaro HUF"
+
+#: stm-lms-templates/wizard/views/skip.php:3
+msgid "I already know,"
+msgstr "Ya lo sé,"
+
+#: stm-lms-templates/account/v1/restore.php:40
+msgid "I have an account"
+msgstr "Tengo una cuenta"
+
+#: lms/views/payout/meta-box-payout-data.php:142
+msgid "ID"
+msgstr "ID"
+
+#: lms/classes/user.php:1528
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Si esto fue un error, simplemente ignore este correo electrónico y no pasará "
+"nada."
+
+#: settings/main_settings/profiles.php:51
+msgid ""
+"If you want to display link to Cancel Subscription page, choose page and add "
+"to page content shortcode [pmpro_cancel]."
+msgstr ""
+"Si quieres mostrar el enlace a la página de cancelación de suscripción, "
+"elige la página y añade a la página el código abreviado de contenido "
+"[pmpro_cancel]."
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:56
+#: lms/classes/helpers.php:587
+#: elementor/widgets/stm_lms_featured_teacher.php:155
+msgid "Image"
+msgstr "Imagen"
+
+#: settings/main_settings/quiz.php:40
+msgid "Image Attachment type, either File Upload or input for Text URL."
+msgstr ""
+"Tipo de archivo adjunto de imagen, ya sea Carga de archivo o entrada para "
+"URL de texto."
+
+#: settings/lms_metaboxes.php:455 settings/questions_v2/field.php:31
+#: settings/questions_v1/components/questions.php:60
+msgid "Image Match"
+msgstr "Coincidencia de imagen"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:25
+#: visual_composer/modules/stm_lms_courses_grid.php:73
+#: visual_composer/modules/stm_lms_courses_carousel.php:155
+msgid "Image size (Ex. : 200x100)"
+msgstr "Tamaño de la imagen (Ej. : 200x100)"
+
+#: elementor/widgets/stm_lms_recent_courses.php:104
+#: elementor/widgets/stm_lms_courses_grid.php:169
+#: elementor/widgets/stm_lms_courses_carousel.php:261
+msgid "Image size (Ex. : thumbnail)"
+msgstr "Tamaño de la imagen (Ej. : miniatura)"
+
+#: settings/media_library/main.php:35
+msgid "Images"
+msgstr "Imágenes"
+
+#: lms/helpers.php:758
+msgid ""
+"Import courses from Udemy and display them on your website. Use ready-made "
+"courses on your platform and earn commissions."
+msgstr ""
+"Importa cursos de Udemy y muéstralos en tu sitio web. Usa cursos listos para "
+"usar en tu plataforma y gana comisiones."
+
+#: settings/demo_import/tpls/field.php:2
+msgid "Import Demo courses"
+msgstr "Importar cursos de demostración"
+
+#: stm-lms-templates/wizard/views/steps/finish.php:24
+msgid "Import demo courses"
+msgstr "Importar cursos de demostración"
+
+#: lms/views/addons/main.php:6
+msgid "Improve your LMS with"
+msgstr "Mejora tu LMS con"
+
+#: lms/classes/comments.php:27
+msgid "In response to"
+msgstr "En respuesta a"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:65
+msgid "Indicate the number of courses to be shown on one page."
+msgstr "Indique el número de cursos que se mostrarán en una página."
+
+#: stm-lms-templates/wizard/views/steps/business.php:16
+msgid "Individual"
+msgstr "Individual"
+
+#: settings/main_settings/courses.php:61
+msgid "Infinite Scrolling"
+msgstr "Desplazamiento infinito"
+
+#: settings/questions_v2/tpls/image.php:6
+msgid "Insert image for question"
+msgstr "Insertar imagen para la pregunta"
+
+#: lms/classes/user.php:963
+#: stm-lms-templates/account/private/edit_account/socials.php:51
+msgid "Instagram"
+msgstr "Instagram"
+
+#: lms/classes/models/StmLmsPayout.php:302
+msgid "Installing completed successfully."
+msgstr "Instalación completada con éxito."
+
+#: lms/helpers.php:170 elementor/widgets/stm_lms_featured_teacher.php:104
+#: stm-lms-templates/account/float_menu/user.php:10
+#: stm-lms-templates/account/public/instructor_parts/top_info.php:17
+#: stm-lms-templates/account/private/instructor_parts/top_info.php:14
+msgid "Instructor"
+msgstr "Profesor"
+
+#: stm-lms-templates/dashboard/components/student_assignments.php:28
+msgid "Instructor answer"
+msgstr "Respuesta del instructor"
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:51
+#: elementor/widgets/stm_lms_featured_teacher.php:145
+#: stm-lms-templates/account/private/instructor_parts/bio.php:11
+msgid "Instructor Bio"
+msgstr "Biografía del instructor"
+
+#: lms/classes/models/StmLmsPayout.php:151
+msgid "Instructor Earnings"
+msgstr "Ganancias del instructor"
+
+#: lms/views/statistics/statistics.php:82
+#: lms/views/payout/meta-box-payout-data.php:102
+msgid "Instructor earnings"
+msgstr "Ganancias del instructor"
+
+#: settings/main_settings/general.php:95
+msgid "Instructor earnings (%)"
+msgstr "Ganancias del instructor (%)"
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:46
+#: elementor/widgets/stm_lms_featured_teacher.php:135
+msgid "Instructor Position"
+msgstr "Puesto de instructor"
+
+#: stm-lms-templates/wizard/views/steps/profiles.php:15
+msgid "Instructor Pre-moderation"
+msgstr "Pre-moderación del instructor"
+
+#: stm-lms-templates/wizard/views/steps/profiles.php:35
+msgid "Instructor Registration"
+msgstr "Registro de Instructores"
+
+#: lms/classes/instructors.php:846 lms/classes/instructors.php:847
+msgid "Instructor Requests"
+msgstr "Solicitudes de instructores"
+
+#: lms/classes/instructors.php:970 lms/classes/instructors.php:984
+msgid "Instructor submission"
+msgstr "Envío del instructor"
+
+#: settings/main_settings/profiles.php:31
+msgid ""
+"Instructor will have a tool in an account to add student by email to course"
+msgstr ""
+"El instructor tendrá una herramienta en una cuenta para agregar estudiante "
+"por correo electrónico al curso"
+
+#: lms/classes/templates.php:73
+#: stm-lms-templates/courses/advanced_filters/filters/instructor.php:20
+msgid "Instructors"
+msgstr "Profesores"
+
+#: settings/main_settings/profiles.php:43
+msgid "Instructors Archive Page"
+msgstr "Página del Archivo de Profesores"
+
+#: lms/classes/subscriptions.php:370
+msgid "Instructors can mark their courses as featured"
+msgstr "Los instructores pueden marcar sus cursos como destacados"
+
+#: elementor/widgets/stm_lms_instructors_carousel.php:45
+msgid "Instructors Carousel"
+msgstr "Carrusel de instructores"
+
+#: settings/main_settings/course.php:74 lms/classes/helpers.php:557
+msgid "Intermediate"
+msgstr "Intermedio"
+
+#: settings/lms_wpcfto_helpers.php:38
+msgid "Invalid file extension"
+msgstr "Extensión de archivo no válida"
+
+#: stm-lms-templates/dashboard/components/add_user.php:24
+msgid "Invite student to this course:"
+msgstr "Invite al alumno a este curso:"
+
+#: libraries/paypal/includes/classes/PayPal.php:161
+msgid "Israeli new shekel ILS"
+msgstr "El nuevo siclo israelí ILS"
+
+#: settings/lms_metaboxes.php:454 settings/questions_v2/field.php:30
+#: settings/questions_v1/components/questions.php:54
+msgid "Item Match"
+msgstr "Partida de artículos"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:155
+msgid "Items"
+msgstr "Artículos"
+
+#: libraries/paypal/includes/classes/PayPal.php:162
+msgid "Japanese yen JPY"
+msgstr "Yen japonés JPY"
+
+#: lms/helpers.php:67
+msgid "just now"
+msgstr "ahora mismo"
+
+#: stm-lms-templates/questions/keywords.php:32
+#: stm-lms-templates/questions/answers/keywords.php:35
+msgid "Keyword #%s"
+msgstr "Palabra clave #%s"
+
+#: settings/lms_metaboxes.php:456 settings/questions_v2/field.php:32
+#: settings/questions_v1/components/questions.php:66
+msgid "Keywords"
+msgstr "Palabras clave"
+
+#: stm-lms-templates/account/private/edit_account/name.php:14
+msgid "Last Name"
+msgstr "Apellido"
+
+#: stm-lms-templates/stm-lms-go-pro.php:180
+msgid "Last Update:"
+msgstr "Última actualización:"
+
+#: lms/classes/instructors.php:454
+msgid "Last updated: %s"
+msgstr "Última actualización: %s"
+
+#: settings/main_settings/courses.php:110
+msgid ""
+"LazyLoad displays images and/or iframes on a page only when they are visible "
+"to the user."
+msgstr ""
+"LazyLoad muestra imágenes y/o iframes en una página solo cuando son visibles "
+"para el usuario."
+
+#: stm-lms-templates/stm-lms-go-pro.php:110
+msgid "Learn more."
+msgstr "Aprende más."
+
+#: lms/classes/user.php:1749
+msgid "Learning area"
+msgstr "Área de aprendizaje"
+
+#: settings/lms_metaboxes.php:160
+msgid "Leave empty if course is free"
+msgstr "Dejar vacío si el curso es gratuito"
+
+#: settings/lms_metaboxes.php:176
+msgid "Leave empty if no sale price"
+msgstr "Dejar vacío si no hay precio de venta"
+
+#: lms/classes/lesson.php:122
+msgid "Lecture %s"
+msgstr "Clase %s"
+
+#: stm-lms-templates/course/parts/info.php:35
+msgid "Lectures"
+msgstr "Clases"
+
+#: settings/main_settings/float_menu.php:28
+#: settings/main_settings/general.php:39
+msgid "Left"
+msgstr "Izquierda"
+
+#: post_type/posts.php:90 settings/curriculum/tpls/add_items.php:7
+msgid "Lesson"
+msgstr "Clase"
+
+#: lms/classes/instructors.php:188
+msgid "Lesson Author"
+msgstr "Autor de la lección"
+
+#: settings/lms_metaboxes.php:356
+msgid "Lesson duration"
+msgstr "Duración de la clase"
+
+#: lms/helpers.php:540
+msgid "Lesson file title"
+msgstr "Título del archivo de la lección"
+
+#: settings/lms_metaboxes.php:364
+msgid "Lesson Frontend description"
+msgstr "Descripción inicial de la clase"
+
+#: stm-lms-templates/stm-lms-lesson.php:239
+msgid "Lesson is locked. Please Buy course to proceed."
+msgstr "La lección está bloqueada. Por favor, compra el curso para proceder."
+
+#: lms/helpers.php:491
+msgid "Lesson materials"
+msgstr "Materiales de la lección"
+
+#: settings/main_settings/course.php:85
+msgid "Lesson Page Style"
+msgstr "Estilo de página de lección"
+
+#: settings/lms_metaboxes.php:360
+msgid "Lesson preview (Lesson will be available to everyone)"
+msgstr "Vista previa de la lección (la lección estará disponible para todos)"
+
+#: settings/lms_metaboxes.php:18 settings/lms_metaboxes.php:342
+msgid "Lesson Settings"
+msgstr "Configuración de la Clase"
+
+#: stm-lms-templates/wizard/views/steps/curriculum.php:13
+msgid "Lesson style"
+msgstr "Estilo de la lección"
+
+#: settings/lms_metaboxes.php:346
+msgid "Lesson type"
+msgstr "Tipo de clase"
+
+#: settings/lms_metaboxes.php:377
+msgid "Lesson video"
+msgstr "Video de la lección"
+
+#: settings/lms_metaboxes.php:369
+msgid "Lesson video poster"
+msgstr "Póster del video de la lección"
+
+#: settings/lms_metaboxes.php:373
+msgid "Lesson video URL"
+msgstr "URL del video de la clase"
+
+#: settings/lms_metaboxes.php:385
+msgid "Lesson video width"
+msgstr "Ancho del video de la lección"
+
+#: post_type/posts.php:91 settings/demo_import/tpls/field.php:19
+msgid "Lessons"
+msgstr "Clases"
+
+#: stm-lms-templates/course/parts/info.php:50
+#: stm-lms-templates/courses/advanced_filters/filters/levels.php:10
+msgid "Level"
+msgstr "Nivel"
+
+#: settings/main_settings/course.php:58
+msgid "Level ID"
+msgstr "ID de nivel"
+
+#: settings/main_settings/course.php:63
+msgid "Level Label"
+msgstr "Etiqueta de nivel"
+
+#: stm-lms-templates/stm-lms-go-pro.php:124
+#: stm-lms-templates/stm-lms-go-pro.php:160
+msgid "Lifetime"
+msgstr "Vida"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:26
+#: elementor/widgets/stm_lms_instructors_carousel.php:105
+msgid "Limit"
+msgstr "Límite"
+
+#: stm-lms-templates/account/private/add_student/main.php:36
+msgid "Limit:"
+msgstr "Límite:"
+
+#: settings/main_settings/courses.php:30
+msgid "List"
+msgstr "Lista"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:52
+msgid "List View"
+msgstr "Vista de lista"
+
+#: libraries/paypal/includes/classes/PayPal.php:132
+msgid "Live"
+msgstr "Activo"
+
+#: stm-lms-templates/course/parts/tabs/curriculum.php:73
+msgid "Live Stream"
+msgstr "Transmisión en vivo"
+
+#: lms/helpers.php:809
+msgid "Live Streaming"
+msgstr "Transmisión en vivo"
+
+#: db/fix_rating.php:9 db/fix_rating.php:10
+msgid "LMS course ratings"
+msgstr "Clasificación de los cursos del LMS"
+
+#: user_manager/UserManager.Interface.php:23
+#: user_manager/UserManager.Interface.php:24
+msgid "LMS Dashboard"
+msgstr "Panel de control de LMS"
+
+#: lms/helpers.php:895
+msgid "LMS Forms Editor"
+msgstr "Editor de formularios LMS"
+
+#: lms/helpers.php:898
+msgid ""
+"LMS Forms Editor is an addon that allows you to customize the profile (incl. "
+"registration) form, Become Instructor request form and Enterprise form of "
+"the MasterStudy LMS"
+msgstr ""
+"LMS Forms Editor es un complemento que le permite personalizar el formulario "
+"de perfil (incluido el registro), el formulario de solicitud de Become "
+"Instructor y el formulario Enterprise del LMS de MasterStudy"
+
+#: settings/main_settings/routes.php:10
+msgid "LMS Pages"
+msgstr "Páginas LMS"
+
+#: settings/main_settings.php:9 settings/main_settings.php:11
+msgid "LMS Settings"
+msgstr "Configuración de LMS"
+
+#: wizard/main.php:34 wizard/main.php:35
+msgid "LMS Wizard"
+msgstr "Asistente lmS"
+
+#: stm-lms-templates/lesson/comments.php:114
+msgid "Load More"
+msgstr "Cargar Más"
+
+#: visual_composer/modules/stm_lms_courses_grid.php:42
+#: elementor/widgets/stm_lms_courses_grid.php:123
+#: stm-lms-templates/courses/load_more.php:16
+#: stm-lms-templates/account/private/instructor_parts/courses.php:52
+msgid "Load more"
+msgstr "Cargar más"
+
+#: settings/main_settings/courses.php:58
+msgid "Load More Type"
+msgstr "Cargar más Tipos"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:110
+msgid "Loading courses."
+msgstr "Cursos de carga."
+
+#: settings/curriculum/field.php:27
+msgid "Loading curriculum..."
+msgstr "Cargando currículum..."
+
+#: stm-lms-templates/lesson/finish_score_popup.php:36
+msgid "Loading your statistics"
+msgstr "Carga de estadísticas"
+
+#: stm-lms-templates/account/v1/form_builder/file.php:36
+#: stm-lms-templates/account/private/edit_account/custom_fields.php:73
+msgid "Loading..."
+msgstr "Carga..."
+
+#: stm-lms-templates/account/private/parts/logout.php:4
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#: stm-lms-templates/modals/login.php:7
+#: stm-lms-templates/account/v1/login.php:29
+#: stm-lms-templates/account/float_menu/logged_out.php:26
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: stm-lms-templates/account/v1/login.php:85
+msgctxt "Login button"
+msgid "Login"
+msgstr ""
+
+#: stm-lms-templates/account/v1/login.php:94
+msgid "Login/E-mail"
+msgstr "Ingresar/E-mail"
+
+#: lms/classes/instructors.php:826
+msgid "Login: %s; Password: %s; Site URL: %s"
+msgstr "Inicio de sesión: %s; Contraseña: %s; URL del sitio: %s"
+
+#: stm-lms-templates/global/account-dropdown.php:26
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: visual_composer/modules/stm_lms_courses_carousel.php:65
+msgid "Loop slides"
+msgstr "Diapositivas de bucle"
+
+#: stm-lms-templates/account/v1/login.php:77
+#: stm-lms-templates/account/v1/login.php:78
+msgid "Lost Password"
+msgstr "Contraseña Perdida"
+
+#: settings/main_settings/general.php:13
+msgid "Main color"
+msgstr "Color principal"
+
+#: stm-lms-templates/account/private/instructor_parts/grid.php:113
+msgid "Make Featured"
+msgstr "Hacer destacar"
+
+#: libraries/paypal/includes/classes/PayPal.php:163
+msgid "Malaysian ringgit MYR"
+msgstr "Ringgit malayo MYR"
+
+#: lms/helpers.php:781
+msgid ""
+"Manage all payments and track affiliated statistics for the sold courses, "
+"such as Total Profit, Total Payments, and manage authors fee."
+msgstr ""
+"Administre todos los pagos y realice un seguimiento de las estadísticas "
+"afiliadas para los cursos vendidos, como Total Profit, Total Payments y "
+"administre la tarifa de los autores."
+
+#: lms/classes/instructors.php:246
+msgid "Manage students"
+msgstr "Administrar estudiantes"
+
+#: lms/helpers.php:905
+msgid ""
+"Manage, keep and load files of various formats while creating e-learning "
+"content in the front-end."
+msgstr ""
+"Administre, mantenga y cargue archivos de varios formatos mientras crea "
+"contenido de aprendizaje electrónico en el front-end."
+
+#: settings/lms_metaboxes.php:91
+msgid "Mark this checkbox to add badge to course \"Featured\"."
+msgstr ""
+"Marque esta casilla de verificación para agregar la insignia al curso "
+"\"Destacado\"."
+
+#: stm-lms-templates/wizard/views/steps/business.php:38
+msgid "Marketplace"
+msgstr "Mercado"
+
+#: settings/main_settings/courses.php:31
+msgid "Masonry"
+msgstr "Albañilería"
+
+#: settings/page_generator/api/get.php:17
+msgid "MasterStudy Checkout"
+msgstr "Pago de MasterStudy"
+
+#: settings/page_generator/api/get.php:18
+msgid "MasterStudy Courses"
+msgstr "Cursos de MasterStudy"
+
+#: db/tables_updater.php:27
+msgid "MasterStudy LMS database update required"
+msgstr "Se requiere la actualización de la base de datos del MasterStudy LMS"
+
+#: settings/main_settings/payout.php:14
+msgid "Masterstudy LMS PRO Payout"
+msgstr "Masterstudy LMS PRO Pago"
+
+#. Name of the plugin
+msgid "MasterStudy LMS – WordPress Course Plugin"
+msgstr "MasterStudy LMS - WordPress Course Plugin"
+
+#: settings/page_generator/api/get.php:14
+msgid "MasterStudy Private Account"
+msgstr "Cuenta privada de MasterStudy"
+
+#: lms/views/addons/main.php:7
+msgid "MasterStudy Pro"
+msgstr "MasterStudy Pro"
+
+#: lms/views/addons/main.php:2
+#, fuzzy
+msgid "MasterStudy PRO Addons"
+msgstr "Masterstudy LMS PRO Addons"
+
+#: settings/page_generator/api/get.php:15
+msgid "MasterStudy Public Account"
+msgstr "MasterStudy Cuenta Pública"
+
+#: settings/page_generator/api/get.php:16
+msgid "MasterStudy Wishlist"
+msgstr "Lista de deseos de MasterStudy"
+
+#: lms/helpers.php:903
+msgid "Media File Manager"
+msgstr "Administrador de archivos multimedia"
+
+#: settings/media_library/main.php:13
+msgid "Media Gallery"
+msgstr "Galería de Medios"
+
+#: settings/main_settings/quiz.php:39
+msgid "Media Type"
+msgstr "Tipo de medio"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:91
+msgid "Media:"
+msgstr "Medio:"
+
+#: lms/classes/user.php:1075
+msgid "Meeting Host"
+msgstr "Anfitrión de la reunión"
+
+#: lms/classes/course.php:40 lms/widgets/popular.widget.php:69
+#: lms/widgets/popular.widget.php:72
+msgid "Members only"
+msgstr "Sólo para miembros"
+
+#: stm-lms-templates/global/price.php:24
+msgid "Membership"
+msgstr "Membresía"
+
+#: stm-lms-templates/account/private/parts/expiration.php:10
+msgid "Membership has expired"
+msgstr ""
+
+#: stm-lms-templates/account/private/parts/expiration.php:13
+msgid "Membership is not active"
+msgstr ""
+
+#. %s: number
+#: stm-lms-templates/account/v1/use_membership.php:25
+msgid "Membership quotas left: <strong>%s</strong>"
+msgstr "Cuotas de membresía que quedan: <strong> %s </strong>"
+
+#: lms/classes/user.php:1823
+#, fuzzy
+msgid "Memberships"
+msgstr "Mis Membresías"
+
+#: settings/manage_users/main.php:44 settings/manage_users/main.php:69
+#: stm-lms-templates/account/v1/enterprise.php:58
+#: stm-lms-templates/account/public/instructor_parts/fast_message.php:23
+msgid "Message"
+msgstr "Mensaje"
+
+#: lms/classes/chat.php:42
+msgid "Message Sent"
+msgstr "Mensaje Enviado"
+
+#: lms/classes/user.php:1351
+msgid "Message sent."
+msgstr "Mensaje enviado."
+
+#: lms/classes/user.php:1782
+msgid "Messages"
+msgstr "Mensajes"
+
+#: libraries/paypal/includes/classes/PayPal.php:164
+msgid "Mexican peso MXN"
+msgstr "Peso mexicano MXN"
+
+#: lms/helpers.php:47
+msgid "minute"
+msgstr "minuto"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:70
+#: libraries/paypal/includes/admin/views/settings/index.php:79
+#: libraries/paypal/includes/admin/views/settings/index.php:93
+msgid "Mode"
+msgstr "Modo"
+
+#: settings/main_settings/course.php:14
+msgid "Modern"
+msgstr "Moderno"
+
+#: lms/helpers.php:43
+msgid "month"
+msgstr "mes"
+
+#: stm-lms-templates/stm-lms-go-pro.php:34
+msgid "Most Popular"
+msgstr "Más populares"
+
+#: lms/helpers.php:835
+msgid ""
+"Motivate and engage students by awarding them points for their progress and "
+"activity on the website."
+msgstr ""
+"Motivar e involucrar a los estudiantes otorgándoles puntos por su progreso y "
+"actividad en el sitio web."
+
+#: visual_composer/modules/stm_lms_courses_carousel.php:85
+msgid "Mouse Drag"
+msgstr "Arrastrar el ratón"
+
+#: settings/lms_metaboxes.php:452 settings/questions_v2/field.php:28
+#: settings/questions_v1/components/questions.php:42
+msgid "Multi choice"
+msgstr "Elección múltiple"
+
+#: lms/helpers.php:848
+msgid "Multi-instructors"
+msgstr "Multi-instructores"
+
+#: stm-lms-templates/global/completed_info.php:44
+msgid "Multimedia:"
+msgstr "Multimedia:"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:23
+#: stm-lms-templates/account/private/parts/certificate-list.php:77
+#, fuzzy
+msgid "My certificates"
+msgstr "Mis Certificados"
+
+#: stm-lms-templates/stm-lms-user-chats.php:19
+msgid "My messages"
+msgstr "Mis mensajes"
+
+#: lms/classes/user.php:1812
+msgid "My Orders"
+msgstr "Mis Pedidos"
+
+#: stm-lms-templates/account/private/parts/my-orders.php:10
+msgid "My orders"
+msgstr "Mis pedidos"
+
+#: stm-lms-templates/account/public/instructor_parts/top_info.php:12
+#: stm-lms-templates/account/private/instructor_parts/top_info.php:12
+#: stm-lms-templates/account/private/parts/top_info.php:12
+msgid "My profile"
+msgstr "Mi perfil"
+
+#: stm-lms-templates/lesson/comments.php:31
+#: stm-lms-templates/lesson/comments.php:118
+msgid "My Question"
+msgstr "Mi Pregunta"
+
+#: stm-lms-templates/account/private/not_logged/wishlist.php:1
+msgid "My Wishlist"
+msgstr "Mi lista de deseos"
+
+#: lms/classes/instructors.php:656 lms/classes/instructors.php:657
+#: lms/classes/instructors.php:893 lms/classes/instructors.php:895
+#: lms/classes/instructors.php:940 lms/classes/instructors.php:941
+msgid "N/A"
+msgstr "N/A"
+
+#: lms/classes/user.php:985 lms/classes/user.php:988
+#: stm-lms-templates/account/v1/enterprise.php:40
+#: stm-lms-templates/account/private/edit_account/name.php:5
+msgid "Name"
+msgstr "Nombre"
+
+#. %s: data
+#: lms/classes/user.php:1425
+#, fuzzy
+#| msgid "Name - %s; Email - %s; Message - %s"
+msgid "Name - %1$s; Email - %2$s; Message - %3$s"
+msgstr "Nombre - %s; Email- %s; Mensaje- %s"
+
+#: settings/lms_wpcfto_ajax.php:188
+msgid "Name is required"
+msgstr ""
+
+#: settings/media_library/main.php:48
+msgid "Name: A / z"
+msgstr "Nombre: A / z"
+
+#: settings/lms_metaboxes.php:124 lms/classes/course.php:385
+#: stm-lms-templates/courses/advanced_filters/filters/status.php:8
+msgid "New"
+msgstr "Nuevo"
+
+#: post_type/posts.php:194
+msgid "New %s"
+msgstr "Nuevo %s"
+
+#: lms/classes/comments.php:171
+msgid "New comment on lesson"
+msgstr "Nuevo comentario sobre la lección"
+
+#: lms/classes/instructors.php:822
+msgid "New course available"
+msgstr "Nuevo curso disponible"
+
+#: post_type/taxonomies.php:39
+msgid "New Course category Name"
+msgstr "Nombre de la categoría del nuevo Curso"
+
+#: settings/faq/components/faq.php:25
+msgid "New FAQ item"
+msgstr "Nuevo elemento de preguntas frecuentes"
+
+#: lms/classes/instructors.php:588 lms/classes/instructors.php:659
+msgid "New Instructor Application"
+msgstr "Nueva Candidatura de un Profesor"
+
+#: lms/classes/mails.php:35
+msgid "New Order from user %s."
+msgstr "Nuevo pedido del usuario %s."
+
+#: stm-lms-templates/account/private/edit_account/change_password.php:16
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: lms/classes/user.php:1174
+msgid "New password do not match"
+msgstr "La nueva contraseña no coincide"
+
+#: stm-lms-templates/account/v1/restore.php:26
+msgid "New password for \"%s\""
+msgstr "Nueva contraseña para \"%s\""
+
+#: post_type/taxonomies.php:62
+msgid "New Question category Name"
+msgstr "Nueva categoría de preguntas Nombre"
+
+#: lms/classes/reviews.php:256
+msgid "New Review"
+msgstr "Nuevo Comentario"
+
+#: settings/curriculum/tpls/add_section.php:3
+msgid "New section"
+msgstr "Nueva sección"
+
+#: libraries/paypal/includes/classes/PayPal.php:165
+msgid "New Taiwan dollar TWD"
+msgstr "Nuevo dólar de Taiwán TWD"
+
+#: libraries/paypal/includes/classes/PayPal.php:166
+msgid "New Zealand dollar NZD"
+msgstr "Dólar neozelandés NZD"
+
+#: stm-lms-templates/lesson/navigation.php:91
+msgid "Next lesson"
+msgstr "Próxima lección"
+
+#: stm-lms-templates/wizard/views/header.php:32
+msgid "Next step"
+msgstr "Siguiente paso"
+
+#: post_type/posts.php:201
+msgid "No %s found in Trash."
+msgstr "No se encontró %s en la Papelera."
+
+#: post_type/posts.php:200
+msgid "No %s found."
+msgstr "No se encontró %s."
+
+#: stm-lms-templates/course/parts/tabs/announcement.php:9
+msgid "No announcements at this moment."
+msgstr "No hay anuncios en este momento."
+
+#: stm-lms-templates/dashboard/components/student_assignments.php:45
+msgid "No assignments yet..."
+msgstr "Aún no hay asignaciones..."
+
+#: stm-lms-templates/checkout/payment_methods.php:76
+msgid "No available Payment methods"
+msgstr "No hay métodos de Pago disponibles"
+
+#: settings/questions_v2/tpls/question_data.php:21
+msgid "No Category"
+msgstr ""
+
+#: settings/questions_v2/tpls/add_new_qb.php:63
+msgid "No category selected yet..."
+msgstr "Aún no hay categoría seleccionada..."
+
+#: stm-lms-templates/courses/grid.php:108
+msgid "No courses found."
+msgstr "No se encontraron cursos."
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:109
+msgid "No courses."
+msgstr "Todos los cursos."
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_instructors_carousel.php:150
+msgid "No instructors found"
+msgstr "No se han encontrado instructores"
+
+#: stm-lms-templates/account/private/chat/contacts.php:37
+msgid "No messages yet."
+msgstr "No hay mensajes todavía."
+
+#: stm-lms-templates/account/private/parts/my-orders.php:48
+msgid "No orders."
+msgstr "Ningun pedido encontrado."
+
+#: settings/questions_v2/tpls/add_new_qb.php:17
+msgid "No question categories found."
+msgstr "No se han encontrado categorías de preguntas."
+
+#: stm-lms-templates/dashboard/components/student_quiz.php:35
+msgid "No quizzes yet..."
+msgstr "Aún no hay cuestionarios..."
+
+#: stm-lms-templates/account/private/parts/enrolled-quizzes.php:57
+msgid "No quizzes."
+msgstr "SIn cuestionarios."
+
+#: settings/lms_metaboxes.php:122
+msgid "No status"
+msgstr "Sin estatuto"
+
+#: stm-lms-templates/dashboard/components/course.php:140
+msgid "No students in course yet..."
+msgstr "Aún no hay estudiantes en curso..."
+
+#: elementor/widgets/stm_lms_single_course_carousel.php:98
+#: elementor/widgets/stm_lms_courses_carousel.php:118
+msgid "None"
+msgstr "Ninguno"
+
+#: elementor/widgets/stm_lms_courses_categories.php:159
+msgid "Normal"
+msgstr "Normal"
+
+#: libraries/paypal/includes/classes/PayPal.php:167
+msgid "Norwegian krone NOK"
+msgstr "Corona noruega NOK"
+
+#: stm-lms-templates/account/v1/fast_login/main.php:28
+msgid "Not a member?"
+msgstr "¿No eres miembro?"
+
+#: settings/lms_metaboxes.php:213
+msgid "Not included in membership"
+msgstr "No incluido en la membresía"
+
+#: settings/main_settings/general.php:71
+msgid "Note, you need to install WooCommerce, and set Cart and Checkout Pages"
+msgstr ""
+"Tenga en cuenta que debe instalar WooCommerce y configurar las páginas de "
+"carrito y pago"
+
+#. %s: site name
+#: lms/classes/user.php:484
+msgid ""
+"Now you active user on site - %s. Add information and start chatting with "
+"other users - free and fast."
+msgstr ""
+"Ahora eres un usuario activo en el sitio - %s. Añade información y empieza a "
+"chatear con otros usuarios, gratis y rápido."
+
+#: elementor/widgets/stm_lms_google_classroom.php:104
+msgid "Number"
+msgstr "Número"
+
+#: lms/classes/subscriptions.php:356
+msgid "Number of available courses in subscription"
+msgstr "Número de cursos disponibles por suscripción"
+
+#: visual_composer/modules/stm_lms_courses_categories.php:37
+#: elementor/widgets/stm_lms_courses_categories.php:112
+msgid "Number of categories to show"
+msgstr "Número de categorías a mostrar"
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:41
+#: elementor/widgets/stm_lms_featured_teacher.php:125
+msgid "Number of courses per row"
+msgstr "Número de cursos por fila"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:20
+#: visual_composer/modules/stm_lms_courses_grid.php:96
+#: visual_composer/modules/stm_lms_featured_teacher.php:36
+#: elementor/widgets/stm_lms_recent_courses.php:94
+#: elementor/widgets/stm_lms_courses_grid.php:179
+#: elementor/widgets/stm_lms_featured_teacher.php:115
+msgid "Number of courses to show"
+msgstr "Número de cursos a mostrar"
+
+#: settings/main_settings/general.php:62
+msgid "Number of decimals"
+msgstr "Número de decimales"
+
+#: settings/main_settings/courses.php:124
+msgid "Number of Featured Courses in Archive Page"
+msgstr "Número de cursos destacados en la página de archivo"
+
+#: lms/classes/subscriptions.php:366
+msgid "Number of featured courses quote in subscription"
+msgstr "Número de cursos destacados citados en la suscripción"
+
+#: settings/main_settings/general.php:102
+msgid "Number of free featured"
+msgstr "Número de presentaciones gratuitas"
+
+#: lms/classes/cart.php:227
+msgid "Offline Payment"
+msgstr "Pago Offline"
+
+#: lms/classes/order.php:135
+msgid "On hold"
+msgstr "En espera"
+
+#: stm-lms-templates/course/parts/quiz.php:18
+msgid ""
+"Once you submit, you will no longer be able to change your answers. Are you "
+"sure you want to submit the quiz?"
+msgstr ""
+"Una vez que envíe, ya no podrá cambiar sus respuestas. ¿Está seguro de que "
+"desea enviar el cuestionario?"
+
+#: settings/main_settings/quiz.php:9
+#: stm-lms-templates/wizard/views/steps/curriculum.php:53
+msgid "One page"
+msgstr "Una página"
+
+#: settings/lms_metaboxes.php:150
+msgid "One-time purchase"
+msgstr "Compra única"
+
+#: lms/helpers.php:770
+msgid "Online Testing"
+msgstr "Pruebas en línea"
+
+#: stm-lms-templates/courses/advanced_filters/filters/price.php:8
+msgid "Only Subscription"
+msgstr "Solo suscripción"
+
+#: settings/page_generator/api/get.php:155
+msgid "Open Settings"
+msgstr "Abrir Configuración"
+
+#: settings/lms_metaboxes.php:507 post_type/posts.php:170
+#: lms/classes/order.php:296
+#: lms/classes/models/admin/StmStatisticsListTable.php:20
+msgid "Order"
+msgstr "Pedido"
+
+#: lms/classes/cart.php:215
+msgid "Order created, redirecting"
+msgstr "Pedido creado, redireccionando"
+
+#: lms/classes/cart.php:161
+msgid "Order created, redirecting to PayPal"
+msgstr "Pedido creado, redireccionando a PayPal"
+
+#: lms/classes/cart.php:198
+msgid "Order created. Payment completed."
+msgstr "Pedido creado. Pago completado."
+
+#: lms/classes/cart.php:194
+msgid "Order created. Payment not completed."
+msgstr "Pedido creado. Pago no completado."
+
+#: lms/views/payout/meta-box-payout-data.php:144
+msgid "Order ID"
+msgstr "Pedir ID"
+
+#: settings/lms_metaboxes.php:38
+msgid "Order info"
+msgstr "Información sobre el pedido"
+
+#: lms/classes/order.php:140
+msgid "Order items"
+msgstr "Artículos del pedido"
+
+#: lms/classes/order.php:297
+msgid "Order Key"
+msgstr "Clave del Pedido"
+
+#: lms/classes/order.php:129
+msgid "Order key"
+msgstr "Clave de pedido"
+
+#: lms/classes/order.php:298
+msgid "Order Status"
+msgstr "Estado del Pedido"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:154
+msgid "Order type"
+msgstr "Tipo de orden"
+
+#: post_type/posts.php:171
+#: lms/classes/models/admin/StmStatisticsListTable.php:21
+msgid "Orders"
+msgstr "Pedidos"
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:38
+#: stm-lms-templates/course/parts/panel_info/rate.php:15
+msgid "out of 5"
+msgstr "de 5"
+
+#: lms/widgets/popular.widget.php:147
+msgid "Output number:"
+msgstr "Número de salida:"
+
+#: stm-lms-templates/courses/filters.php:25
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:53
+msgid "Overall Rating"
+msgstr "Clasificación general"
+
+#: elementor/widgets/stm_lms_courses_categories.php:247
+#: elementor/widgets/stm_lms_courses_categories.php:352
+msgid "Padding"
+msgstr "Relleno"
+
+#: stm-lms-templates/dashboard/components/course.php:130
+msgid "Page"
+msgstr "Página"
+
+#: settings/main_settings/courses.php:19
+msgid "Page Layout"
+msgstr "Diseño de página"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:83
+#: stm-lms-templates/global/completed_info.php:34
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: settings/main_settings/quiz.php:10
+#: visual_composer/modules/stm_lms_instructors_carousel.php:90
+#: visual_composer/modules/stm_lms_single_course_carousel.php:44
+#: visual_composer/modules/stm_lms_courses_carousel.php:75
+#: elementor/widgets/stm_lms_instructors_carousel.php:214
+#: elementor/widgets/stm_lms_single_course_carousel.php:126
+#: elementor/widgets/stm_lms_courses_carousel.php:194
+#: stm-lms-templates/wizard/views/steps/curriculum.php:60
+msgid "Pagination"
+msgstr "Paginación"
+
+#: stm-lms-templates/courses/advanced_filters/filters/price.php:7
+msgid "Paid Courses"
+msgstr "Cursos Pagados"
+
+#: post_type/posts.php:199
+msgid "Parent %s:"
+msgstr "Padre %s:"
+
+#: post_type/taxonomies.php:34
+msgid "Parent Course category"
+msgstr "Categoría del Curso padre"
+
+#: post_type/taxonomies.php:35
+msgid "Parent Course category:"
+msgstr "Categoría del curso padre:"
+
+#: post_type/taxonomies.php:57
+msgid "Parent Question category"
+msgstr "Categoría de preguntas de los padres"
+
+#: post_type/taxonomies.php:58
+msgid "Parent Question category:"
+msgstr "Categoría de preguntas para padres:"
+
+#: lms/classes/user.php:771 stm-lms-templates/lesson/navigation.php:17
+msgid "Passed"
+msgstr "Aprobado"
+
+#: settings/lms_metaboxes.php:430
+msgid "Passing grade (%)"
+msgstr "Calificación de aprobación (%)"
+
+#: stm-lms-templates/quiz/results.php:35
+msgid "Passing grade - %s%%"
+msgstr "Calificación de aprobación - %s%%"
+
+#: lms/classes/user.php:204 stm-lms-templates/account/v1/login.php:50
+#: stm-lms-templates/account/v1/register.php:63
+#: stm-lms-templates/account/v1/fast_login/main.php:44
+msgid "Password"
+msgstr "Contraseña"
+
+#: stm-lms-templates/account/v1/register.php:73
+msgid "Password again"
+msgstr "Contraseña de nuevo"
+
+#: lms/classes/user.php:1222
+msgid "Password change"
+msgstr "Cambio de contraseña"
+
+#: lms/classes/user.php:1223
+msgid "Password changed successfully."
+msgstr "Contraseña cambiada con éxito."
+
+#: lms/classes/user.php:1694
+msgid "Password changed."
+msgstr "Contraseña cambiada."
+
+#: lms/classes/user.php:1236
+msgid "Password Changed. Re-login now"
+msgstr "Contraseña cambiada. Vuelve a iniciar sesión ahora"
+
+#: lms/classes/user.php:208
+msgid "Password confirm"
+msgstr "Confirmar password"
+
+#: lms/classes/user.php:285 lms/classes/user.php:1180
+msgid "Password must have at least 8 characters"
+msgstr "La contraseña debe tener al menos 8 caracteres"
+
+#: lms/classes/user.php:333 lms/classes/user.php:1214
+msgid "Password must include at least one capital letter!"
+msgstr "¡La contraseña debe incluir al menos una letra mayúscula!"
+
+#: lms/classes/user.php:309 lms/classes/user.php:1196
+msgid "Password must include at least one lowercase letter!"
+msgstr "¡La contraseña debe incluir al menos una letra minúscula!"
+
+#: lms/classes/user.php:321 lms/classes/user.php:1205
+msgid "Password must include at least one number!"
+msgstr "¡La contraseña debe incluir al menos un número!"
+
+#: lms/classes/user.php:297 lms/classes/user.php:1187
+msgid "Password too long"
+msgstr "Contraseña demasiado larga"
+
+#: lms/classes/user.php:274
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+#: settings/main_settings/payments.php:6 settings/main_settings/payments.php:12
+msgid "Payment Methods"
+msgstr "Métodos de Pago"
+
+#: settings/main_settings/payments.php:7
+msgid "Payment Methods Settings"
+msgstr "Configuración de métodos de pago"
+
+#: settings/main_settings/payout.php:6 lms/classes/models/StmLmsPayout.php:203
+#: lms/classes/models/admin/StmStatisticsListTable.php:416
+msgid "Payout"
+msgstr "Pago"
+
+#: lms/views/payout/meta-box-payout-data.php:39
+msgid "Payout data"
+msgstr "Datos de pago"
+
+#: settings/main_settings/payout.php:7
+msgid "Payout Settings"
+msgstr "Configuración de pago"
+
+#: lms/classes/models/StmLmsPayout.php:148
+#: lms/views/payout/meta-box-payout-data.php:72
+#, fuzzy
+msgid "Payout to"
+msgstr "Pago de"
+
+#: lms/classes/models/StmLmsPayout.php:204
+msgid "Payouts"
+msgstr "Pagos"
+
+#: libraries/paypal/includes/classes/PayPal.php:22
+#: libraries/paypal/includes/classes/PayPal.php:25
+msgid "PayPal"
+msgstr "PayPal"
+
+#: lms/classes/cart.php:229
+msgid "Paypal"
+msgstr "Paypal"
+
+#: libraries/paypal/includes/classes/PayPal.php:23
+#: libraries/paypal/includes/classes/PayPal.php:26
+msgid ""
+"PayPal payment method allows you to accept payments for Subscription Pricing "
+"Plans"
+msgstr ""
+"La forma de pago de PayPal te permite aceptar pagos para los planes de "
+"precios de suscripción"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:21
+msgid "PayPal Settings"
+msgstr "Configuración de PayPal"
+
+#: lms/classes/order.php:132 lms/classes/instructors.php:435
+msgid "Pending"
+msgstr "Pendiente"
+
+#: stm-lms-templates/account/private/instructor_parts/grid.php:24
+msgid "Pending for approve"
+msgstr "Pendiente de aprobación"
+
+#: stm-lms-templates/account/private/parts/become_instructor.php:22
+msgid "Pending..."
+msgstr "Pendiente..."
+
+#: visual_composer/modules/stm_lms_recent_courses.php:30
+#: visual_composer/modules/stm_lms_instructors_carousel.php:32
+#: elementor/widgets/stm_lms_instructors_carousel.php:116
+msgid "Per row"
+msgstr "Por fila"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:50
+#: elementor/widgets/stm_lms_instructors_carousel.php:149
+msgid "Per row on Mobile"
+msgstr "Por fila en Mobile"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:38
+#: elementor/widgets/stm_lms_instructors_carousel.php:127
+msgid "Per row on Notebook"
+msgstr "Por fila en Notebook"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:44
+#: elementor/widgets/stm_lms_instructors_carousel.php:138
+msgid "Per row on Tablet"
+msgstr "Por fila en Tablet"
+
+#: stm-lms-templates/stm-lms-go-pro.php:142
+msgid "per year"
+msgstr "por año"
+
+#: settings/lms_metaboxes.php:291
+msgid "Percent (%)"
+msgstr "Porcentaje (%)"
+
+#: libraries/paypal/includes/classes/PayPal.php:168
+msgid "Philippine peso PHP"
+msgstr "Peso filipino PHP"
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:12
+msgid "Place Single Teacher"
+msgstr "Lugar Profesor Soltero"
+
+#: lms/classes/subscriptions.php:376
+msgid "Plan tab name"
+msgstr "Nombre de la ficha Planear"
+
+#. %s: link url
+#: lms/classes/user.php:388
+msgid "Please activate your account via this link - %s"
+msgstr "Por favor, activa tu cuenta a través de este enlace - %s"
+
+#: settings/page_generator/api/get.php:146
+msgid ""
+"Please create pages and indicate them in the LMS settings or use the page "
+"generator."
+msgstr ""
+"Cree páginas e indíquelas en la configuración de LMS o utilice el generador "
+"de páginas."
+
+#. %s: field key
+#: lms/classes/user.php:239
+msgid "Please enter valid %s field"
+msgstr "Introduce el campo %s válido"
+
+#. %s: field name
+#: lms/classes/user.php:1253 lms/classes/user.php:1378
+#: lms/classes/instructors.php:632
+#, fuzzy
+msgid "Please fill %s field"
+msgstr "Por favor completa todos los campos"
+
+#: lms/classes/user.php:1337 lms/classes/user.php:1402
+#: lms/classes/user.php:1411
+msgid "Please fill all fields"
+msgstr "Por favor completa todos los campos requeridos"
+
+#: lms/classes/user.php:1460
+msgid "Please fill email field"
+msgstr "Por favor, rellene el campo de correo electrónico"
+
+#: lms/classes/user.php:355
+msgid "Please follow the instructions sent to your email address."
+msgstr ""
+"Por favor, sigue las instrucciones enviadas a tu dirección de correo "
+"electrónico."
+
+#: lms/classes/user.php:259
+msgid "Please remove tags, octets and entities from login"
+msgstr "Elimine las etiquetas, octetos y entidades del inicio de sesión"
+
+#: stm-lms-templates/account/private/add_student/main.php:9
+msgid "Please select course"
+msgstr "Por favor, seleccione el curso"
+
+#: stm-lms-templates/account/private/add_student/main.php:10
+msgid "Please select students"
+msgstr "Por favor, seleccione estudiantes"
+
+#: stm-lms-templates/pmpro/checkout-warning.php:17
+msgid ""
+"Please select the previously added courses to delete, because the new chosen "
+"plan allows you to have only %s courses"
+msgstr ""
+"Por favor, selecciona los cursos previamente añadidos para eliminarlos, "
+"porque el nuevo plan elegido te permite tener sólo %s cursos"
+
+#: compatibility/main.php:41
+msgid "Please update MasterStudy Theme!"
+msgstr ""
+
+#: stm-lms-templates/checkout/not-logged-in.php:2
+msgid "Please, <a href=\"%s\">log in</a>"
+msgstr "Por favor, <a href=\"%s\">inicia sesión</a>"
+
+#: stm-lms-templates/course/parts/add_review.php:54
+msgid "Please, <a href=\"%s\">login</a> to leave a review"
+msgstr ""
+"Por favor, <a href =\"%s\"> inicio de sesión </a> para dejar un comentario"
+
+#: lms/classes/reviews.php:209
+msgid "Please, check rating"
+msgstr "Por favor, comprueba la calificación"
+
+#: settings/lms_wpcfto_helpers.php:34
+msgid "Please, select file"
+msgstr "Por favor, selecciona el archivo"
+
+#: lms/classes/cart.php:131 lms/classes/cart.php:210
+msgid "Please, select payment method"
+msgstr "Por favor, elige el método de pago"
+
+#: lms/classes/comments.php:118
+msgid "Please, write a comment."
+msgstr "Por favor, escribe un comentario."
+
+#: lms/classes/reviews.php:217
+msgid "Please, write review."
+msgstr "Por favor, escribe un comentario."
+
+#: lms/helpers.php:832
+msgid "Point system"
+msgstr "Sistema de puntos"
+
+#: settings/lms_metaboxes.php:434
+msgid "Points total cut after re-take (%)"
+msgstr "Corte total de puntos después de la retoma (%)"
+
+#: libraries/paypal/includes/classes/PayPal.php:169
+msgid "Polish złoty PLN"
+msgstr "Polaco złoty PLN"
+
+#: elementor/widgets/stm_lms_single_course_carousel.php:99
+#: elementor/widgets/stm_lms_courses_carousel.php:119
+msgid "Popular"
+msgstr "Popular"
+
+#: stm-lms-templates/courses/filters.php:26
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:54
+msgid "Popular (most viewed)"
+msgstr "Popular (más visto)"
+
+#: lms/widgets/popular.widget.php:130
+msgid "Popular Courses"
+msgstr "Cursos Populares"
+
+#: lms/classes/user.php:971
+#: stm-lms-templates/account/private/edit_account/position.php:5
+msgid "Position"
+msgstr "Posición"
+
+#: settings/lms_wpcfto_ajax.php:217
+msgid "Post Type is required"
+msgstr ""
+
+#: post_type/posts.php:190
+msgctxt "post type singular name"
+msgid "%s"
+msgstr "nombre singular del tipo de publicación   %s"
+
+#: elementor/widgets/stm_lms_course_bundles.php:131
+msgid "Posts per page"
+msgstr "Publicaciones por página"
+
+#: libraries/paypal/includes/classes/PayPal.php:170
+msgid "Pound sterling GBP"
+msgstr "Libra esterlina GBP"
+
+#: settings/lms_metaboxes.php:285
+msgid "Prerequisite Courses"
+msgstr "Cursos de prerrequisitos"
+
+#: settings/lms_metaboxes.php:292
+msgid "Prerequisite Passing Percent (%)"
+msgstr "Porcentaje de aprobación de requisitos previos (%)"
+
+#: settings/lms_metaboxes.php:279 lms/helpers.php:763
+msgid "Prerequisites"
+msgstr "Prerrequisitos"
+
+#: stm-lms-templates/lesson/navigation.php:54
+msgid "Prev lesson"
+msgstr "Lección anterior"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:80
+#: visual_composer/modules/stm_lms_single_course_carousel.php:34
+#: visual_composer/modules/stm_lms_courses_carousel.php:45
+#: elementor/widgets/stm_lms_instructors_carousel.php:199
+#: elementor/widgets/stm_lms_single_course_carousel.php:111
+#: elementor/widgets/stm_lms_courses_carousel.php:131
+msgid "Prev/Next Buttons"
+msgstr "Botones Anterior/Siguiente"
+
+#: elementor/widgets/stm_lms_courses_carousel.php:146
+msgid "Prev/Next Buttons Style"
+msgstr "Estilo de botones Anterior/Siguiente"
+
+#: stm-lms-templates/courses/styles/style_3.php:62
+#: stm-lms-templates/course/parts/tabs/curriculum.php:119
+msgid "Preview"
+msgstr "Vista previa"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:87
+msgid "Preview Course"
+msgstr "Vista previa del curso"
+
+#: stm-lms-templates/courses/parts/course_info.php:88
+#: stm-lms-templates/courses/parts/image.php:43
+msgid "Preview this course"
+msgstr "Previsualizar este curso"
+
+#: stm-lms-templates/wizard/views/header.php:23
+msgid "Previous"
+msgstr "Anterior"
+
+#: stm-lms-templates/checkout/items.php:71
+#: stm-lms-templates/checkout/guest-checkout.php:73
+#: lms/views/payout/meta-box-payout-data.php:146
+#: stm-lms-templates/dashboard/components/courses.php:25
+#: lms/classes/models/admin/StmStatisticsListTable.php:157
+#: lms/classes/models/admin/StmStatisticsListTable.php:414
+#: stm-lms-templates/courses/advanced_filters/filters/price.php:16
+#: stm-lms-templates/account/private/parts/my-orders.php:38
+msgid "Price"
+msgstr "Precio"
+
+#. %s: number
+#: settings/lms_metaboxes.php:157
+msgid "Price (%s)"
+msgstr "Precio (%s)"
+
+#: settings/lms_metaboxes.php:206
+msgid "Price for group. Leave empty to disable group purchase"
+msgstr "Precio para grupo. Dejar vacío para deshabilitar la compra de grupo"
+
+#: stm-lms-templates/courses/filters.php:23
+msgid "Price high"
+msgstr "El precio es alto"
+
+#: stm-lms-templates/courses/filters.php:24
+msgid "Price low"
+msgstr "El precio es bajo"
+
+#: stm-lms-templates/course/sticky/price.php:17
+msgid "Price:"
+msgstr "Precio:"
+
+#: stm-lms-templates/stm-lms-go-pro.php:117
+msgid "Pricing"
+msgstr "Precios"
+
+#: lms/classes/user.php:212
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: lms/classes/page_routes.php:165
+msgid "Private account"
+msgstr "Cuenta privada"
+
+#: lms/classes/subscriptions.php:388
+msgid "Private category"
+msgstr "Categoría privada"
+
+#: lms/classes/addons.php:14
+msgid "Pro Addons"
+msgstr "Complementos Pro"
+
+#: lms/helpers.php:976
+msgid "Pro Version"
+msgstr ""
+
+#: lms/views/payout/meta-box-payout-data.php:47
+msgid "Process Payment Now"
+msgstr "Procesar el pago ahora"
+
+#: lms/classes/order.php:133
+msgid "Processing"
+msgstr "Procesando"
+
+#: stm-lms-templates/account/private/instructor_parts/profile_settings_btn.php:3
+msgid "Profile settings"
+msgstr "Configuración del perfil"
+
+#: stm-lms-templates/wizard/views/steps/profiles.php:54
+msgid "Profile style"
+msgstr "Estilo de perfil"
+
+#: wizard/main.php:76 settings/main_settings/profiles.php:57
+#: stm-lms-templates/wizard/views/steps/profiles.php:5
+msgid "Profiles"
+msgstr "Perfiles"
+
+#: settings/main_settings/profiles.php:58
+msgid "Profiles Settings"
+msgstr "Configuración de perfiles"
+
+#: stm-lms-templates/dashboard/components/course.php:64
+#: stm-lms-templates/dashboard/components/course.php:104
+msgid "Progress"
+msgstr "Progreso"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:21
+msgid "Progress (decreasing)"
+msgstr "Progreso (decreciente)"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:20
+msgid "Progress (increasing)"
+msgstr "Progreso (aumento)"
+
+#: stm-lms-templates/dashboard/components/course_user.php:15
+msgid "progress for:"
+msgstr "progreso para:"
+
+#: lms/classes/instructors.php:432
+#: stm-lms-templates/account/private/instructor_parts/grid.php:75
+msgid "Published"
+msgstr "Publicado"
+
+#: stm-lms-templates/checkout/payment.php:19
+msgid "Purchase"
+msgstr "Compra"
+
+#: lms/views/payout/meta-box-payout-data.php:145
+#: lms/classes/models/admin/StmStatisticsListTable.php:413
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: post_type/posts.php:136 settings/faq/components/faq.php:11
+#: stm-lms-templates/quiz/style/pagination.php:23
+msgid "Question"
+msgstr "Pregunta"
+
+#: settings/questions_v1/components/questions.php:78
+msgid "Question Bank"
+msgstr "Banco de preguntas"
+
+#: settings/questions_v2/tpls/add_new_nav.php:14
+msgid "Question bank"
+msgstr "Banco de preguntas"
+
+#: post_type/taxonomies.php:63 settings/questions_v2/tpls/add_new_quiz.php:36
+msgid "Question category"
+msgstr "Categoría de la pregunta"
+
+#: settings/answers/components/answers.php:39
+#: settings/answers/components/answers.php:69
+#: settings/answers/components/answers.php:116
+#: settings/answers/components/answers.php:147
+#: settings/answers/components/answers.php:235
+#: settings/answers/components/answers.php:293
+#: settings/answers/components/answers.php:337
+msgid "Question Explanation"
+msgstr "Explicación de la pregunta"
+
+#: settings/lms_metaboxes.php:468
+msgid "Question result explanation"
+msgstr "Explicación del resultado de la pregunta"
+
+#: settings/lms_metaboxes.php:30 settings/lms_metaboxes.php:445
+msgid "Question Settings"
+msgstr "Configuración de Pregunta"
+
+#: settings/lms_metaboxes.php:449
+msgid "Question type"
+msgstr "Tipo de pregunta"
+
+#: settings/lms_metaboxes.php:397 settings/lms_metaboxes.php:401
+#: post_type/posts.php:137 stm-lms-templates/lesson/comments.php:26
+#: settings/demo_import/tpls/field.php:7
+msgid "Questions"
+msgstr "Preguntas"
+
+#: settings/answers/components/answers.php:387
+msgid "Questions:"
+msgstr "Preguntas:"
+
+#: post_type/posts.php:113 settings/main_settings/quiz.php:32
+#: settings/curriculum/tpls/add_items.php:12
+#: stm-lms-templates/course/parts/tabs/curriculum.php:43
+#: stm-lms-templates/account/private/parts/enrolled-quizzes.php:25
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: lms/classes/lesson.php:132
+msgid "Quiz %s"
+msgstr "Quiz %s"
+
+#: lms/classes/instructors.php:198
+msgid "Quiz Author"
+msgstr "Autor de la prueba"
+
+#: settings/lms_metaboxes.php:419
+msgid "Quiz duration"
+msgstr "Duración del cuestionario"
+
+#: settings/lms_metaboxes.php:414
+msgid "Quiz Frontend description"
+msgstr "Descripción inicial del Quiz"
+
+#: settings/lms_metaboxes.php:22
+msgid "Quiz Questions"
+msgstr "Preguntas del Cuestionario"
+
+#: settings/questions_v2/tpls/add_new_nav.php:7
+msgid "Quiz questions"
+msgstr "Preguntas del cuestionario"
+
+#: settings/lms_metaboxes.php:26 settings/lms_metaboxes.php:409
+#: settings/main_settings/quiz.php:33
+msgid "Quiz Settings"
+msgstr "Configuración del Cuestionario"
+
+#: settings/main_settings/quiz.php:7
+msgid "Quiz Style"
+msgstr "Estilo de cuestionario"
+
+#: stm-lms-templates/wizard/views/steps/curriculum.php:43
+msgid "Quiz style"
+msgstr ""
+
+#: post_type/posts.php:114 settings/demo_import/tpls/field.php:13
+msgid "Quizzes"
+msgstr "Concursos"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:99
+#: stm-lms-templates/global/completed_info.php:54
+msgid "Quizzes:"
+msgstr "Concursos:"
+
+#: stm-lms-templates/account/v1/use_membership_multiply.php:38
+msgid "Quotas left: %s"
+msgstr "Cuotas restante: %s"
+
+#: settings/lms_metaboxes.php:438
+msgid "Randomize questions"
+msgstr "Preguntas al azar"
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:35
+#: stm-lms-templates/course/parts/panel_info/rate.php:12
+msgid "Rated %s out of 5"
+msgstr "Valorado %s de 5"
+
+#: elementor/widgets/stm_lms_instructors_carousel.php:190
+#: elementor/widgets/stm_lms_single_course_carousel.php:101
+#: elementor/widgets/stm_lms_courses_carousel.php:121
+#: stm-lms-templates/courses/advanced_filters/filters/rating.php:29
+msgid "Rating"
+msgstr "Clasificación"
+
+#: lms/classes/user.php:1032
+msgid "Rating information"
+msgstr "Información de calificación"
+
+#: stm-lms-templates/quiz/results.php:23
+msgid "Re-take Quiz"
+msgstr "Quiz de retoma"
+
+#: stm-lms-templates/account/private/edit_account/change_password.php:36
+msgid "Re-type new password"
+msgstr "Vuelve a escribir la nueva contraseña"
+
+#: settings/main_settings/google_api.php:16
+msgid "Recaptcha Private Key"
+msgstr "Clave privada Recaptcha"
+
+#: settings/main_settings/google_api.php:12
+msgid "Recaptcha Site Key"
+msgstr "Recaptcha Site Key"
+
+#: elementor/widgets/stm_lms_recent_courses.php:45
+msgid "Recent Courses"
+msgstr "Cursos recientes"
+
+#: stm-lms-templates/wizard/views/steps/single_course.php:14
+msgid "Redirect to Checkout"
+msgstr "Redirigir a Checkout"
+
+#: settings/main_settings/course.php:94
+msgid "Redirect to Checkout after adding to Cart"
+msgstr "Redirigir a la caja después de añadir al carrito"
+
+#: db/fix_rating.php:134
+msgid "Refresh ratings"
+msgstr "Actualizar los índices de audiencia"
+
+#: db/fix_rating.php:100
+msgid "Refreshing next course rating..."
+msgstr "Actualizando el índice del próximo curso..."
+
+#: lms/classes/order.php:136
+msgid "Refunded"
+msgstr "Reembolsado"
+
+#: stm-lms-templates/modals/login.php:10
+#: stm-lms-templates/account/v1/register.php:186
+msgid "Register"
+msgstr "Registrarse"
+
+#: stm-lms-templates/account/v1/register.php:178
+msgid "Register as Instructor"
+msgstr "Regístrate como profesor"
+
+#: stm-lms-templates/account/float_menu/logged_out.php:45
+msgid "Registration"
+msgstr "Registro"
+
+#: lms/classes/user.php:363 lms/classes/guest_checkout.php:123
+msgid "Registration completed successfully."
+msgstr "La inscripción se completó correctamente."
+
+#: stm-lms-templates/course/parts/related.php:52
+msgid "Related Courses"
+msgstr "Cursos relacionados"
+
+#: stm-lms-templates/courses/filters.php:21
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:51
+msgid "Release date (newest first)"
+msgstr "Fecha de lanzamiento (la más reciente primero)"
+
+#: stm-lms-templates/courses/filters.php:22
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:52
+msgid "Release date (oldest first)"
+msgstr "Fecha de lanzamiento (la más antigua primero)"
+
+#: stm-lms-templates/account/v1/login.php:72
+msgid "Remember me"
+msgstr "Recuérdame"
+
+#: visual_composer/modules/stm_lms_courses_carousel.php:55
+#: elementor/widgets/stm_lms_courses_carousel.php:164
+msgid "Remove border"
+msgstr "Quitar borde"
+
+#: settings/main_settings/profiles.php:19
+msgid "Remove checkbox \"Register as instructor\" from registration"
+msgstr ""
+"Elimine la casilla de verificación \"Registrarse como instructor\" del "
+"registro"
+
+#: stm-lms-templates/pmpro/checkout-warning.php:26
+msgid "Remove Course"
+msgstr "Remover Curso"
+
+#: stm-lms-templates/account/private/instructor_parts/grid.php:119
+msgid "Remove from Featured"
+msgstr "Eliminar de Destacados"
+
+#: stm-lms-templates/account/private/chat/chat.php:36
+msgid "Reply to"
+msgstr "Contestar a"
+
+#: settings/main_settings/general.php:80
+msgid "Required to enable guest checkout in WooCommerce"
+msgstr "Necesario para habilitar el pago de invitados en WooCommerce"
+
+#: stm-lms-templates/dashboard/components/course_user.php:25
+msgid "Reset"
+msgstr "Restablecimiento"
+
+#: stm-lms-templates/courses/grid.php:112
+#: stm-lms-templates/courses/advanced_filters/main.php:42
+msgid "Reset all"
+msgstr "Restablecer todo"
+
+#: stm-lms-templates/wizard/views/header.php:12
+msgid "Reset Settings"
+msgstr "Restablecer configuración"
+
+#: stm-lms-templates/account/v1/restore.php:42
+msgid "Restore"
+msgstr "Restaurar"
+
+#: stm-lms-templates/account/v1/restore.php:20
+msgid "Restore password"
+msgstr "Restaurar contraseña"
+
+#: stm-lms-templates/quiz/results.php:15
+msgid "Result"
+msgstr "Resultado"
+
+#: post_type/posts.php:159 lms/classes/instructors.php:512
+#: lms/classes/instructors.php:572
+msgid "Review"
+msgstr "Reseña"
+
+#: settings/lms_metaboxes.php:34 settings/lms_metaboxes.php:478
+msgid "Review info"
+msgstr "Información sobre el comentario"
+
+#: lms/classes/reviews.php:230
+msgid "Review on %s by %s"
+msgstr "Comentario en %s por %s"
+
+#: post_type/posts.php:160 stm-lms-templates/course/parts/tabs.php:12
+#: stm-lms-templates/wizard/views/steps/single_course.php:63
+msgid "Reviews"
+msgstr "Reseñas."
+
+#: settings/main_settings/float_menu.php:29
+#: settings/main_settings/courses.php:87 settings/main_settings/general.php:40
+msgid "Right"
+msgstr "Derecha"
+
+#: libraries/paypal/includes/classes/PayPal.php:171
+msgid "Russian ruble RUB"
+msgstr "Rublo ruso RUB"
+
+#. %s: number
+#: settings/lms_metaboxes.php:173
+msgid "Sale Price (%s)"
+msgstr "Precio de venta (%s)"
+
+#: settings/lms_metaboxes.php:188
+msgid "Sale Price Dates"
+msgstr "Fechas de la Oferta"
+
+#: libraries/paypal/includes/classes/PayPal.php:131
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: stm-lms-templates/account/private/parts/edit_account.php:47
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:115
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: stm-lms-templates/global/completed_info.php:21
+msgid "Score %s"
+msgstr "Puntuación %s"
+
+#: lms/helpers.php:871
+msgid "Scorm"
+msgstr "Scorm"
+
+#: settings/curriculum/tpls/add_items.php:24
+#: settings/questions_v2/tpls/add_new_nav.php:24
+msgid "Search"
+msgstr "Buscar"
+
+#: post_type/posts.php:198
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:196
+msgid "Search by Author"
+msgstr "Buscar por autor"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:202
+msgid "Search by ID"
+msgstr "Buscar por ID"
+
+#: lms/classes/models/admin/StmStatisticsListTable.php:197
+msgid "Search by User"
+msgstr "Buscar por usuario"
+
+#: stm-lms-templates/courses/advanced_filters/filters/search.php:11
+msgid "Search Courses"
+msgstr ""
+
+#: post_type/taxonomies.php:32
+msgid "Search Courses category"
+msgstr "Buscar categoría de Cursos"
+
+#: stm-lms-templates/vc_templates/templates/stm_courses_searchbox.php:34
+msgid "Search courses..."
+msgstr "Buscar cursos..."
+
+#: visual_composer/modules/stm_courses_searchbox.php:11
+msgid "Search in LMS Courses"
+msgstr "Buscar en Cursos LMS"
+
+#: settings/curriculum/tpls/search.php:17
+#: settings/questions_v2/tpls/search.php:17
+msgid "Search items"
+msgstr "Buscar elementos"
+
+#: stm-lms-templates/lesson/comments.php:41
+msgid "Search Questions"
+msgstr "Buscar Preguntas"
+
+#: settings/questions_v1/components/questions.php:96
+msgid "Search questions"
+msgstr "Preguntas de búsqueda"
+
+#: post_type/taxonomies.php:55
+msgid "Search Questions category"
+msgstr "Categoría de preguntas de búsqueda"
+
+#: stm-lms-templates/dashboard/components/course.php:24
+msgid "Search student..."
+msgstr "Buscar estudiante..."
+
+#: lms/helpers.php:48
+msgid "second"
+msgstr "segundo"
+
+#: settings/main_settings/general.php:20
+msgid "Secondary color"
+msgstr "Color secundario"
+
+#: settings/curriculum/tpls/section_data.php:6
+msgid "Section"
+msgstr "Sección"
+
+#: lms/classes/lesson.php:153 lms/classes/lesson.php:161
+msgid "Section %s"
+msgstr "Sección %s"
+
+#: lms/classes/lesson.php:100
+msgid "Section 1"
+msgstr "Sección 1"
+
+#: settings/curriculum/tpls/section_data.php:18
+msgid "Section title (not required)"
+msgstr "Título de la sección (no requerido)"
+
+#: lms/classes/user.php:1111
+msgid "Select auditory"
+msgstr "Seleccionar el auditorio"
+
+#: elementor/widgets/stm_lms_course_bundles.php:104
+msgid "Select bundles"
+msgstr "Seleccionar paquetes"
+
+#: settings/lms_metaboxes.php:331
+msgid "Select Certificate"
+msgstr "Seleccione Certificado"
+
+#: lms/classes/user.php:1079
+msgid "Select host"
+msgstr "Seleccionar host"
+
+#: settings/lms_metaboxes.php:60
+msgid "Select level"
+msgstr "Seleccionar nivel"
+
+#: settings/questions_v2/tpls/add_new_qb.php:42
+msgid "Select number of questions *"
+msgstr "Seleccione el número de preguntas *"
+
+#: stm-lms-templates/course/parts/add_review.php:27
+msgid "Select rating"
+msgstr "Seleccionar calificación"
+
+#: visual_composer/modules/stm_lms_single_course_carousel.php:54
+#: visual_composer/modules/stm_lms_courses_categories.php:23
+#: visual_composer/modules/stm_lms_featured_teacher.php:21
+#: visual_composer/modules/stm_lms_courses_carousel.php:117
+#: elementor/widgets/stm_lms_courses_grid.php:189
+#: elementor/widgets/stm_lms_single_course_carousel.php:141
+#: elementor/widgets/stm_lms_courses_categories.php:100
+#: elementor/widgets/stm_lms_courses_carousel.php:231
+msgid "Select taxonomy"
+msgstr "Seleccionar taxonomía"
+
+#: stm-lms-templates/wizard/views/steps/curriculum.php:14
+msgid "Select the best style option for your lessons."
+msgstr "Seleccione la mejor opción de estilo para sus lecciones."
+
+#: settings/main_settings/course.php:177
+msgid "Select the display option for related courses"
+msgstr "Seleccione la opción de visualización para cursos relacionados"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:14
+msgid "Select the page on which the courses will be displayed."
+msgstr "Seleccione la página en la que se mostrarán los cursos."
+
+#: settings/main_settings/quiz.php:22
+msgid "Select the style of displaying questions in the quiz."
+msgstr ""
+"Seleccione el estilo de visualización de las preguntas en el cuestionario."
+
+#: settings/questions_v2/tpls/add_new_qb.php:45
+msgid "Selected categories *"
+msgstr "Categorías seleccionadas *"
+
+#: stm-lms-templates/lesson/comments.php:83
+#: stm-lms-templates/lesson/comments.php:188
+#: stm-lms-templates/account/v1/login.php:107
+#: stm-lms-templates/account/public/instructor_parts/fast_message.php:30
+msgid "Send"
+msgstr "Enviar"
+
+#: stm-lms-templates/dashboard/components/add_user.php:42
+msgid "Send an invitation"
+msgstr "Enviar una invitación"
+
+#: stm-lms-templates/account/v1/become_instructor.php:67
+msgid "Send Application"
+msgstr "Enviar candidatura"
+
+#: stm-lms-templates/account/v1/enterprise.php:70
+msgid "Send Enquiry"
+msgstr "Enviar Consulta"
+
+#: stm-lms-templates/account/public/instructor_parts/fast_message.php:16
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: stm-lms-templates/account/private/chat/chat.php:42
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+#: stm-lms-templates/account/private/parts/enterprise_form.php:11
+msgid "Send Request"
+msgstr "Enviar solicitud"
+
+#: settings/lms_metaboxes.php:273
+msgid "Sequential Drip Content"
+msgstr "Contenido de goteo secuencial"
+
+#: lms/helpers.php:765
+msgid ""
+"Set the requirements students must complete before they are able to enroll "
+"in the next course of a higher level."
+msgstr ""
+"Establezca los requisitos que los estudiantes deben completar antes de que "
+"puedan inscribirse en el siguiente curso de un nivel superior."
+
+#: settings/main_settings/profiles.php:25
+msgid "Set user role \"instructor\" automatically"
+msgstr "Establecer el rol de usuario \"instructor\" automáticamente"
+
+#: settings/lms_metaboxes.php:84 lms/classes/user.php:1770
+#: lms/views/addons/main.php:48
+#: stm-lms-templates/account/private/parts/settings_button.php:13
+msgid "Settings"
+msgstr "Ajustes"
+
+#: settings/main_settings/shortcodes.php:6
+msgid "Shortcodes"
+msgstr "Códigos cortos"
+
+#: settings/main_settings/shortcodes.php:7
+msgid "Shortcodes Settings"
+msgstr "Configuración de shortcodes"
+
+#: elementor/widgets/stm_lms_courses_grid.php:100
+#: elementor/widgets/stm_lms_courses_grid.php:128
+#: elementor/widgets/stm_lms_courses_grid.php:143
+msgid "Show"
+msgstr "Mostrar"
+
+#: stm-lms-templates/courses/grid.php:56
+#: stm-lms-templates/vc_templates/templates/stm_lms_recent_courses.php:52
+msgid "Show all"
+msgstr "Mostrar todo"
+
+#: stm-lms-templates/quiz/results.php:29
+msgid "Show answers"
+msgstr "Mostrar respuestas"
+
+#: visual_composer/modules/stm_lms_courses_carousel.php:95
+#: elementor/widgets/stm_lms_courses_carousel.php:179
+msgid "Show categories"
+msgstr "Mostrar categorías"
+
+#: settings/lms_metaboxes.php:426
+msgid "Show correct answer"
+msgstr "Mostrar la respuesta correcta"
+
+#: visual_composer/modules/stm_lms_courses_categories.php:14
+msgid "Show Courses Categories"
+msgstr "Mostrar categorías de cursos"
+
+#: visual_composer/modules/stm_lms_courses_grid.php:78
+#: visual_composer/modules/stm_lms_courses_carousel.php:136
+#: elementor/widgets/stm_lms_courses_carousel.php:246
+msgid "Show Courses From categories:"
+msgstr "Mostrar cursos de categorías:"
+
+#: settings/main_settings/float_menu.php:16
+msgid "Show floating menu for guest users"
+msgstr "Mostrar menú flotante para usuarios invitados"
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:97
+#: stm-lms-templates/courses/advanced_filters/filters/instructor.php:46
+#: stm-lms-templates/account/private/parts/enrolled-quizzes.php:62
+#: stm-lms-templates/account/private/parts/my-orders.php:53
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:116
+msgid "Show more"
+msgstr "Mostrar más"
+
+#: stm-lms-templates/dashboard/components/course.php:120
+msgid "Show on page"
+msgstr "Mostrar en la página"
+
+#: lms/classes/subscriptions.php:380
+msgid ""
+"Show plans under the different tabs (tabs with the same name will be "
+"displayed together)"
+msgstr ""
+"Mostrar planes en las diferentes pestañas (las pestañas con el mismo nombre "
+"se mostrarán juntas)"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:11
+#: visual_composer/modules/stm_lms_courses_grid.php:14
+msgid "Show Recent Courses"
+msgstr "Mostrar cursos recientes"
+
+#: stm-lms-templates/courses/advanced_filters/main.php:38
+msgid "Show Results"
+msgstr "Mostrar resultados"
+
+#: stm-lms-templates/dashboard/components/student_quiz.php:26
+msgid "Show student answers"
+msgstr "Mostrar las respuestas de los estudiantes"
+
+#: lms/classes/helpers.php:351
+#, php-format
+msgid ""
+"Showing: <span class=\"lms-courses-search-result-shown\">%1$d</span> courses "
+"from <span class=\"lms-courses-search-result-total\">%2$d</span>"
+msgstr ""
+
+#: stm-lms-templates/account/float_menu/logged_out.php:44
+#: stm-lms-templates/account/v1/fast_login/main.php:7
+#: stm-lms-templates/account/v1/fast_login/main.php:57
+msgid "Sign in"
+msgstr "Inicia sesión"
+
+#: stm-lms-templates/account/v1/register.php:33
+msgid "Sign Up"
+msgstr "Registrarse"
+
+#: stm-lms-templates/account/v1/fast_login/main.php:6
+#: stm-lms-templates/account/v1/fast_login/main.php:53
+msgid "Sign up"
+msgstr "Únete"
+
+#: libraries/paypal/includes/classes/PayPal.php:172
+msgid "Singapore dollar SGD"
+msgstr "Dólar de Singapur SGD"
+
+#: settings/lms_metaboxes.php:451 settings/questions_v2/field.php:27
+#: settings/questions_v1/components/questions.php:36
+msgid "Single choice"
+msgstr "Elección única"
+
+#: wizard/main.php:74 stm-lms-templates/wizard/views/steps/single_course.php:5
+msgid "Single Course"
+msgstr "Curso único"
+
+#: elementor/widgets/stm_lms_single_course_carousel.php:45
+msgid "Single Course Carousel"
+msgstr "Carrusel de un solo curso"
+
+#: stm-lms-templates/stm-lms-go-pro.php:27
+msgid "Single Site"
+msgstr "Sitio único"
+
+#. %s: site name
+#: lms/classes/user.php:1525
+msgid "Site Name: %s"
+msgstr "Nombre del sitio: %s"
+
+#: stm-lms-templates/wizard/views/skip.php:5
+msgid "skip all steps!"
+msgstr "¡omita todos los pasos!"
+
+#: settings/lms_metaboxes.php:350
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: stm-lms-templates/course/parts/tabs/curriculum.php:63
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: settings/main_settings/courses.php:116
+msgid "Slug in url before category"
+msgstr "Slug en url antes de la categoría"
+
+#: stm-lms-templates/account/private/edit_account/socials.php:5
+msgid "Social network"
+msgstr "Red social"
+
+#: lms/classes/user.php:1523
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+"Alguien ha solicitado un restablecimiento de contraseña para la siguiente "
+"cuenta:"
+
+#: stm-lms-templates/dashboard/components/navigation.php:20
+msgid "Soon"
+msgstr "Pronto"
+
+#: lms/classes/user.php:1312
+msgid ""
+"Sorry, it seems that your account has been temporarily blocked from taking "
+"this action. Please contact the website administrator for more information."
+msgstr ""
+"Lo sentimos, parece que tu cuenta ha sido bloqueada temporalmente para que "
+"no realice esta acción. Póngase en contacto con el administrador del sitio "
+"web para obtener más información."
+
+#: visual_composer/modules/stm_lms_courses_grid.php:52
+#: visual_composer/modules/stm_lms_single_course_carousel.php:23
+#: visual_composer/modules/stm_lms_courses_carousel.php:34
+#: elementor/widgets/stm_lms_courses_grid.php:138
+#: elementor/widgets/stm_lms_single_course_carousel.php:94
+#: elementor/widgets/stm_lms_courses_carousel.php:114
+msgid "Sort"
+msgstr "Ordenar"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:71
+#: elementor/widgets/stm_lms_instructors_carousel.php:185
+msgid "Sort By"
+msgstr ""
+
+#: stm-lms-templates/courses/filters.php:19
+msgid "Sort By:"
+msgstr "Ordenar por:"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:49
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+#: settings/lms_metaboxes.php:125 lms/classes/course.php:386
+#: stm-lms-templates/courses/advanced_filters/filters/status.php:9
+msgid "Special"
+msgstr "Especial"
+
+#: stm-lms-templates/wizard/views/steps/courses.php:91
+msgid "Specify how many courses to display per row."
+msgstr "Especifique cuántos cursos mostrar por fila."
+
+#: stm-lms-templates/wizard/views/steps/general.php:85
+msgid "Specify the % that you’ll get from instructors’ sales."
+msgstr "Especifique el % que obtendrá de las ventas de los instructores."
+
+#: stm-lms-templates/course/parts/tabs/reviews.php:54
+msgid "Stars %s"
+msgstr "%s estrellas"
+
+#: stm-lms-templates/account/private/parts/enrolled-courses.php:92
+msgid "Start Course"
+msgstr "Iniciar Curso"
+
+#: stm-lms-templates/global/buy-button.php:41
+msgid "Start course"
+msgstr "Iniciar curso"
+
+#: settings/demo_import/tpls/field.php:39
+msgid "Start import"
+msgstr "Iniciar importación"
+
+#: stm-lms-templates/quiz/quiz.php:58
+msgid "Start Quiz"
+msgstr "Comenzar el Quiz"
+
+#: stm-lms-templates/dashboard/components/course.php:56
+msgid "Started"
+msgstr "Comenzó"
+
+#. %s: start time
+#: lms/classes/user.php:713
+msgid "Started %s"
+msgstr "Iniciado %s"
+
+#: lms/classes/models/StmStatistics.php:51
+#: lms/classes/models/StmStatistics.php:52
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: lms/helpers.php:778
+msgid "Statistics and Payout"
+msgstr "Estadísticas y pagos"
+
+#: settings/lms_metaboxes.php:120 settings/manage_users/main.php:68
+#: lms/classes/order.php:131 lms/classes/models/StmLmsPayout.php:147
+#: lms/views/payout/meta-box-payout-data.php:63
+#: stm-lms-templates/courses/advanced_filters/filters/status.php:17
+#: stm-lms-templates/account/private/parts/enrolled-quizzes.php:29
+msgid "Status"
+msgstr "Estado"
+
+#: settings/lms_metaboxes.php:131
+msgid "Status Dates"
+msgstr "Fechas de estatuto"
+
+#: visual_composer/modules/stm_courses_searchbox.php:8
+msgid "STM Courses Search box"
+msgstr "Cuadro de búsqueda de cursos STM"
+
+#: visual_composer/modules/stm_lms_courses_carousel.php:10
+msgid "STM LMS Courses Carousel"
+msgstr "Carrusel de cursos stM LMS"
+
+#: visual_composer/modules/stm_lms_courses_categories.php:11
+msgid "STM LMS Courses Categories"
+msgstr "Categorías de cursos STM LMS"
+
+#: visual_composer/modules/stm_lms_courses_grid.php:11
+msgid "STM LMS Courses Grid"
+msgstr "Cuadrícula de cursos STM LMS"
+
+#: visual_composer/modules/stm_lms_featured_teacher.php:9
+msgid "STM LMS Featured Teacher"
+msgstr "StM LMS Profesor Destacado"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:9
+msgid "STM LMS Instructors Carousel"
+msgstr "Carrusel de instructores de STM LMS"
+
+#. Base ID
+#: lms/widgets/popular.widget.php:15
+msgid "STM LMS Popular Courses"
+msgstr "Cursos populares de STM LMS"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:8
+msgid "STM LMS Recent Courses"
+msgstr "Cursos recientes de STM LMS"
+
+#: lms/classes/subscriptions.php:351
+msgid "STM LMS Settings"
+msgstr "Ajustes de LMS STM"
+
+#: lms/widgets/main.php:19
+msgid "STM LMS Sidebar"
+msgstr "Barra lateral de LMS STM"
+
+#: visual_composer/modules/stm_lms_single_course_carousel.php:11
+msgid "STM LMS Single Course Carousel"
+msgstr "Carrusel de un solo curso de STM LMS"
+
+#: lms/helpers.php:811
+msgid ""
+"Stream in online mode and interact with your students in real-time answering "
+"their questions and giving feedback immediately."
+msgstr ""
+"Transmita en modo en línea e interactúe con sus estudiantes en tiempo real "
+"respondiendo a sus preguntas y dando comentarios de inmediato."
+
+#: lms/classes/cart.php:230
+msgid "Stripe"
+msgstr "Stripe"
+
+#: lms/classes/instructors.php:782
+#: stm-lms-templates/account/float_menu/user.php:12
+#: stm-lms-templates/account/private/parts/info.php:14
+msgid "Student"
+msgid_plural "Students"
+msgstr[0] "Estudiante"
+msgstr[1] ""
+
+#: lms/classes/instructors.php:739
+msgid "Student added to course"
+msgstr "Estudiante agregado al curso"
+
+#: stm-lms-templates/dashboard/components/student_assignments.php:15
+msgid "Student attempt"
+msgstr "Intento de estudiante"
+
+#: stm-lms-templates/dashboard/components/course.php:48
+msgid "Student email"
+msgstr "Correo electrónico del estudiante"
+
+#: stm-lms-templates/dashboard/components/course.php:40
+msgid "Student name"
+msgstr "Nombre del estudiante"
+
+#: stm-lms-templates/dashboard/components/navigation.php:19
+msgid "Students"
+msgstr "Estudiantes"
+
+#: stm-lms-templates/dashboard/components/course.php:15
+msgid "students of"
+msgstr "estudiantes de"
+
+#: user_manager/UserManager.Course.php:27
+msgid "Students of %s"
+msgstr "Estudiantes de %s"
+
+#: visual_composer/modules/stm_lms_recent_courses.php:44
+#: visual_composer/modules/stm_lms_instructors_carousel.php:61
+#: visual_composer/modules/stm_courses_searchbox.php:20
+#: visual_composer/modules/stm_lms_courses_categories.php:43
+#: elementor/widgets/stm_lms_instructors_carousel.php:170
+#: elementor/widgets/stm_courses_searchbox.php:94
+#: elementor/widgets/stm_lms_courses_categories.php:122
+#: elementor/widgets/stm_lms_courses_categories.php:142
+msgid "Style"
+msgstr "Estilo"
+
+#: settings/main_settings/courses.php:75
+#: elementor/widgets/stm_lms_recent_courses.php:137
+#: elementor/widgets/stm_lms_instructors_carousel.php:174
+#: elementor/widgets/stm_courses_searchbox.php:98
+#: elementor/widgets/stm_lms_courses_categories.php:126
+#: elementor/widgets/stm_lms_courses_carousel.php:150
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: settings/main_settings/courses.php:76
+#: elementor/widgets/stm_lms_recent_courses.php:138
+#: elementor/widgets/stm_lms_instructors_carousel.php:175
+#: elementor/widgets/stm_courses_searchbox.php:99
+#: elementor/widgets/stm_lms_courses_categories.php:127
+#: elementor/widgets/stm_lms_courses_carousel.php:151
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: settings/main_settings/courses.php:77
+#: elementor/widgets/stm_lms_recent_courses.php:139
+#: elementor/widgets/stm_lms_courses_categories.php:128
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/stm_lms_courses_categories.php:129
+msgid "Style 4"
+msgstr ""
+
+#: elementor/widgets/stm_lms_courses_categories.php:130
+msgid "Style 5"
+msgstr ""
+
+#: elementor/widgets/stm_lms_courses_categories.php:131
+msgid "Style 6"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: stm-lms-templates/courses/advanced_filters/filters/subcategory.php:11
+msgid "Subcategory"
+msgstr "Subcategoría"
+
+#: settings/manage_users/main.php:17
+msgid "Submission Date"
+msgstr "Fecha de envío"
+
+#: settings/manage_users/main.php:67
+msgid "Submission date"
+msgstr "Fecha de envío"
+
+#: stm-lms-templates/quiz/style/pagination.php:44
+#: stm-lms-templates/quiz/style/default.php:30
+msgid "Submit Quiz"
+msgstr "Enviar el Quiz"
+
+#: stm-lms-templates/account/private/parts/become_instructor.php:24
+msgid "Submit Request"
+msgstr "Enviar solicitud"
+
+#: lms/classes/comments.php:28
+msgid "Submitted on"
+msgstr "Enviado el"
+
+#: lms/classes/user.php:170 lms/classes/guest_checkout.php:149
+msgid "Successfully logged in. Redirecting..."
+msgstr "Conectado con éxito. Redirigiendo..."
+
+#: lms/classes/user.php:1283 lms/classes/models/StmUser.php:82
+msgid "Successfully saved"
+msgstr "Guardado con éxito"
+
+#: lms/classes/user.php:1000
+msgid "Summary rating"
+msgstr "Resumen de la calificación"
+
+#: libraries/paypal/includes/classes/PayPal.php:173
+msgid "Swedish krona SEK"
+msgstr "Corona sueca SEK"
+
+#: lms/classes/cart.php:234
+msgid "Swift"
+msgstr "Swift"
+
+#: libraries/paypal/includes/classes/PayPal.php:174
+msgid "Swiss franc CHF"
+msgstr "Franco suizo CHF"
+
+#: elementor/widgets/stm_lms_recent_courses.php:133
+msgid "Tabs Style"
+msgstr "Estilo de pestañas"
+
+#: stm-lms-templates/account/private/parts/become_instructor.php:16
+msgid "Take the chance to run your own courses and show your expertise."
+msgstr ""
+"Aproveche la oportunidad de realizar sus propios cursos y mostrar su "
+"experiencia."
+
+#: settings/drip_content/components/drip_content.php:98
+msgid "Target lesson"
+msgstr "Lección objetivo"
+
+#: post_type/taxonomies.php:30
+msgctxt "taxonomy general name"
+msgid "Courses category"
+msgstr "Nombre general de taxonomía  Categoría de cursos"
+
+#: post_type/taxonomies.php:53
+msgctxt "taxonomy general name"
+msgid "Questions category"
+msgstr "Categoría de preguntas"
+
+#: settings/lms_wpcfto_ajax.php:179
+msgid "Taxonomy is required"
+msgstr ""
+
+#: post_type/taxonomies.php:31
+msgctxt "taxonomy singular name"
+msgid "Course category"
+msgstr "Nombre singular de taxonomía  Categoría de cursos"
+
+#: post_type/taxonomies.php:54
+msgctxt "taxonomy singular name"
+msgid "Question category"
+msgstr "Categoría de pregunta"
+
+#: stm-lms-templates/course/parts/panel_info/teacher.php:19
+msgid "Teacher"
+msgstr "Profesor"
+
+#: lms/classes/buddypress.php:92
+#: stm-lms-templates/account/public/instructor_parts/courses.php:18
+msgid "Teacher Courses"
+msgstr "Cursos de profesores"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_featured_teacher.php:57
+msgid "Teacher Courses:"
+msgstr "Cursos para profesores:"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_featured_teacher.php:35
+msgid "Teacher of month"
+msgstr "Profesor del mes"
+
+#: stm-lms-templates/stm-lms-go-pro.php:196
+msgid "Tested up to:"
+msgstr "Probado hasta:"
+
+#: settings/lms_metaboxes.php:348
+msgid "Text"
+msgstr "Texto"
+
+#: elementor/widgets/stm_lms_courses_categories.php:168
+#: elementor/widgets/stm_lms_courses_categories.php:273
+msgid "Text Color"
+msgstr ""
+
+#: settings/main_settings/float_menu.php:54
+msgid "Text color"
+msgstr "Color del texto"
+
+#: stm-lms-templates/course/parts/tabs/curriculum.php:37
+msgid "Text Lesson"
+msgstr "Lección de texto"
+
+#: libraries/paypal/includes/classes/PayPal.php:175
+msgid "Thai baht THB"
+msgstr "Baht tailandés THB"
+
+#: compatibility/main.php:46
+msgid ""
+"The current version of MasterStudy LMS is not compatible with old versions "
+"of the MasterStudy Theme, some functionality may not work correctly or may "
+"stop working completely."
+msgstr ""
+
+#: lms/helpers.php:802
+msgid "The Gradebook"
+msgstr "El libro de calificaciones"
+
+#: settings/page_generator/api/get.php:141
+msgid "The LMS pages are not specified!"
+msgstr "¡Las páginas LMS no están especificadas!"
+
+#: stm-lms-templates/stm-lms-go-pro.php:102
+msgid "The Most Powerful WordPress LMS Plugin for Online Education"
+msgstr "El plugin LMS de WordPress más potente para la educación en línea"
+
+#: stm-lms-templates/questions/item_match.php:28
+msgid "The question was not set"
+msgstr "La pregunta no fue establecida"
+
+#: lms/classes/Validation.php:2238
+msgid "The {field} can only be one of the following: {param}"
+msgstr "El {field} sólo puede tener uno de los siguientes: {param}"
+
+#: lms/classes/Validation.php:2248
+msgid ""
+"The {field} field can only have one of the following extensions: {param}"
+msgstr ""
+"El campo {field} sólo puede tener una de las siguientes extensiones: {param}"
+
+#: lms/classes/Validation.php:2240
+msgid "The {field} field contains a value that is not accepted"
+msgstr "El campo {field} contiene un valor que no se acepta"
+
+#: lms/classes/Validation.php:2250
+msgid "The {field} field does not equal {param} field"
+msgstr "El campo {field} no es igual al campo {param}"
+
+#: lms/classes/Validation.php:2230
+msgid "The {field} field has to be a URL"
+msgstr "El campo {field} tiene que tener una dirección URL"
+
+#: lms/classes/Validation.php:2228
+msgid "The {field} field has to be either true or false"
+msgstr "El campo {field} tiene que ser verdadero o falso"
+
+#: lms/classes/Validation.php:2246
+msgid "The {field} field is invalid"
+msgstr "El campo {field} no es válido"
+
+#: lms/classes/Validation.php:2216 lms/classes/Validation.php:2249
+msgid "The {field} field is required"
+msgstr "Se requiere el campo {field}"
+
+#: lms/classes/Validation.php:2221
+msgid "The {field} field may only contain letters"
+msgstr "El campo {field} sólo puede contener letras"
+
+#: lms/classes/Validation.php:2224
+msgid "The {field} field may only contain letters and dashes"
+msgstr "El campo {field} sólo puede contener letras y guiones"
+
+#: lms/classes/Validation.php:2222
+msgid "The {field} field may only contain letters and numbers"
+msgstr "El campo {field} sólo puede contener letras y números"
+
+#: lms/classes/Validation.php:2225
+msgid "The {field} field may only contain letters and spaces"
+msgstr "El campo {field} sólo puede contener letras y espacios"
+
+#: lms/classes/Validation.php:2223
+msgid "The {field} field may only contain letters, numbers and spaces"
+msgstr "El campo {field} sólo puede contener letras, números y espacios"
+
+#: lms/classes/Validation.php:2226
+msgid "The {field} field must be a number"
+msgstr "El campo {field} debe tener un número"
+
+#: lms/classes/Validation.php:2229
+msgid "The {field} field must be a number with a decimal point (float)"
+msgstr "El campo {field} debe tener un número con un punto decimal (float)"
+
+#: lms/classes/Validation.php:2227
+msgid "The {field} field must be a number without a decimal"
+msgstr "El campo {field} debe tener un número sin un decimal"
+
+#: lms/classes/Validation.php:2217
+msgid "The {field} field must be a valid email address"
+msgstr "El campo {field} debe ser una dirección de email válida"
+
+#: lms/classes/Validation.php:2243
+msgid ""
+"The {field} field needs to be a numeric value, equal to, or higher than "
+"{param}"
+msgstr ""
+"El campo {field} debe tener un valor numérico, igual o superior a {param}"
+
+#: lms/classes/Validation.php:2244
+msgid ""
+"The {field} field needs to be a numeric value, equal to, or lower than "
+"{param}"
+msgstr ""
+"El campo {field} debe tener un valor numérico, igual o inferior a {param}"
+
+#: lms/classes/Validation.php:2232
+msgid "The {field} field needs to be a valid IP address"
+msgstr "El campo {field} debe tener una dirección IP válida"
+
+#: lms/classes/Validation.php:2252
+msgid "The {field} field needs to be a valid Phone Number"
+msgstr "El campo {field} debe tener un número de teléfono válido"
+
+#: lms/classes/Validation.php:2241
+msgid "The {field} field needs to be a valid street address"
+msgstr "El campo {field} debe tener una dirección de calle válida"
+
+#: lms/classes/Validation.php:2219
+msgid "The {field} field needs to be at least {param} characters"
+msgstr "El campo {field} debe tener al menos {param} caracteres"
+
+#: lms/classes/Validation.php:2220
+msgid "The {field} field needs to be exactly {param} characters"
+msgstr "El campo {field} debe tener exactamente {param} caracteres"
+
+#: lms/classes/Validation.php:2218
+msgid "The {field} field needs to be {param} characters or less"
+msgstr "El campo {field} debe tener {param} caracteres o menos"
+
+#: lms/classes/Validation.php:2235
+msgid "The {field} field needs to contain a valid GUID"
+msgstr "El campo {field} debe contener un GUID válido"
+
+#: lms/classes/Validation.php:2251
+msgid "The {field} field needs to contain a valid IBAN"
+msgstr "El campo {field} debe contener un código IBAN válido"
+
+#: lms/classes/Validation.php:2233
+msgid "The {field} field needs to contain a valid IPv4 address"
+msgstr "El campo {field} debe contener una dirección IPv4 válida"
+
+#: lms/classes/Validation.php:2234
+msgid "The {field} field needs to contain a valid IPv6 address"
+msgstr "El campo {field} debe contener una dirección IPv6 válida"
+
+#: lms/classes/Validation.php:2254
+msgid "The {field} field needs to contain a valid JSON format string"
+msgstr "El campo {field} debe contener una cadena de formato JSON válida"
+
+#: lms/classes/Validation.php:2253
+msgid "The {field} field needs to contain a value with valid format"
+msgstr "El campo {field} debe contener un valor con formato válido"
+
+#: lms/classes/Validation.php:2245
+msgid "The {field} field needs to have an age greater than or equal to {param}"
+msgstr "El campo {field} necesita tener una edad mayor o igual a {param}"
+
+#: lms/classes/Validation.php:2247
+msgid "The {field} field needs to start with {param}"
+msgstr "El campo {field} debe comenzar con {param}"
+
+#: lms/classes/Validation.php:2257
+msgid "The {field} fields needs to be an array with a size equal to {param}"
+msgstr ""
+"Los campos {field} deben tener una matriz con un tamaño igual a {param}"
+
+#: lms/classes/Validation.php:2255
+msgid ""
+"The {field} fields needs to be an array with a size, equal to, or higher "
+"than {param}"
+msgstr ""
+"Los campos {field} deben tener una matriz con un tamaño, igual o superior a "
+"{param}"
+
+#: lms/classes/Validation.php:2256
+msgid ""
+"The {field} fields needs to be an array with a size, equal to, or lower than "
+"{param}"
+msgstr ""
+"Los campos {field} deben tener una matriz con un tamaño, igual o inferior a "
+"{param}"
+
+#: lms/classes/Validation.php:2236
+msgid "The {field} is not a valid credit card number"
+msgstr "El {field} no es un número de tarjeta de crédito válido"
+
+#: lms/classes/Validation.php:2239
+msgid "The {field} is not a valid option"
+msgstr "El {field} no es una opción válida"
+
+#: lms/classes/Validation.php:2263
+msgid "The {field} is not a valid twitter handle"
+msgstr "El {field} no es un identificador de Twitter válido"
+
+#: lms/classes/Validation.php:2242
+msgid "The {field} must be a valid date"
+msgstr "El {field} debe tener una fecha válida"
+
+#: lms/classes/Validation.php:2237
+msgid "The {field} should be a full name"
+msgstr "El {field} debe tener un nombre completo"
+
+#: lms/classes/Validation.php:2260
+msgid "The {field} should be a valid digit in Persian/Dari or Arabic format"
+msgstr "El {field} debe tener un dígito válido en formato persa/Dari o Árabe"
+
+#: lms/classes/Validation.php:2259
+msgid ""
+"The {field} should be a valid English, Persian/Dari/Pashtu or Arabic name"
+msgstr ""
+"El {field} debe tener un nombre válido en inglés, persa/Dari/Pashtu o Árabe"
+
+#: lms/classes/Validation.php:2258
+msgid "The {field} should be a valid Persian/Dari or Arabic name"
+msgstr "El {field} debe tener un nombre válido de Persa/Dari o Árabe"
+
+#: lms/classes/Validation.php:2262
+msgid "The {field} should be a valid text in Pashtu format"
+msgstr "El {field} debe tener un texto válido en formato pashtu"
+
+#: lms/classes/Validation.php:2261
+msgid "The {field} should be a valid text in Persian/Dari or Arabic format"
+msgstr "El {field} debe tener un texto válido en formato persa/Dari o Árabe"
+
+#: lms/classes/Validation.php:2231
+msgid "The {field} URL does not exist"
+msgstr "La URL de {field} no existe"
+
+#: settings/main_settings/general.php:43
+msgid "This controls the position of the currency symbol."
+msgstr "Controla la posición del símbolo de la divisa."
+
+#: settings/main_settings/general.php:32
+msgid ""
+"This controls what currency prices are listed at in the catalog and which "
+"currency gateways will take payments in."
+msgstr ""
+"Esto controla en qué precios de divisas se enumeran en el catálogo y qué "
+"pasarelas de divisas aceptarán pagos."
+
+#: settings/main_settings/general.php:57
+msgid "This sets the decimal separator of displayed prices."
+msgstr "Esto establece el separador decimal de los precios mostrados."
+
+#: settings/main_settings/general.php:65
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr ""
+"Esto establece el número de puntos decimales que se muestran en los precios "
+"mostrados."
+
+#: settings/main_settings/general.php:50
+msgid "This sets the thousand separator of displayed prices."
+msgstr "Esto establece el separador de mil de los precios mostrados."
+
+#: settings/questions_v2/tpls/add_new_qb.php:4
+msgid ""
+"This type of question is not a question in itself. A bank is just a group of "
+"questions from a certain category. Questions from this category will be "
+"shown in a separate block, with the group name you will write below."
+msgstr ""
+"Este tipo de pregunta no es una pregunta en sí misma. Un banco es solo un "
+"grupo de preguntas de una determinada categoría. Las preguntas de esta "
+"categoría se mostrarán en un bloque separado, con el nombre del grupo que "
+"escribirá a continuación."
+
+#: settings/main_settings/general.php:47
+msgid "Thousands Separator"
+msgstr "Separador de Miles"
+
+#: settings/lms_metaboxes.php:252
+msgid "Time limit"
+msgstr "Plazo"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:21
+#: visual_composer/modules/stm_lms_courses_grid.php:33
+#: visual_composer/modules/stm_lms_courses_carousel.php:24
+#: lms/classes/helpers.php:585
+#: elementor/widgets/stm_lms_google_classroom.php:94
+#: elementor/widgets/stm_lms_certificate_checker.php:94
+#: elementor/widgets/stm_lms_instructors_carousel.php:95
+#: elementor/widgets/stm_lms_courses_grid.php:110
+#: elementor/widgets/stm_lms_course_bundles.php:94
+#: elementor/widgets/stm_lms_courses_carousel.php:94
+msgid "Title"
+msgstr "Título"
+
+#: visual_composer/modules/stm_lms_instructors_carousel.php:56
+#: visual_composer/modules/stm_lms_courses_carousel.php:29
+#: elementor/widgets/stm_lms_instructors_carousel.php:160
+#: elementor/widgets/stm_lms_courses_carousel.php:104
+msgid "Title color"
+msgstr "Color del título"
+
+#: settings/lms_wpcfto_ajax.php:227
+msgid "Title is required"
+msgstr ""
+
+#: lms/widgets/popular.widget.php:141
+msgid "Title:"
+msgstr "Título:"
+
+#: stm-lms-templates/stm-lms-certificates-generator.php:59
+msgid ""
+"To qualify for a Certificate, you must get a passing grade of %s in the "
+"overall weighting."
+msgstr ""
+"Para calificar para un Certificado, debe obtener una calificación "
+"aprobatoria de %s en la ponderación general."
+
+#: lms/classes/user.php:1529
+msgid "To reset your password, visit the following address:"
+msgstr "Para restablecer su contraseña, visite la siguiente dirección:"
+
+#: stm-lms-templates/account/public/instructor_parts/fast_message.php:20
+msgid "To: <span>%s</span>"
+msgstr "A: <span> %s </span>"
+
+#: lms/classes/order.php:143
+msgid "Total"
+msgstr "Total"
+
+#: lms/views/statistics/statistics.php:58
+msgid "Total Amount"
+msgstr "Monto total"
+
+#: lms/views/payout/meta-box-payout-data.php:186
+msgid "Total Amounts"
+msgstr "Montos totales"
+
+#: lms/views/payout/meta-box-payout-data.php:147
+msgid "Total Price"
+msgstr "Precio total"
+
+#: lms/classes/user.php:1003
+msgid "Total Reviews"
+msgstr "Reseñas totales"
+
+#: stm-lms-templates/checkout/payment.php:13
+msgid "Total: %s"
+msgstr "Total: %s"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:41
+msgid "Total: <strong>%s Courses</strong>"
+msgstr ""
+
+#: lms/classes/models/StmLmsPayout.php:149
+#: lms/views/payout/meta-box-payout-data.php:86
+msgid "Transaction"
+msgstr "Transacción"
+
+#: lms/helpers.php:786
+msgid "Trial Courses"
+msgstr "Cursos de prueba"
+
+#: stm-lms-templates/questions/true_false.php:11
+#: stm-lms-templates/questions/answers/true_false.php:35
+msgid "True"
+msgstr ""
+
+#: settings/lms_metaboxes.php:453
+#: settings/questions_v1/components/questions.php:48
+msgid "True or False"
+msgstr "Verdadero o Falso"
+
+#: settings/questions_v2/field.php:29
+msgid "True or false"
+msgstr "Verdadero o falso"
+
+#: stm-lms-templates/wizard/views/steps/single_course.php:34
+msgid ""
+"Turn on the courses’ tabs display to improve the navigation for users and to "
+"show additional information. The tabs include Description, Curriculum, FAQ, "
+"Announcement, Reviews."
+msgstr ""
+"Active la visualización de las pestañas de los cursos para mejorar la "
+"navegación de los usuarios y mostrar información adicional. Las pestañas "
+"incluyen Descripción, Currículo, Preguntas frecuentes, Anuncio, Revisiones."
+
+#: lms/classes/user.php:959
+#: stm-lms-templates/account/private/edit_account/socials.php:41
+msgid "Twitter"
+msgstr "Twitter"
+
+#: stm-lms-templates/account/private/add_student/main.php:66
+msgid "Type students emails"
+msgstr "Escriba correos electrónicos de estudiantes"
+
+#: elementor/widgets/stm_lms_courses_categories.php:150
+msgid "Typography"
+msgstr "Tipografía"
+
+#: stm-lms-templates/wizard/views/steps/single_course.php:101
+msgid "Udemy"
+msgstr "Udemy"
+
+#: lms/helpers.php:755
+msgid "Udemy Importer"
+msgstr "Importador de Udemy"
+
+#: lms/classes/models/StmLmsPayout.php:309
+msgid "Uninstalling completed successfully."
+msgstr "Desinstalación completada con éxito."
+
+#: libraries/paypal/includes/classes/PayPal.php:152
+msgid "United States dollar USD"
+msgstr "Dólar estadounidense USD"
+
+#: stm-lms-templates/stm-lms-go-pro.php:38
+msgid "Up to 25 Sites"
+msgstr "Hasta 25 sitios"
+
+#: stm-lms-templates/stm-lms-go-pro.php:33
+msgid "Up to 5 Sites"
+msgstr "Hasta 5 sitios"
+
+#: db/tables_updater.php:40
+msgid "Update"
+msgstr "Actualización"
+
+#: post_type/taxonomies.php:37
+msgid "Update Course category"
+msgstr "Actualizar la categoría de Curso"
+
+#: post_type/taxonomies.php:60
+msgid "Update Question category"
+msgstr "Actualizar la categoría de la pregunta"
+
+#: db/tables_updater.php:44
+msgid "Updating database..."
+msgstr "Actualizando la base de datos..."
+
+#: settings/main_settings.php:102 settings/main_settings.php:103
+#: stm-lms-templates/account/private/instructor_parts/courses.php:37
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: settings/questions_v2/tpls/image.php:15
+#: settings/questions_v2/tpls/image.php:32
+msgid "Upload"
+msgstr "Subir"
+
+#: settings/main_settings/course.php:209
+msgid ""
+"Upload a custom image, to show in the notification of a successful course "
+"completion."
+msgstr ""
+"Cargue una imagen personalizada para mostrarla en la notificación de la "
+"finalización exitosa del curso."
+
+#: settings/main_settings/course.php:199
+msgid "Upload a custom image, to show in the notification of failed course."
+msgstr ""
+"Cargue una imagen personalizada, para mostrarla en la notificación del curso "
+"fallido."
+
+#: settings/main_settings/course.php:198
+msgid "Upload an image for course completion notification (failed courses)"
+msgstr ""
+"Cargar una imagen para la notificación de finalización del curso (cursos "
+"reprobados)"
+
+#: settings/main_settings/course.php:208
+msgid "Upload an image for course completion notification (passed courses)"
+msgstr ""
+"Cargar una imagen para la notificación de finalización del curso (cursos "
+"aprobados)"
+
+#: lms/helpers.php:438
+msgid "Upload Course File"
+msgstr "Cargar archivo del curso"
+
+#: settings/media_library/media_library_input.php:10
+msgid "Upload file"
+msgstr "Subir archivo"
+
+#: lms/helpers.php:494
+msgid "Upload Lesson File"
+msgstr "Cargar archivo de lección"
+
+#: settings/media_library/media_library_input.php:22
+msgid "Uploading"
+msgstr "Cargar"
+
+#: lms/helpers.php:442 lms/helpers.php:498
+msgid "Uploading file"
+msgstr "Carga de archivos"
+
+#: settings/questions_v2/tpls/question_data.php:103
+msgid "Uploading images with the same dimensions is highly recommended! "
+msgstr ""
+
+#: settings/main_settings/quiz.php:43
+msgid "URL (Text Input)"
+msgstr "URL (entrada de texto)"
+
+#: lms/helpers.php:827
+msgid ""
+"Use assignments to test your students, create interesting tasks for them, "
+"ask them to upload essays."
+msgstr ""
+"Use las tareas para evaluar a sus estudiantes, crear tareas interesantes "
+"para ellos, pedirles que carguen ensayos."
+
+#: lms/helpers.php:850
+msgid ""
+"Use the help of a colleague and assign one more instructor to the same "
+"course to share responsibilities."
+msgstr ""
+"Utilice la ayuda de un colega y asigne un instructor más al mismo curso para "
+"compartir responsabilidades."
+
+#: lms/helpers.php:797
+msgid ""
+"Use this tool to provide a proper flow of the education process, regulate "
+"the sequence of the lessons, in order, by date or in your own sequence."
+msgstr ""
+"Utilice esta herramienta para proporcionar un flujo adecuado del proceso "
+"educativo, regular la secuencia de las lecciones, en orden, por fecha o en "
+"su propia secuencia."
+
+#: lms/classes/order.php:139
+#: lms/classes/models/admin/StmStatisticsListTable.php:156
+msgid "User"
+msgstr "Usuario"
+
+#: lms/classes/instructors.php:610
+msgid "User %s with id - %s, registered as Instructor."
+msgstr "Usuario %s con id - %s, registrado como Instructor."
+
+#: lms/classes/instructors.php:683
+msgid ""
+"User %s with id - %s, registered as Instructor. Degree - %s. Expertize - %s"
+msgstr ""
+"Usuario %s con id - %s, registrado como Instructor. Grado - %s. Pericia - %s"
+
+#: lms/classes/instructors.php:599
+msgid "User %s with id - %s, wants to become an Instructor."
+msgstr "El usuario %s con id - %s, quiere convertirse en instructor."
+
+#: lms/classes/instructors.php:671
+msgid ""
+"User %s with id - %s, wants to become an Instructor. Degree - %s. Expertize -"
+" %s"
+msgstr ""
+"Usuario %s con id - %s, quiere ser Instructor. graduado - %s. Experto - %s"
+
+#: settings/main_settings/routes.php:15 settings/page_generator/api/get.php:5
+#: stm-lms-templates/wizard/views/steps/general.php:21
+msgid "User Account"
+msgstr "Cuenta de usuario"
+
+#: lms/classes/subscriptions.php:360
+msgid ""
+"User can enroll several courses after subscription. Enter \"unlim\" to grant "
+"access to an unlimited number of courses"
+msgstr ""
+"El usuario puede inscribir varios cursos después de la suscripción. Ingrese "
+"\"unlim\" para otorgar acceso a un número ilimitado de cursos"
+
+#: lms/classes/subscriptions.php:419
+msgid "User can enroll several courses from chosen category after subscription"
+msgstr ""
+"El usuario puede inscribir varios cursos de la categoría elegida después de "
+"la suscripción"
+
+#: settings/manage_users/main.php:12
+msgid "User email"
+msgstr "Correo electrónico del usuario"
+
+#: user_manager/UserManager.UserQuiz.php:90
+msgid "User has no answers on this quiz."
+msgstr "El usuario no tiene respuestas en este cuestionario."
+
+#: settings/manage_users/main.php:10
+msgid "User ID"
+msgstr "ID de usuario"
+
+#: settings/manage_users/main.php:13
+msgid "User Info"
+msgstr "Información del usuario"
+
+#: settings/main_settings/routes.php:21 settings/page_generator/api/get.php:6
+#: stm-lms-templates/wizard/views/steps/general.php:22
+msgid "User Public Account"
+msgstr "Cuenta pública de usuario"
+
+#: settings/lms_metaboxes.php:493
+msgid "User Review mark"
+msgstr "Marca de evaluación del usuario"
+
+#: settings/lms_metaboxes.php:488
+msgid "User Reviewed"
+msgstr "Usuario evaluado"
+
+#: settings/manage_users/main.php:11 lms/classes/user.php:196
+#: stm-lms-templates/account/v1/login.php:38
+#: stm-lms-templates/account/v1/register.php:39
+#, fuzzy
+msgid "Username"
+msgstr "Apellido"
+
+#. %s: user login
+#: lms/classes/user.php:1527
+msgid "Username: %s"
+msgstr "Nombre de usuario: %s"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:102
+msgid "Verifying webhooks"
+msgstr "Verificando webhooks"
+
+#: stm-lms-templates/stm-lms-go-pro.php:169
+msgid "Version:"
+msgstr ""
+
+#: announcement/main.php:93
+msgid "Version: %s"
+msgstr "Versión: %s"
+
+#: settings/lms_metaboxes.php:349 settings/media_library/main.php:37
+#: stm-lms-templates/course/parts/info.php:42
+#: stm-lms-templates/course/parts/tabs/curriculum.php:68
+msgid "Video"
+msgstr "Video"
+
+#: settings/lms_metaboxes.php:115
+msgid "Video Duration"
+msgstr "Duración del Video"
+
+#: post_type/posts.php:196
+msgid "View %s"
+msgstr "Ver %s"
+
+#: stm-lms-templates/vc_templates/templates/stm_lms_instructors_carousel.php:61
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_grid.php:43
+#: stm-lms-templates/vc_templates/templates/stm_lms_courses_carousel.php:144
+msgid "View all"
+msgstr "Ver todo"
+
+#: stm-lms-templates/global/all_courses_link.php:4
+msgid "View all courses"
+msgstr "Ver todos los cursos"
+
+#: stm-lms-templates/stm-lms-go-pro.php:174
+msgid "View Changelog"
+msgstr "Ver registro de cambios"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:130
+msgid "View course"
+msgstr "Ver curso"
+
+#: lms/helpers.php:443 lms/helpers.php:499
+msgid "View file"
+msgstr "Ver archivo"
+
+#: settings/questions_v2/tpls/question_data.php:93
+msgid "View Type"
+msgstr "Tipo de vista"
+
+#: db/tables_updater.php:32
+msgid ""
+"We added new features, and need to update your database to latest version."
+msgstr ""
+"Agregamos nuevas características y necesitamos actualizar su base de datos a "
+"la última versión."
+
+#: libraries/paypal/includes/admin/views/settings/index.php:107
+msgid "Web hook url"
+msgstr "Web hook url"
+
+#: libraries/paypal/includes/admin/views/settings/index.php:60
+#: libraries/paypal/includes/admin/views/settings/index.php:63
+#: libraries/paypal/includes/admin/views/settings/index.php:66
+msgid "Webhook ID"
+msgstr "ID de Webhook"
+
+#: lms/helpers.php:44
+msgid "week"
+msgstr "semana"
+
+#: stm-lms-templates/wizard/views/steps/profiles.php:22
+msgid ""
+"When enabled, you need to moderate all the instructors and change the user "
+"role manually."
+msgstr ""
+"Cuando está habilitado, debe moderar a todos los instructores y cambiar el "
+"rol de usuario manualmente."
+
+#: settings/demo_import/tpls/field.php:36
+msgid ""
+"When you click Import Demo Course all demo courses, quizzes and lessons will "
+"be imported to your site"
+msgstr ""
+"Al hacer clic en Importar curso de demostración, todos los cursos de "
+"demostración, cuestionarios y lecciones se importarán a su sitio"
+
+#: lms/widgets/main.php:21
+msgid "Widgets in this area will be shown on STM LMS Pages."
+msgstr "Los widgets de esta área se mostrarán en las páginas de LMS STM ."
+
+#: lms/classes/cart.php:228
+msgid "Wire transfer"
+msgstr "Transferencia bancaria"
+
+#: settings/main_settings/routes.php:27 lms/classes/page_routes.php:249
+#: settings/page_generator/api/get.php:7
+#: stm-lms-templates/wizard/views/steps/general.php:23
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+#: stm-lms-templates/account/private/parts/wishlist.php:22
+msgid "Wishlist is empty"
+msgstr "La lista de deseos está vacía"
+
+#: stm-lms-templates/account/private/not_logged/wishlist.php:13
+msgid "Wishlist is empty. <a href=\"%s\">View courses</a>"
+msgstr ""
+
+#: lms/classes/user.php:898 stm-lms-templates/global/wish-list.php:17
+#: stm-lms-templates/global/wish-list.php:22
+msgid "Wishlisted"
+msgstr "Agregado a Lista de deseos"
+
+#: stm-lms-templates/wizard/views/steps/general.php:39
+msgid "WooCommerce Checkout"
+msgstr "Pago de WooCommerce"
+
+#: stm-lms-templates/stm-lms-go-pro.php:188
+msgid "Wordpress Version:"
+msgstr "Versión de Wordpress:"
+
+#: stm-lms-templates/lesson/comments.php:140
+msgid "Write your question here"
+msgstr "Escribe aquí tu pregunta"
+
+#: settings/lms_wpcfto_ajax.php:247
+msgid "Wrong post type"
+msgstr ""
+
+#: lms/classes/user.php:167 lms/classes/guest_checkout.php:145
+msgid "Wrong Username or Password"
+msgstr "Nombre de usuario o contraseña incorrecta"
+
+#: lms/helpers.php:42
+msgid "year"
+msgstr "año"
+
+#: lms/classes/comments.php:145
+msgid "You already added this comment"
+msgstr "Ya has añadido este comentario"
+
+#: lms/classes/reviews.php:201
+msgid "You already left review."
+msgstr "Ya dejaste un comentario."
+
+#: lms/classes/reviews.php:288
+msgid "You can't leave review for your own course"
+msgstr "No puedes dejar reseñas para tu propio curso"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:82
+msgid "You do not have a certificate yet."
+msgstr "Todavía no tiene un certificado."
+
+#: stm-lms-templates/stm-lms-go-pro.php:161
+msgid ""
+"You get <a href=\"%1$s\"><span %2$s>1 year</span> updates and support</a> "
+"from the date of purchase. We offer 30 days Money Back Guarantee based on <a "
+"href=\"%1$s\">Refund Policy</a>."
+msgstr ""
+
+#: stm-lms-templates/global/completed_info.php:20
+msgid "You have completed the course:"
+msgstr "Has completado el curso:"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:70
+msgid "You have NOT completed the course"
+msgstr "NO has completado el curso"
+
+#: stm-lms-templates/lesson/finish_score_popup.php:71
+msgid "You have successfully completed the course"
+msgstr "Has completado con éxito el curso"
+
+#: stm-lms-templates/wizard/views/steps/general.php:46
+msgid ""
+"You need to install the WooCommerce plugin and set the Cart and Checkout "
+"pages."
+msgstr ""
+"Debe instalar el complemento WooCommerce y configurar las páginas Carrito y "
+"Pago."
+
+#: lms/classes/subscriptions.php:420
+msgid "You need to select courses category for this plan!"
+msgstr ""
+
+#: lms/classes/user.php:481
+msgid "You successfully register on site."
+msgstr "Te registraste con éxito en el sitio."
+
+#: stm-lms-templates/account/v1/use_membership.php:43
+msgid ""
+"You will be able to enroll courses after your membership has been approved."
+msgstr ""
+
+#: lms/classes/user.php:1318
+msgid "Your Application is under submission."
+msgstr "Se está revisando tu solicitud."
+
+#: lms/classes/comments.php:111
+msgid "Your comment was added."
+msgstr "Tu comentario fue añadido."
+
+#: lms/classes/instructors.php:81
+msgid "Your course - {{course_title}} was approved, and now its live on site"
+msgstr ""
+"Su curso - {{course_title}} fue aprobado, y ahora está en vivo en el sitio"
+
+#. %s: membership name
+#: stm-lms-templates/account/v1/use_membership.php:15
+msgid "Your current membership is \"%s\""
+msgstr "Tu membresía actual es \" %s\""
+
+#: stm-lms-templates/account/private/chat/chat.php:37
+msgid "Your message"
+msgstr "Tu mensaje"
+
+#: lms/classes/mails.php:38
+msgid "Your Order Accepted."
+msgstr "Tu orden es aceptada."
+
+#: stm-lms-templates/lesson/curriculum.php:158
+msgid "Your progress"
+msgstr "Su progreso"
+
+#: stm-lms-templates/account/private/parts/become_instructor_info.php:16
+msgid "Your request to become an Instructor has been declined"
+msgstr "Su solicitud para convertirse en Instructor ha sido rechazada"
+
+#: lms/classes/reviews.php:192
+msgid "Your review is moderating."
+msgstr "Su comentario es moderada."
+
+#: stm-lms-templates/lesson/finish_score_popup.php:64
+msgid "Your score"
+msgstr "Su puntuación"
+
+#: lms/classes/instructors.php:969
+msgid "Your submission has been approved"
+msgstr "Su presentación ha sido aprobada"
+
+#: lms/classes/instructors.php:983
+msgid "Your submission has been rejected"
+msgstr "Su envío ha sido rechazado"
+
+#: lms/classes/user.php:1683
+msgid "Your token expired, try again"
+msgstr "Tu token ha caducado, inténtalo de nuevo"
+
+#: lms/helpers.php:863
+msgid "Zoom Conference"
+msgstr "Conferencia Zoom"
+
+#: stm-lms-templates/course/parts/tabs/curriculum.php:77
+msgid "Zoom meeting"
+msgstr "Reunión por Zoom"
+
+#: lms/classes/user.php:1071
+msgid "Zoom.us settings"
+msgstr "configuración de Zoom.us"
+
+#: stm-lms-templates/stm-lms-certificates-generator.php:32
+msgid "{username}"
+msgstr "{username}"
+
+#: lms/helpers.php:890
+msgid ""
+"Сreate and design your own certificates to award them to students after the "
+"course completion."
+msgstr ""
+"Сreate y diseña tus propios certificados para otorgarlos a los estudiantes "
+"después de la finalización del curso."
+
+#: wizard/main.php:75
+msgid "Сurriculum"
+msgstr "Сurriculum"

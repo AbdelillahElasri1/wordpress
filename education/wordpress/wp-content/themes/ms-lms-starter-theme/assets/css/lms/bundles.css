@@ -1,0 +1,6 @@
+.theme-ms-lms-starter-theme .stm_lms_my_bundle__select_course_image img {
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+.theme-ms-lms-starter-theme .stm_lms_my_course_bundles__pagination li {
+  list-style-type: none; }
