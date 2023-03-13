@@ -1,0 +1,56 @@
+.getting-started__header {
+    background: #fff;
+    padding: 15px;
+    float: left;
+    width: -moz-available;          /* WebKit-based browsers will ignore this. */
+    width: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+    width: fill-available;
+    margin-bottom: 10px;
+}
+.getting-started__header h2,.getting-started__header p {
+    margin: 0;
+}
+.getting-started .container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.getting-started .col-md-9 {
+    float: left;
+    width: 65%;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 0 0 1px rgb(200 215 225 / 50%), 0 1px 2px #ddd;
+}
+.getting-started .col-md-3 {
+    width: 28%;
+    float: right;
+    background: #fff;
+    padding: 15px;
+    box-shadow: 0 0 0 1px rgb(200 215 225 / 50%), 0 1px 2px #ddd;
+}
+.getting-started__header .col-md-10 {
+    float: left;
+    width: 75%;
+}
+.getting-started__header .col-md-2 {
+    width: 20%;
+    float: right;
+}
+.btn_box {
+    text-align: right;
+}
+.wrap.getting-started .buynow {
+    background: #28a745;
+    border-color: #28a745;
+}
+.wrap.getting-started .livedemo {
+    background: #d39e00;
+    border-color: #d39e00;
+}
+.wrap.getting-started .docs {
+    background: #bd2130;
+    border-color: #bd2130;
+}
+.pro-links {
+    margin: 0px -2px;
+}
